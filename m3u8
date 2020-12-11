@@ -11,18 +11,6 @@ http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/
 http://iptv.zqstream.com/zqdrama-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Zq drama sd
 http://iptv.zqstream.com/zqdrama-gen/tracks-v2a1/mono.m3u8?token=vQqPVtl-k0
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1", hbo
-https://tv.wajabae.com:443/uji/hbo.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1", hbo family
-https://tv.wajabae.com:443/uji/hbo_family.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1", hbo hits 
-https://tv.wajabae.com:443/uji/hbo_hits.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1", hbo Signature 
-https://tv.wajabae.com:443/uji/hbo_signature.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1", red
-https://tv.wajabae.com:443/uji/hbo_red.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",cinemax
-https://tv.wajabae.com:443/uji/hb0_max.m3u8
 #EXTINF:-1  tvg-logo="TEST" group-title="FilmPremium1",HBO MULTI BAHASA & SUBSTITLE
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/hbo_multi_bahasa.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
