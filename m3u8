@@ -30,8 +30,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/cinemax_multi_bahasa.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1  tvg-logo="TEST" group-title="FilmPremium1",HBO SUBS IND
-http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
-#EXTINF:-1  tvg-logo="TEST" group-title="FilmPremium1",HBO SUBS IND
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONew.m3u8
 http://nonton.site:8888/ko Amat/123456/4828
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",RED SUBS IND
@@ -47,26 +45,10 @@ http://nonton.site:8888/ko Amat/123456/4831
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO SIGN SUBS IND
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",FOX Action MOVIES
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28670?play_token=wIFd4zLxUR&token=QhVcUhcJRggXXQUAAgMGAlcEAQJRVgZTVgcMUVcBVlUOBwRVAVlVBVBGGURBEkJRAFtpWgVEXlFdUgJRSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",FOX Family Movies
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28678?play_token=dL6k4mXLU9&token=QhVcUhcJRggXAgJRAQQHAlcGVwQAUwVUBFJRVwJUVVABD1ZRUwAAAgJGGURBEkJRAFtpWgVEXlFdUgJZSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBWABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",FOX Movies HD
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28676?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Fox Movies 
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28669?play_token=dL6k4mXLU9&token=QhVcUhcJRggXAgJRAQQHAlcGVwQAUwVUBFJRVwJUVVABD1ZRUwAAAgJGGURBEkJRAFtpWgVEXlFdUgJZSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBWABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Fx
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28671?play_token=dL6k4mXLU9&token=QhVcUhcJRggXAgJRAQQHAlcGVwQAUwVUBFJRVwJUVVABD1ZRUwAAAgJGGURBEkJRAFtpWgVEXlFdUgJZSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBWABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Fox
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28672?play_token=dL6k4mXLU9&token=QhVcUhcJRggXAgJRAQQHAlcGVwQAUwVUBFJRVwJUVVABD1ZRUwAAAgJGGURBEkJRAFtpWgVEXlFdUgJZSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBWABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",&Flix HD
-http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",&Prive
-http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",BLACK CINEMA
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",MOVIES X
@@ -96,18 +78,6 @@ http://210.210.155.66/h/h141/02.m3u8
 rtmp://58.200.131.2:1935/livetv/chctv
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",startv
 rtmp://58.200.131.2:1935/livetv/startv
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO
-https://alwa.lk21tvonlineid.com/hbo.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HITS
-https://alwa.lk21tvonlineid.com/hits.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2", HBO FAMILY
-https://alwa.lk21tvonlineid.com/family.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",SIGNATURE
-http://alwa.lk21tvonlineid.com/signature.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",RED HBO
-https://alwa.lk21tvonlineid.com/red.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",CINEMAX
-https://alwa.lk21tvonlineid.com/cinemax.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HD (Resolusi)
 http://me.zichannels.my.id/ch/hbo.m3u8 
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO Hits (Resolusi)
