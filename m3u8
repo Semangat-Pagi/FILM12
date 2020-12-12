@@ -71,8 +71,8 @@ http://45.126.83.51/uq2663/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",AXN
 http://210.210.155.35/session/c497acae-cdd4-11ea-934d-b82a72d63267/uq2663/h/h141/01.m3u8
 http://210.210.155.66/h/h141/02.m3u8
-
-
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",FOX ACTION MOVIES
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",chctv
 rtmp://58.200.131.2:1935/livetv/chctv
