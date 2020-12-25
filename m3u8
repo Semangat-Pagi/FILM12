@@ -311,3 +311,36 @@ http://harber.xyz/stream/usee-beritasatu-milik-harberkuy.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rrinet_small1.png?v=2.0.0.13" group-title="LOKAL USEE ZI",RRI NET TV
 http://harber.xyz/stream/usee-rrinet-milik-harberkuy.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Movie",CCM
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/44
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movie",Celestial Movies
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/45
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movie",Cinema World
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/46
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax FHD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/47
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie",Cinemax ID
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/48
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax SD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/49
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="Movie",FLIK HD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/50
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/FMN_%28Forget_Me_Not%29_Channel.png/200px-FMN_%28Forget_Me_Not%29_Channel.png" group-title="Movie",FMN
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/51
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies FHD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/52
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies HD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/53
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="Movie",FOX Crime HD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/54
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="Movie",FOX Family Movies ID
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/55
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="Movie",FOX HD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/56
+#EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="Movie",FOX Life HD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/57
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="Movie",FOX Movies HD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/58
