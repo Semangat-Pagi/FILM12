@@ -344,3 +344,25 @@ http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/56
 http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/57
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="Movie",FOX Movies HD
 http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/58
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO Family HD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/62
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movie",HBO Family SD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/63
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="Movie",HBO FHD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/64
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO HD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/65
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movie",HBO Hits FHD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/66
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits HD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/67
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="Movie",HBO Hits SD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/68
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO SD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/69
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature FHD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/70
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature HD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/71
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature SD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/72
