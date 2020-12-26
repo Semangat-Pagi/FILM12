@@ -66,14 +66,19 @@ http://bonetv.site:55555/bone/streaming/773
 https://newbonetv.xyz:443/m3u/Go-hbo-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/774
 #EXTINF:0 tvg-id="HBOSignature.mx" group-title="UseetvAll",HBO Signature
+https://newbonetv.xyz/m3u/Go-sig-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/775
 #EXTINF:0 tvg-id="HBOHits.in" group-title="UseetvAll",HBO Hits
+https://newbonetv.xyz/m3u/Go-hits-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/776
 #EXTINF:0 tvg-id="Hbofamily.br" group-title="UseetvAll",HBO Family
+https://newbonetv.xyz/m3u/Go-fam-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/777
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Cinemax by HBO
+https://newbonetv.xyz/m3u/Go-max-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/778
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",RED by HBO
+https://newbonetv.xyz/m3u/Go-red-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/779
 #EXTINF:0 tvg-id="fox-crime" group-title="UseetvAll",FOX
 http://bonetv.site:55555/bone/streaming/780
