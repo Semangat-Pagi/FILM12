@@ -81,7 +81,7 @@ http://bonetv.site:55555/bone/streaming/778
 https://newbonetv.xyz/m3u/Go-red-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/779
 #EXTINF:0 tvg-id="fox-crime" group-title="UseetvAll",FOX
-http://bonetv.site:55556/bone/streaming/780
+http://bonetv.site:-9980/bone/streaming/780
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",FOX Movies Premium
 http://bonetv.site:55555/bone/streaming/781
 #EXTINF:0 tvg-id="fox-crime" group-title="UseetvAll",FOX Crime
