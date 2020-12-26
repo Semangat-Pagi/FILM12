@@ -63,6 +63,7 @@ http://bonetv.site:55555/bone/streaming/772
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Jogja TV
 http://bonetv.site:55555/bone/streaming/773
 #EXTINF:0 tvg-id="HBOAdria.rs" group-title="UseetvAll",HBO
+https://newbonetv.xyz:443/m3u/Go-hbo-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/774
 #EXTINF:0 tvg-id="HBOSignature.mx" group-title="UseetvAll",HBO Signature
 http://bonetv.site:55555/bone/streaming/775
