@@ -640,68 +640,8 @@ http://bonetv.site:55555/bone/streaming/21
 http://bonetv.site:55555/bone/streaming/10
 #EXTINF:0 tvg-id="Golf.sp" group-title="UseetvAll",Golf
 http://bonetv.site:55555/bone/streaming/130
-#EXTINF:0 tvg-id="SkySportGolf.it" group-title="UseetvAll",Sky Sport Golf
-http://bonetv.site:55555/bone/streaming/995
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",live 6
-http://bonetv.site:55555/bone/streaming/996
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",LIVE 7
-http://bonetv.site:55555/bone/streaming/997
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",LIVE 5
-http://bonetv.site:55555/bone/streaming/998
-#EXTINF:0 tvg-id="PremierSports.uk" group-title="UseetvAll",Premiere Sport
-http://bonetv.site:55555/bone/streaming/999
-#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="UseetvAll",CBS SPORTS
-http://bonetv.site:55555/bone/streaming/1000
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="UseetvAll",Bein Sports US
-http://bonetv.site:55555/bone/streaming/1009
-#EXTINF:0 tvg-id="BBCBrit.pl" group-title="UseetvAll",Bbc brit
-http://bonetv.site:55555/bone/streaming/1011
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Boomerang ID
-http://bonetv.site:55555/bone/streaming/1012
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: Supersport Blitz FHD
-http://bonetv.site:55555/bone/streaming/1013
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Cricket FHD (AZ)
-http://bonetv.site:55555/bone/streaming/1014
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport PSL FHD (AZ)
-http://bonetv.site:55555/bone/streaming/1015
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Variety 4 FHD (AZ)
-http://bonetv.site:55555/bone/streaming/1016
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Premier League FHD
-http://bonetv.site:55555/bone/streaming/1017
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Variety 1
-http://bonetv.site:55555/bone/streaming/1018
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport PSL
-http://bonetv.site:55555/bone/streaming/1019
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Variety 2
-http://bonetv.site:55555/bone/streaming/1020
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Variety 3 FHD (ZA)
-http://bonetv.site:55555/bone/streaming/1021
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport LaLiga FHD
-http://bonetv.site:55555/bone/streaming/1022
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Variety 4
-http://bonetv.site:55555/bone/streaming/1023
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Grandstand
-http://bonetv.site:55555/bone/streaming/1024
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Tennis
-http://bonetv.site:55555/bone/streaming/1025
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Action
-http://bonetv.site:55555/bone/streaming/1026
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Cricket
-http://bonetv.site:55555/bone/streaming/1027
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Rugby
-http://bonetv.site:55555/bone/streaming/1028
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Golf
-http://bonetv.site:55555/bone/streaming/1029
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport MáXimo 1
-http://bonetv.site:55555/bone/streaming/1030
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport WWE
-http://bonetv.site:55555/bone/streaming/1031
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Premier League FHD (ZA)
-http://bonetv.site:55555/bone/streaming/1032
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Rugby FHD (ZW)
-http://bonetv.site:55555/bone/streaming/1033
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DSTV: SuperSport Events HD
-http://bonetv.site:55555/bone/streaming/1034
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",True Prem 2
+http://bonetv.site:55555/bone/streaming/1049
 #EXTINF:0 tvg-id="LIGTV.tr" group-title="UseetvAll",beIN SPORTS FHD 1 (hevc)
 http://bonetv.site:55555/bone/streaming/1035
 #EXTINF:0 tvg-id="LIGTV2.tr" group-title="UseetvAll",beIN SPORTS FHD 2 (hevc)
@@ -722,31 +662,17 @@ http://bonetv.site:55555/bone/streaming/1042
 http://bonetv.site:55555/bone/streaming/1043
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",beIN SPORTS FHD 10 (hevc)
 http://bonetv.site:55555/bone/streaming/1044
-#EXTINF:0 tvg-id="WorldFishingNetwork.ca" group-title="UseetvAll",World Fishing
-http://bonetv.site:55555/bone/streaming/1046
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="UseetvAll",Bein US
-http://bonetv.site:55555/bone/streaming/1047
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",ibz music
 http://bonetv.site:55555/bone/streaming/1048
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",True Prem 2
-http://bonetv.site:55555/bone/streaming/1049
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Optus Sport
-http://bonetv.site:55555/bone/streaming/1050
 #EXTINF:0 tvg-id="CBeebies.uk" group-title="UseetvAll",CBeebies
 http://bonetv.site:55555/bone/streaming/1052
 #EXTINF:0 tvg-id="BBCAmerica.us" group-title="UseetvAll",BBC America
 http://bonetv.site:55555/bone/streaming/1070
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",StarWorld premiere
-http://bonetv.site:55555/bone/streaming/1071
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Testeeee
 http://bonetv.site:55555/bone/streaming/1072
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",ufc2
 http://bonetv.site:55555/bone/streaming/1073
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",npo news
-http://bonetv.site:55555/bone/streaming/1075
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Wesal TV
 http://bonetv.site:55555/bone/streaming/971
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Astro Arena
-http://bonetv.site:55555/bone/streaming/1076
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",testert
 http://bonetv.site:55555/bone/streaming/1078
