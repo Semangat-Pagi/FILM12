@@ -86,6 +86,12 @@ http://bonetv.site:-9980/bone/streaming/780
 http://bonetv.site:55555/bone/streaming/781
 #EXTINF:0 tvg-id="fox-crime" group-title="UseetvAll",FOX Crime
 http://bonetv.site:55555/bone/streaming/784
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Fox action movies
+http://bonetv.site:55555/bone/streaming/6
+#EXTINF:0 tvg-id="fox-life" group-title="UseetvAll",Fox Life
+http://bonetv.site:55555/bone/streaming/5
+#EXTINF:0 tvg-id="fox-crime" group-title="UseetvAll",Fox
+http://bonetv.site:55555/bone/streaming/3
 #EXTINF:0 tvg-id="TVN.pl" group-title="UseetvAll",TvN
 http://bonetv.site:55555/bone/streaming/786
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TvN Movies
@@ -358,8 +364,6 @@ http://bonetv.site:55555/bone/streaming/1003
 http://bonetv.site:55555/bone/streaming/1004
 #EXTINF:0 tvg-id="DW.al" group-title="UseetvAll",DW
 http://bonetv.site:55555/bone/streaming/1005
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Uji Channel
-http://bonetv.site:55555/bone/streaming/1007
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Hits Movies
 http://bonetv.site:55555/bone/streaming/1010
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",ZQTV DRAMA
@@ -368,74 +372,24 @@ http://bonetv.site:55555/bone/streaming/1053
 http://bonetv.site:55555/bone/streaming/8
 #EXTINF:0 tvg-id="DisneyJunior.uk" group-title="UseetvAll",Disney Junior
 http://bonetv.site:55555/bone/streaming/26
-#EXTINF:0 tvg-id="nick-jr" group-title="UseetvAll",Nick Jr
-http://bonetv.site:55555/bone/streaming/28
-#EXTINF:0 tvg-id="natgeowild" group-title="UseetvAll",Nat Geo Wild
-http://bonetv.site:55555/bone/streaming/31
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Zee Bioskop
-http://bonetv.site:55555/bone/streaming/32
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Fight Sport
-http://bonetv.site:55555/bone/streaming/33
 #EXTINF:0 tvg-id="FoxSports3.ar" group-title="UseetvAll",Fox Sport 3
 http://bonetv.site:55555/bone/streaming/14
 #EXTINF:0 tvg-id="FOXsport2.nl" group-title="UseetvAll",Fox Sport 2
 http://bonetv.site:55555/bone/streaming/13
 #EXTINF:0 tvg-id="FoxSports.it" group-title="UseetvAll",Fox Sport 1
 http://bonetv.site:55555/bone/streaming/12
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Fox action movies
-http://bonetv.site:55555/bone/streaming/6
-#EXTINF:0 tvg-id="fox-life" group-title="UseetvAll",Fox Life
-http://bonetv.site:55555/bone/streaming/5
-#EXTINF:0 tvg-id="fox-crime" group-title="UseetvAll",Fox
-http://bonetv.site:55555/bone/streaming/3
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="UseetvAll",Bein 1
-http://bonetv.site:55555/bone/streaming/34
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="UseetvAll",Bein 2
-http://bonetv.site:55555/bone/streaming/35
-#EXTINF:0 tvg-id="nickelodeon-rus" group-title="UseetvAll",Nickelodeon
-http://bonetv.site:55555/bone/streaming/27
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Baik TV
 http://bonetv.site:55555/bone/streaming/11
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",&Flix
 http://bonetv.site:55555/bone/streaming/37
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",&Prive
 http://bonetv.site:55555/bone/streaming/38
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SuperSport PSL
-http://bonetv.site:55555/bone/streaming/39
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Superport Motorsport
-http://bonetv.site:55555/bone/streaming/40
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SuperSport Cricket
-http://bonetv.site:55555/bone/streaming/41
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Superport Tennis
-http://bonetv.site:55555/bone/streaming/42
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SuperSport Golf
-http://bonetv.site:55555/bone/streaming/43
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SuperSport Variety 4
-http://bonetv.site:55555/bone/streaming/44
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SuperSport Rugby
-http://bonetv.site:55555/bone/streaming/45
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SuperSport Premier League
-http://bonetv.site:55555/bone/streaming/46
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SuperSport Variety 3
-http://bonetv.site:55555/bone/streaming/47
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SuperSport Variety 2
-http://bonetv.site:55555/bone/streaming/48
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SuperSport Variety 1
-http://bonetv.site:55555/bone/streaming/49
 #EXTINF:0 tvg-id="ESPNHD.us" group-title="UseetvAll",ESPN 1
 http://bonetv.site:55555/bone/streaming/50
 #EXTINF:0 tvg-id="ESPN2.mx" group-title="UseetvAll",ESPN 2
 http://bonetv.site:55555/bone/streaming/51
-#EXTINF:0 tvg-id="Espn.br" group-title="UseetvAll",ESPN BRAZIL
-http://bonetv.site:55555/bone/streaming/52
 #EXTINF:0 tvg-id="ESPNU.us" group-title="UseetvAll",ESPN U
 http://bonetv.site:55555/bone/streaming/53
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="UseetvAll",SPORTV 1
-http://bonetv.site:55555/bone/streaming/54
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="UseetvAll",SPORTV 2
-http://bonetv.site:55555/bone/streaming/55
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="UseetvAll",SPORTV 3
-http://bonetv.site:55555/bone/streaming/56
 #EXTINF:0 tvg-id="ArenaSport1.hr" group-title="UseetvAll",ARENA Sport 1
 http://bonetv.site:55555/bone/streaming/57
 #EXTINF:0 tvg-id="ArenaSport2.hr" group-title="UseetvAll",ARENA Sport 2
@@ -456,18 +410,8 @@ http://bonetv.site:55555/bone/streaming/64
 http://bonetv.site:55555/bone/streaming/65
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",SPORTV5
 http://bonetv.site:55555/bone/streaming/66
-#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="UseetvAll",Sky Sport Bundesliga 1
-http://bonetv.site:55555/bone/streaming/68
-#EXTINF:0 tvg-id="SkyBundesliga2.de" group-title="UseetvAll",Sky Sport Bundesliga 2
-http://bonetv.site:55555/bone/streaming/69
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",NbaTv
-http://bonetv.site:55555/bone/streaming/70
 #EXTINF:0 tvg-id="DisneyXD.uk" group-title="UseetvAll",DisneyXD
 http://bonetv.site:55555/bone/streaming/71
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Viasat Motorsport
-http://bonetv.site:55555/bone/streaming/72
-#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="UseetvAll",turbo
-http://bonetv.site:55555/bone/streaming/73
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",[MY] ASTRO SUPERSPORT HD
 http://bonetv.site:55555/bone/streaming/74
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",[MY] ASTRO SUPERSPORT 2 HD
@@ -476,14 +420,10 @@ http://bonetv.site:55555/bone/streaming/75
 http://bonetv.site:55555/bone/streaming/76
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",[MY] ASTRO SUPERSPORT 4 HD
 http://bonetv.site:55555/bone/streaming/77
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",EUROSPORT MY
-http://bonetv.site:55555/bone/streaming/78
 #EXTINF:0 tvg-id="esp-int" group-title="UseetvAll",EuroSport 1
 http://bonetv.site:55555/bone/streaming/79
 #EXTINF:0 tvg-id="esp2-int" group-title="UseetvAll",EuroSport 2
 http://bonetv.site:55555/bone/streaming/80
-#EXTINF:0 tvg-id="baby-tv" group-title="UseetvAll",BABY TV
-http://bonetv.site:55555/bone/streaming/81
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",UK: SKY SPORTS FOOTBALL FHD 50 FPS
 http://bonetv.site:55555/bone/streaming/82
 #EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="UseetvAll",UK: SKY SPORTS MAIN EVENT FHD
@@ -500,90 +440,20 @@ http://bonetv.site:55555/bone/streaming/87
 http://bonetv.site:55555/bone/streaming/88
 #EXTINF:0 tvg-id="BTSport3.uk" group-title="UseetvAll",UK: BT Sports 3 FHD
 http://bonetv.site:55555/bone/streaming/89
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="UseetvAll",UK: BT Sport ESPN HD
-http://bonetv.site:55555/bone/streaming/90
-#EXTINF:0 tvg-id="BBCEarth.pl" group-title="UseetvAll",BBC EARTH
-http://bonetv.site:55555/bone/streaming/91
 #EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="UseetvAll",BBC LIFESTYLE
 http://bonetv.site:55555/bone/streaming/92
-#EXTINF:0 tvg-id="animal_rus" group-title="UseetvAll",Animal Planet
-http://bonetv.site:55555/bone/streaming/93
-#EXTINF:0 tvg-id="FightSports.svn" group-title="UseetvAll",Fight Sports
-http://bonetv.site:55555/bone/streaming/94
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="UseetvAll",BEIN 1
-http://bonetv.site:55555/bone/streaming/95
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="UseetvAll",BEIN 2
-http://bonetv.site:55555/bone/streaming/96
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Nick Jr ID
-http://bonetv.site:55555/bone/streaming/97
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",[FR] RMC SPORT 1
 http://bonetv.site:55555/bone/streaming/98
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",[FR] RMC SPORT 2
 http://bonetv.site:55555/bone/streaming/99
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",[FR] RMC SPORT 3
 http://bonetv.site:55555/bone/streaming/100
-#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="UseetvAll",Dmax
-http://bonetv.site:55555/bone/streaming/101
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",tavel
-http://bonetv.site:55555/bone/streaming/102
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Disney Channel (ENG)
-http://bonetv.site:55555/bone/streaming/103
-#EXTINF:0 tvg-id="DisneyJunior.de" group-title="UseetvAll",Disney Junior (ENG)
-http://bonetv.site:55555/bone/streaming/104
-#EXTINF:0 tvg-id="cartoon" group-title="UseetvAll",cartoon
-http://bonetv.site:55555/bone/streaming/105
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",bayertv
 http://bonetv.site:55555/bone/streaming/106
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",sony1
-http://bonetv.site:55555/bone/streaming/107
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",sony2
-http://bonetv.site:55555/bone/streaming/108
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",sony3
-http://bonetv.site:55555/bone/streaming/109
-#EXTINF:0 tvg-id="SonySix.in" group-title="UseetvAll",sony six
-http://bonetv.site:55555/bone/streaming/110
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",DiscAsia
-http://bonetv.site:55555/bone/streaming/111
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",sky arena
-http://bonetv.site:55555/bone/streaming/113
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Viasat Sport Prem
-http://bonetv.site:55555/bone/streaming/114
 #EXTINF:0 tvg-id="tv5monde" group-title="UseetvAll",tv5monde
 http://bonetv.site:55555/bone/streaming/115
 #EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="UseetvAll",Sky Premiere
 http://bonetv.site:55555/bone/streaming/116
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Ikonser
-http://bonetv.site:55555/bone/streaming/117
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",BS: beIN SPORT-1
-http://bonetv.site:55555/bone/streaming/118
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",BS: beIN SPORT-2
-http://bonetv.site:55555/bone/streaming/119
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",BS: beIN SPORT-3
-http://bonetv.site:55555/bone/streaming/120
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",BS: beIN SPORT-4
-http://bonetv.site:55555/bone/streaming/121
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",BS: beIN SPORT-5
-http://bonetv.site:55555/bone/streaming/122
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",BS: beIN SPORT-6
-http://bonetv.site:55555/bone/streaming/123
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",BS: beIN SPORT-7
-http://bonetv.site:55555/bone/streaming/124
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",BS: beIN SPORT-8
-http://bonetv.site:55555/bone/streaming/125
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",BS: beIN SPORT-9
-http://bonetv.site:55555/bone/streaming/126
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",BS: beIN SPORT-10
-http://bonetv.site:55555/bone/streaming/127
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",BS: beIN SPORT-11
-http://bonetv.site:55555/bone/streaming/128
-#EXTINF:0 tvg-id="baby-tv" group-title="UseetvAll",Baby
-http://bonetv.site:55555/bone/streaming/129
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Supersport Blitz
-http://bonetv.site:55555/bone/streaming/143
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Sky MotoGp
-http://bonetv.site:55555/bone/streaming/384
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Supersport Maximo
-http://bonetv.site:55555/bone/streaming/385
 #EXTINF:0 tvg-id="ChannelV.in" group-title="UseetvAll",Channel V
 http://bonetv.site:55555/bone/streaming/386
 #EXTINF:0 tvg-id="bbc-world" group-title="UseetvAll",BBC WORLD
