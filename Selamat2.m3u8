@@ -24,6 +24,9 @@ https://delivery.macan.tv/stream/redhbo/playlist.m3u8?token=rvsx2&v=20200807
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/cinemaxa.png" group-title="CAMPUR2", Cinemax by HBO
 https://delivery.macan.tv/stream/cinemax/playlist.m3u8?token=rvsx2&v=20200807
 
+
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",RCTI
+https://autolistmaling.dstream.xyz:443/m/play_rcti_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",FOX CRIME
 http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/1
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",FOX LIFE
