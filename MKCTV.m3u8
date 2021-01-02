@@ -7,3 +7,9 @@ https://mkctv.net:443/hoho/hbohits.m3u8
 https://mkctv.net:443/hoho/hbosig.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",HBO FAMILY 
 https://mkctv.net:443/hoho/hbofam.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",CINEMAX
+https://mkctv.net:443/hoho/cinemax.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",RED BY HBO
+https://mkctv.net:443/hoho/red.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",GALAXY PREM
+https://mkctv.net:443/siap/galaxiprem.m3u8
