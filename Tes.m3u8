@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="https://livetvgo.my.id:443/live/play.m3u8?key=eyJ1c2VyX2lkIjogIjU5ODdiMTlhMjgwYjNmMCIsICJpZCI6IDEyNSwidGltZSI6IDE2MDk1NzAyMDh9"
+#EXTINF:4, no desc
+video-audio=65000-video=236000-0.ts
