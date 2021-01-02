@@ -24,7 +24,14 @@ https://delivery.macan.tv/stream/redhbo/playlist.m3u8?token=rvsx2&v=20200807
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/cinemaxa.png" group-title="CAMPUR2", Cinemax by HBO
 https://delivery.macan.tv/stream/cinemax/playlist.m3u8?token=rvsx2&v=20200807
 
-
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",DUNIA LAIN
+https://autolistmaling.dstream.xyz:443/a/muter_dunialain_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",IMC
+https://autolistmaling.dstream.xyz:443/a/muter_imc_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",THRILL
+https://autolistmaling.dstream.xyz:443/a/muter_thrill_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",FLIK
+https://autolistmaling.dstream.xyz:443/a/muter_flik_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",RCTI
 https://autolistmaling.dstream.xyz:443/m/play_rcti_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",FOX CRIME
