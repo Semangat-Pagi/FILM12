@@ -13,3 +13,7 @@ https://mkctv.net:443/hoho/cinemax.m3u8
 https://mkctv.net:443/hoho/red.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",GALAXY PREM
 https://mkctv.net:443/siap/galaxiprem.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",CELESTIAL CLASSIC MOVIE 
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",INDOSIAR 
+https://mkctv.net:443/siap/indosiar.m3u8
