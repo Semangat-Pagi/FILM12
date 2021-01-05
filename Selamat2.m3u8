@@ -1,6 +1,23 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",RCTI
+https://autolistmaling.dstream.xyz:443/m/play_rcti_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",SCTV
+https://autolistmaling.dstream.xyz:443/m/play_sctv_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",INDOSIAR
+https://autolistmaling.dstream.xyz:443/m/play_indosiar_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",GLOBAL TV
+https://autolistmaling.dstream.xyz:443/m/play_gtv_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",MNCTV
+https://autolistmaling.dstream.xyz:443/m/play_mnc_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",ANTV
+https://nsx1.vitv.site:443/play/oxy/V0il4h3r0sM1li/index.m3u8?wmauth=bjljYVNOZWVVT01kbll3UllsakZiK1dUVkt3VkN2elhiMjlRakVBSEZ1bz0POPO
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",NET TV
+https://autolistmaling.dstream.xyz:443/a/muter_net_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",TRANSTV
+https://autolistmaling.dstream.xyz:443/m/play_transtv_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",TRANS7 
+https://autolistmaling.dstream.xyz:443/m/play_trans7_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",rri net
 https://autolistmaling.dstream.xyz:443/a/muter_rrinet_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",cnn indo
@@ -14,11 +31,10 @@ https://autolistmaling.dstream.xyz:443/a/muter_kompastv_V0il4h3r0sM1li.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",tv5 monde
+https://autolistmaling.dstream.xyz:443/a/muter_tv5monde_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",eatgo
 https://autolistmaling.dstream.xyz:443/a/muter_eatgo_V0il4h3r0sM1li.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",mytv
-https://autolistmaling.dstream.xyz:443/a/muter_mytv_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",blue ant ext
 https://autolistmaling.dstream.xyz:443/a/muter_blueantextreme_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",blue ant
@@ -59,24 +75,7 @@ https://autolistmaling.dstream.xyz:443/a/muter_imc_V0il4h3r0sM1li.m3u8
 https://autolistmaling.dstream.xyz:443/a/muter_thrill_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",FLIK
 https://autolistmaling.dstream.xyz:443/a/muter_flik_V0il4h3r0sM1li.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",RCTI
-https://autolistmaling.dstream.xyz:443/m/play_rcti_V0il4h3r0sM1li.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",SCTV
-https://autolistmaling.dstream.xyz:443/m/play_sctv_V0il4h3r0sM1li.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",INDOSIAR
-https://autolistmaling.dstream.xyz:443/m/play_indosiar_V0il4h3r0sM1li.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",GLOBAL TV
-https://autolistmaling.dstream.xyz:443/m/play_gtv_V0il4h3r0sM1li.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",MNCTV
-https://autolistmaling.dstream.xyz:443/m/play_mnc_V0il4h3r0sM1li.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",ANTV
-https://nsx1.vitv.site:443/play/oxy/V0il4h3r0sM1li/index.m3u8?wmauth=bjljYVNOZWVVT01kbll3UllsakZiK1dUVkt3VkN2elhiMjlRakVBSEZ1bz0POPO
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",NET TV
-https://autolistmaling.dstream.xyz:443/a/muter_net_V0il4h3r0sM1li.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",TRANSTV
-https://autolistmaling.dstream.xyz:443/m/play_transtv_V0il4h3r0sM1li.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",TRANS7 
-https://autolistmaling.dstream.xyz:443/m/play_trans7_V0il4h3r0sM1li.m3u8
+
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",JAKTV
 https://nsx1.vitv.site:443/play/oxy/V0il4h3r0sM1li/index.m3u8?wmauth=S3pHRzJCd0JIdHQrWjNRV0xyejFIZFQrOVlOSlpVVnZ6YXRUcWR1dmtyUT0POPO
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",FOX CRIME
