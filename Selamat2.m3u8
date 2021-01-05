@@ -1,5 +1,23 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",rri net
+https://autolistmaling.dstream.xyz:443/a/muter_rrinet_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",cnbc indo
+https://autolistmaling.dstream.xyz:443/a/muter_cnbcindonesia_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",cnn indo
+https://autolistmaling.dstream.xyz:443/a/muter_cnnindonesia_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",berita satu
+https://autolistmaling.dstream.xyz:443/a/muter_beritasatu_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",metro tv
+https://autolistmaling.dstream.xyz:443/a/muter_metrotv_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",kompastv 
+https://autolistmaling.dstream.xyz:443/a/muter_kompastv_V0il4h3r0sM1li.m3u8
+
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",chinese drama
+https://autolistmaling.dstream.xyz:443/a/muter_chinesedrama_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",citra drama
+https://autolistmaling.dstream.xyz:443/a/muter_cdrama_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",DUNIA LAIN
 https://autolistmaling.dstream.xyz:443/a/muter_dunialain_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",IMC
