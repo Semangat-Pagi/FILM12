@@ -3,8 +3,6 @@
 
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",rri net
 https://autolistmaling.dstream.xyz:443/a/muter_rrinet_V0il4h3r0sM1li.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",cnbc indo
-https://autolistmaling.dstream.xyz:443/a/muter_cnbcindonesia_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",cnn indo
 https://autolistmaling.dstream.xyz:443/a/muter_cnnindonesia_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",berita satu
@@ -14,6 +12,41 @@ https://autolistmaling.dstream.xyz:443/a/muter_metrotv_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",kompastv 
 https://autolistmaling.dstream.xyz:443/a/muter_kompastv_V0il4h3r0sM1li.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",eatgo
+https://autolistmaling.dstream.xyz:443/a/muter_eatgo_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",mytv
+https://autolistmaling.dstream.xyz:443/a/muter_mytv_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",blue ant ext
+https://autolistmaling.dstream.xyz:443/a/muter_blueantextreme_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",blue ant
+https://autolistmaling.dstream.xyz:443/a/muter_blueant_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",Celestial Movie
+https://autolistmaling.dstream.xyz:443/a/muter_celestialmovie_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",sony one
+https://autolistmaling.dstream.xyz:443/a/muter_sone_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",sony gem
+https://autolistmaling.dstream.xyz:443/a/muter_sgem_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",z bioskop
+https://autolistmaling.dstream.xyz:443/a/muter_zbioskop_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",kplus
+https://autolistmaling.dstream.xyz:443/a/muter_kplus_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",bioskop indo
+https://autolistmaling.dstream.xyz:443/a/muter_bioskopindonesia_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",galaxy
+https://autolistmaling.dstream.xyz:443/a/muter_galaxy_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",warner
+https://autolistmaling.dstream.xyz:443/a/muter_warner_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",kix
+https://autolistmaling.dstream.xyz:443/a/muter_kix_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",tvn movies
+https://autolistmaling.dstream.xyz:443/a/muter_tvnmovies_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",tvn
+https://autolistmaling.dstream.xyz:443/a/muter_tvn_V0il4h3r0sM1li.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",axn
+https://autolistmaling.dstream.xyz:443/a/muter_axn_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",chinese drama
 https://autolistmaling.dstream.xyz:443/a/muter_chinesedrama_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",citra drama
