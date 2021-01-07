@@ -65,3 +65,5 @@ https://mkctv.net:443/siap/thrill.m3u8
 https://mkctv.net:443/siap/flik.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",KIX 
 https://mkctv.net:443/siap/kix.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",CELESTIAL MOVIES 
+https://mkctv.net:443/siap/celestialmovie.m3u8
