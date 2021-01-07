@@ -45,3 +45,11 @@ https://mkctv.net:443/siap/cnn.m3u8
 https://mkctv.net:443/siap/cnbc.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",KOMPASTV
 https://mkctv.net:443/siap/kompas.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",CHAMPION1 
+https://mkctv.net:443/siap/champion1.m3u8
+
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",BEIN SPORT 1
+https://mkctv.net:443/siap/bein1.m3u8
+
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",FOX SPORTS 1 
+https://mkctv.net:443/siap/foxsport1.m3u8
