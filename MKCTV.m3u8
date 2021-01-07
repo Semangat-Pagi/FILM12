@@ -52,4 +52,16 @@ https://mkctv.net:443/siap/champion1.m3u8
 https://mkctv.net:443/siap/bein1.m3u8
 
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",FOX SPORTS 1 
-https://mkctv.net:443/siap/foxsport1.m3u8
+https://mkctv.net:443/siap/foxsports1.m3u8
+
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",USEESPORTS1
+https://mkctv.net:443/siap/useesport.m3u8
+
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",IMC
+https://mkctv.net:443/siap/imc.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",THRILL
+https://mkctv.net:443/siap/thrill.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",FLIK
+https://mkctv.net:443/siap/flik.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",KIX 
+https://mkctv.net:443/siap/kix.m3u8
