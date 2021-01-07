@@ -22,26 +22,26 @@ https://mkctv.net:443/siap/rcti.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",SCTV
 https://mkctv.net:443/siap/sctv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",TRANSTV 
-https://mkctv.net:443/siap/transtv.m3u8
+https://mkctv.net:443/siap/trans.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",TRANS7 
 https://mkctv.net:443/siap/trans7.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",MNCTV
 https://mkctv.net:443/siap/mnctv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",GLOBAL TV
-https://mkctv.net:443/siap/globaltv.m3u8
+https://mkctv.net:443/siap/global.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",RTV
 https://mkctv.net:443/siap/rtv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",TVONE
-https://mkctv.net:443/siap/tvone.m3u8
+https://mkctv.net:443/siap/one.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",METROTV
-https://mkctv.net:443/siap/metrotv.m3u8
+https://mkctv.net:443/siap/metro.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",INEWS
 https://mkctv.net:443/siap/inews.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",BERITA SATU
 https://mkctv.net:443/siap/beritasatu.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",CNN INDONESIA 
-https://mkctv.net:443/siap/cnnindonesia.m3u8
+https://mkctv.net:443/siap/cnn.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",CNBC INDONESIA 
-https://mkctv.net:443/siap/cnbcindonesia.m3u8
+https://mkctv.net:443/siap/cnbc.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",KOMPASTV
-https://mkctv.net:443/siap/kompastv.m3u8
+https://mkctv.net:443/siap/kompas.m3u8
