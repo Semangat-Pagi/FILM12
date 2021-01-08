@@ -46,9 +46,9 @@ https://mkctv.net:443/siap/bein2.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",FOX SPORTS 1 
 https://mkctv.net:443/siap/fox1.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",USEESPORTS1
-https://mkctv.net:443/siap/useesport.m3u8
+https://mkctv.net:443/siap/useesport1.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",USEESPORTS2
-https://mkctv.net:443/siap/useesports2.m3u8
+https://mkctv.net:443/siap/useesport2.m3u8
 
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",IMC
 https://mkctv.net:443/siap/imc.m3u8
@@ -61,4 +61,29 @@ https://mkctv.net:443/siap/kix.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",CELESTIAL MOVIES 
 https://mkctv.net:443/siap/clestial.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",CDRAMA
-https://mkctv.net:443/siap/cdrama.m3u8
+https://mkctv.net:443/siap/citradrama.m3u8
+
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",HISTORY
+https://mkctv.net:443/siap/histori.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",NATGEO 
+https://mkctv.net:443/siap/natgeo.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",NATGEOWILD
+https://mkctv.net:443/siap/natgeowild.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",NATGEOPEOPLE 
+https://mkctv.net:443/siap/natgeopeople.m3u8
+
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",NICK
+https://mkctv.net:443/siap/nick.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",HOREE
+https://mkctv.net:443/siap/horee.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",BOOMERANG 
+https://mkctv.net:443/siap/boomerang.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",NICKJR
+https://mkctv.net:443/siap/nickjr.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",CARTOON NETWORK 
+https://mkctv.net:443/siap/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",MYKIDS
+https://mkctv.net:443/siap/mykids.m3u8
+
+
+
