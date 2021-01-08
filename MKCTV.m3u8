@@ -27,6 +27,8 @@ https://mkctv.net:443/siap/trans.m3u8
 https://mkctv.net:443/siap/trans7.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",MNCTV
 https://mkctv.net:443/siap/mnctv.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",GTV
+https://mkctv.net:443/siap/gtv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",RTV
 https://mkctv.net:443/siap/rtv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",METROTV
@@ -35,15 +37,18 @@ https://mkctv.net:443/siap/metro.m3u8
 https://mkctv.net:443/siap/kompas.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",CHAMPION1 
 https://mkctv.net:443/siap/champion1.m3u8
-
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",CHAMPION2 
+https://mkctv.net:443/siap/champion2.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",BEIN SPORT 1
 https://mkctv.net:443/siap/bein1.m3u8
-
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",BEIN SPORT 2
+https://mkctv.net:443/siap/bein2.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",FOX SPORTS 1 
-https://mkctv.net:443/siap/foxsport1.m3u8
-
+https://mkctv.net:443/siap/fox1.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",USEESPORTS1
 https://mkctv.net:443/siap/useesport.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",USEESPORTS2
+https://mkctv.net:443/siap/useesports2.m3u8
 
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",IMC
 https://mkctv.net:443/siap/imc.m3u8
@@ -54,4 +59,6 @@ https://mkctv.net:443/siap/flik.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",KIX 
 https://mkctv.net:443/siap/kix.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",CELESTIAL MOVIES 
-https://mkctv.net:443/siap/celestialmovies.m3u8
+https://mkctv.net:443/siap/clestial.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",CDRAMA
+https://mkctv.net:443/siap/cdrama.m3u8
