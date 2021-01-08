@@ -63,7 +63,14 @@ https://mkctv.net:443/siap/citradrama.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",tvn
 https://mkctv.net:443/siap/tvn.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",tvn mov
-https://mkctv.net:443/siap/tvnmovies.m3u8
+https://mkctv.net:443/siap/tvnm.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",sony one
+https://mkctv.net:443/siap/sone.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",Axn
+https://mkctv.net:443/siap/axn.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",citra drama 
+https://mkctv.net:443/siap/bioskop.m3u8
+
 
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",HISTORY
 https://mkctv.net:443/siap/histori.m3u8
@@ -73,6 +80,9 @@ https://mkctv.net:443/siap/natgeo.m3u8
 https://mkctv.net:443/siap/ngw.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",NATGEOPEOPLE 
 https://mkctv.net:443/siap/ngp.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",Discovery channel 
+https://mkctv.net:443/siap/disco.m3u8
+
 
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",NICK
 https://mkctv.net:443/siap/nick.m3u8
@@ -86,6 +96,33 @@ https://mkctv.net:443/siap/nickjr.m3u8
 https://mkctv.net:443/siap/cartoon.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",MYKIDS
 https://mkctv.net:443/siap/mykids.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",Wowtv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",film 
+http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",astro ceria 
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",bbc earth
+https://livecdn.fptplay.net:443/qnetlive/bbcearth_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",biznet Lifestyle 
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",biznet Kids 
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",magna Channel 
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_sleng.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",hidup TV 
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",PeaceTV 
+https://dl.dropbox.com/s/hr4pu9fqongh3m9/PeaceTV.m3u8?dl=0
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",flix 
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+
 
 
 
