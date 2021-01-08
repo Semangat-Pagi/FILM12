@@ -60,6 +60,10 @@ https://mkctv.net:443/siap/kix.m3u8
 https://mkctv.net:443/siap/clestial.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",CDRAMA
 https://mkctv.net:443/siap/citradrama.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",tvn
+https://mkctv.net:443/siap/tvn.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",tvn mov
+https://mkctv.net:443/siap/tvnmovies.m3u8
 
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",HISTORY
 https://mkctv.net:443/siap/histori.m3u8
