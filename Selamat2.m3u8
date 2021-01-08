@@ -80,8 +80,7 @@ https://autolistmaling.dstream.xyz:443/m/play_indosiar_V0il4h3r0sM1li.m3u8
 https://autolistmaling.dstream.xyz:443/m/play_gtv_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",MNCTV
 https://autolistmaling.dstream.xyz:443/m/play_mnc_V0il4h3r0sM1li.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",ANTV
-https://nsx1.vitv.site:443/play/oxy/V0il4h3r0sM1li/index.m3u8?wmauth=bjljYVNOZWVVT01kbll3UllsakZiK1dUVkt3VkN2elhiMjlRakVBSEZ1bz0POPO
+
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",NET TV
 https://autolistmaling.dstream.xyz:443/a/muter_net_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",TRANSTV
@@ -214,8 +213,6 @@ https://autolistmaling.dstream.xyz:443/a/muter_daaitv_V0il4h3r0sM1li.m3u8
 https://autolistmaling.dstream.xyz:443/a/muter_tv9_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",alquran 
 https://autolistmaling.dstream.xyz:443/a/muter_alquran_V0il4h3r0sM1li.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",tawaftv 
-https://autolistmaling.dstream.xyz:443/a/muter_tawaftv_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",mtatv 
 https://autolistmaling.dstream.xyz:443/a/muter_mtatv_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",mqtv 
