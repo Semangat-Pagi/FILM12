@@ -119,8 +119,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_
 http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",PeaceTV 
 https://dl.dropbox.com/s/hr4pu9fqongh3m9/PeaceTV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",flix 
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 
 
 
