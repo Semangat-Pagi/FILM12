@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO 2021
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONEW2021.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",KUNGFU CLASSIC ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",K+
