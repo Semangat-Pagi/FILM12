@@ -54,9 +54,9 @@ https://newlivetv.my.id:443/useetv/kix-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 https://livetvgo.my.id:443/live/play.m3u8?key=eyJ1c2VyX2lkIjogIjU5ODdiMTlhMjgwYjNmMCIsICJpZCI6IDEyOCwidGltZSI6IDE2MTAzNTYzMjh9
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Axn
 https://newlivetv.my.id:443/useetv/axn-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Axn
-https://newlivetv.my.id:443/useetv/axn-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Chinese drama
+https://newlivetv.my.id:443/useetv/chinesedrama-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Flik
 https://newlivetv.my.id:443/useetv/flik-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Cinemax
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",
 https://newlivetv.my.id:443/useetv/cinemax-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
