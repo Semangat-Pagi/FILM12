@@ -4,7 +4,7 @@
 https://livetvgo.my.id:443/live/play.m3u8?key=eyJ1c2VyX2lkIjogIjczNzdhM2QwZmNiOWNhNTUiLCAiaWQiOiAxMjUsInRpbWUiOiAxNjEwMzY3MzM4fQ==?token=acc3ffbe0768bb66806d36d5ef01a0e632612d85
 https://newlivetv.my.id:443/hbo/hbo.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Family
-https://newlivetv.my.id:443/hbo/family.m3u8?LiveTV&stream_key=MdLvZvGZ
+https://livetvgo.my.id:443/hbo/family.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Hits
 https://newlivetv.my.id:443/hbo/hits.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Signature 
