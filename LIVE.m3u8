@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo 
+https://newlivetv.my.id:443/hbo/hbo.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Family
+https://newlivetv.my.id:443/hbo/family.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Hits
+https://newlivetv.my.id:443/hbo/hits.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Signature 
+https://newlivetv.my.id:443/hbo/Signature.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Red
+https://newlivetv.my.id:443/hbo/red.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Cinemax 
+https://newlivetv.my.id:443/hbo/cinemax.m3u8?LiveTV&stream_key=MdLvZvGZ
+
 
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Indosiar
 https://newlivetv.my.id:443/useetv/indosiar-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
@@ -8,9 +21,7 @@ https://newlivetv.my.id:443/useetv/sctv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Antv
 https://newlivetv.my.id:443/useetv/antv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Globaltv
-https://newlivetv.my.id:443/useetv/globaltv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Indosiar
-https://newlivetv.my.id:443/useetv/indosiar-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+https://newlivetv.my.id:443/useetv/gtv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Mnctv
 https://newlivetv.my.id:443/useetv/mnctv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Nettv
@@ -41,15 +52,11 @@ https://newlivetv.my.id:443/useetv/thrill-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Kix
 https://newlivetv.my.id:443/useetv/kix-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 https://livetvgo.my.id:443/live/play.m3u8?key=eyJ1c2VyX2lkIjogIjU5ODdiMTlhMjgwYjNmMCIsICJpZCI6IDEyOCwidGltZSI6IDE2MTAzNTYzMjh9
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo 
-https://newlivetv.my.id:443/hbo/hbo.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Family
-https://newlivetv.my.id:443/hbo/family.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Hits
-https://newlivetv.my.id:443/hbo/hits.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Signature 
-https://newlivetv.my.id:443/hbo/Signature.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Red
-https://newlivetv.my.id:443/hbo/red.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Cinemax 
-https://newlivetv.my.id:443/hbo/cinemax.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Axn
+https://newlivetv.my.id:443/useetv/axn-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Axn
+https://newlivetv.my.id:443/useetv/axn-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Flik
+https://newlivetv.my.id:443/useetv/flik-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Cinemax
+https://newlivetv.my.id:443/useetv/cinemax-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
