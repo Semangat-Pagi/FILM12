@@ -1,5 +1,39 @@
 #EXTM3U
 
+
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Indosiar
+https://newlivetv.my.id:443/useetv/indosiar-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Sctv
+https://newlivetv.my.id:443/useetv/sctv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Antv
+https://newlivetv.my.id:443/useetv/antv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Globaltv
+https://newlivetv.my.id:443/useetv/globaltv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Indosiar
+https://newlivetv.my.id:443/useetv/indosiar-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Mnctv
+https://newlivetv.my.id:443/useetv/mnctv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Nettv
+https://newlivetv.my.id:443/useetv/nettv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Rtv
+https://newlivetv.my.id:443/useetv/rtv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Rcti
+https://newlivetv.my.id:443/useetv/rcti-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Transtv
+https://newlivetv.my.id:443/useetv/transtv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Trans7 
+https://newlivetv.my.id:443/useetv/trans7-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",TvOne
+https://newlivetv.my.id:443/useetv/tvone-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Tvri
+https://newlivetv.my.id:443/useetv/tvri-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Metrotv
+https://newlivetv.my.id:443/useetv/metrotv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Kompastv 
+https://newlivetv.my.id:443/useetv/kompastv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",InewsTv
+https://newlivetv.my.id:443/useetv/inewstv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Thrill
 https://newlivetv.my.id:443/channel/play.m3u8?id=117&key=MTE3&stream_key=MdLvZvGZ&source=useetv
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",thrill
@@ -7,7 +41,5 @@ https://newlivetv.my.id:443/useetv/thrill-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Kix
 https://newlivetv.my.id:443/useetv/kix-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 https://livetvgo.my.id:443/live/play.m3u8?key=eyJ1c2VyX2lkIjogIjU5ODdiMTlhMjgwYjNmMCIsICJpZCI6IDEyOCwidGltZSI6IDE2MTAzNTYzMjh9
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Indosiar
-https://newlivetv.my.id:443/useetv/indosiar-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Family
 https://newlivetv.my.id:443/hbo/family.m3u8?LiveTV&stream_key=MdLvZvGZ
