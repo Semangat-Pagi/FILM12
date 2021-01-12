@@ -12,10 +12,12 @@ https://birutv.com:443/live/sctv.m3u8
 https://birutv.com:443/live/rtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Indosiar 
 https://birutv.com:443/live/indosiar.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Antv
-https://birutv.com:443/live/antv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Tvone
-https://birutv.com:443/live/tvone.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",InewsTv
+https://birutv.com:443/live/inewstv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Idx
+https://birutv.com:443/live/Idx.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Rri net
+https://birutv.com:443/live/rrinet.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Metrotv  
 https://birutv.com:443/live/metrotv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Kompastv
