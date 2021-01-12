@@ -5,3 +5,28 @@ https://indotv.tech:443/m3u8sd/usee-thrill-indonesia.m3u8
 https://indotv.tech:443/m3u8sd/usee-flik-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",AXN
 https://indotv.tech:443/m3u8sd/usee-axn-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",ZEE BIOSKOP 
+https://indotv.tech:443/m3u8sd/usee-zeebioskop-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",CELESTIAL MOVIES 
+https://indotv.tech:443/m3u8sd/usee-celestialmovies-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",DAAITV 
+https://indotv.tech:443/m3u8sd/usee-daaitv-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",GALAXY 
+https://indotv.tech:443/m3u8sd/usee-galaxy-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",WARNERTV
+https://indotv.tech:443/m3u8sd/usee-warnertv-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",CINEMA WORLD 
+https://indotv.tech:443/m3u8sd/usee-cinemaworld-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",SONY ONE
+https://indotv.tech:443/m3u8sd/usee-sone-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",SONY GEM
+https://indotv.tech:443/m3u8sd/usee-sgem-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",BIOSKOP INDONESIA 
+https://indotv.tech:443/m3u8sd/usee-bioskopindonesia-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",IMC
+https://indotv.tech:443/m3u8sd/usee-imc-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",CITRA DRAMA 
+https://indotv.tech:443/m3u8sd/usee-citradrama-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",
+https://indotv.tech:443/m3u8sd/usee-axn-indonesia.m3u8
+
