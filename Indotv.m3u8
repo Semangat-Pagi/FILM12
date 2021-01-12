@@ -1,43 +1,6 @@
 #EXTM3U
 
 
-==============TVM GO=============
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Transtv
-https://birutv.com:443/live/transtv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Trans7 
-https://birutv.com:443/live/trans7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Sctv
-https://birutv.com:443/live/sctv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Rtv
-https://birutv.com:443/live/rtv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Indosiar 
-https://birutv.com:443/live/indosiar.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Rri net
-https://birutv.com:443/live/rrinet.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Metrotv  
-https://birutv.com:443/live/metrotv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Kompastv
-https://birutv.com:443/live/kompastv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Berita satu 
-https://birutv.com:443/live/beritasatu.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",TVRI 
-https://birutv.com:443/live/tvri.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",bein1
-https://birutv.com:443/live/bein1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Champion1 
-https://birutv.com:443/live/champion1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",foxsport1
-https://birutv.com:443/live/foxsport1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Useesport1
-https://birutv.com:443/live/useesport.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Axn
-https://birutv.com:443/live/axn.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",imc
-https://birutv.com:443/live/imc.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",flik
-https://birutv.com:443/live/flik.m3u8
-
-
 =====++===========INDOTV=====================
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",THRILL 
 https://indotv.tech:443/m3u8sd/usee-thrill-indonesia.m3u8
@@ -261,3 +224,40 @@ https://indotv.tech:443/m3u8sd/usee-abcaustralia-indonesia.m3u8
 https://indotv.tech:443/m3u8sd/usee-aljazeera-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Antara
 https://indotv.tech:443/m3u8sd/usee-antara-indonesia.m3u8
+
+
+==============TVM GO=============
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Transtv
+https://birutv.com:443/live/transtv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Trans7 
+https://birutv.com:443/live/trans7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Sctv
+https://birutv.com:443/live/sctv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Rtv
+https://birutv.com:443/live/rtv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Indosiar 
+https://birutv.com:443/live/indosiar.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Rri net
+https://birutv.com:443/live/rrinet.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Metrotv  
+https://birutv.com:443/live/metrotv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Kompastv
+https://birutv.com:443/live/kompastv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Berita satu 
+https://birutv.com:443/live/beritasatu.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",TVRI 
+https://birutv.com:443/live/tvri.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",bein1
+https://birutv.com:443/live/bein1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Champion1 
+https://birutv.com:443/live/champion1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",foxsport1
+https://birutv.com:443/live/foxsport1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Useesport1
+https://birutv.com:443/live/useesport.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Axn
+https://birutv.com:443/live/axn.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",imc
+https://birutv.com:443/live/imc.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",flik
+https://birutv.com:443/live/flik.m3u8
