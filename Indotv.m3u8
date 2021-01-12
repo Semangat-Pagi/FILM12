@@ -27,6 +27,17 @@ https://indotv.tech:443/m3u8sd/usee-bioskopindonesia-indonesia.m3u8
 https://indotv.tech:443/m3u8sd/usee-imc-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",CITRA DRAMA 
 https://indotv.tech:443/m3u8sd/usee-cdrama-indonesia.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",
-https://indotv.tech:443/m3u8sd/usee-axn-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",NET
+https://indotv.tech:443/m3u8sd/usee-net-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",TRANSTV 
+https://indotv.tech:443/m3u8sd/usee-transtv-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",NET
+https://indotv.tech:443/m3u8sd/usee-trans7-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",TVONE
+https://indotv.tech:443/oxygen/tvone.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",METRO
+https://edge.medcom.id:443/live-edge/smil:metro.smil/chunklist_w1883927270_b628000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",RTV
+https://indotv.tech:443/m3u8sd/usee-rtv-indonesia.m3u8
+
 
