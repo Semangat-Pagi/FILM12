@@ -1,4 +1,15 @@
 #EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Tes
+https://birutv.com:443/live/transtv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",2
+https://birutv.com:443/live/trans7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",3
+https://birutv.com:443/live/sctv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",4
+https://birutv.com:443/live/rtv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",5
+https://birutv.com:443/live/indosiar.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",THRILL 
 https://indotv.tech:443/m3u8sd/usee-thrill-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",FLIK
