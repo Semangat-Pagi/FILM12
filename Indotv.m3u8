@@ -41,8 +41,12 @@ https://edge.medcom.id:443/live-edge/smil:metro.smil/chunklist_w1883927270_b6280
 https://indotv.tech:443/m3u8sd/usee-rtv-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",KOMPASTV
 https://indotv.tech:443/m3u8sd/usee-kompastv-indonesia.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Rcti
 https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Sctv
+https://indotv.tech:443/m3u8sd/usee-sctv-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",INDOSIAR 
+https://indotv.tech:443/m3u8sd/usee-indosiar-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",ANTV
 https://indotv.tech:443/oxygen/antv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",BERITA SATU
@@ -53,7 +57,6 @@ https://indotv.tech:443/m3u8sd/usee-useephoto-indonesia.m3u8
 https://indotv.tech:443/m3u8sd/usee-useeprime-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",NUSANTARATV
 https://indotv.tech:443/m3u8sd/usee-nusantaratv-indonesia.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Foxsport1 
 https://indotv.tech:443/m3u8sd/usee-foxsport1-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",foxsport2 
