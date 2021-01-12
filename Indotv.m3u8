@@ -24,10 +24,13 @@ https://birutv.com:443/live/metrotv.m3u8
 https://birutv.com:443/live/kompastv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Berita satu 
 https://birutv.com:443/live/beritasatu.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Cnnindonesia 
-https://birutv.com:443/live/cnnindonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Balitv 
+https://birutv.com:443/live/balitv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",TVRI 
 https://birutv.com:443/live/tvri.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",THRILL 
+https://birutv.com:443/live/thrill.m3u8
+
 
 =====++===========INDOTV=====================
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",THRILL 
