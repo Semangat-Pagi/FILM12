@@ -1,15 +1,33 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",Tes
+
+==============TVM GO=============
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Transtv
 https://birutv.com:443/live/transtv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",2
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Trans7 
 https://birutv.com:443/live/trans7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",3
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Sctv
 https://birutv.com:443/live/sctv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",4
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Rtv
 https://birutv.com:443/live/rtv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",5
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Indosiar 
 https://birutv.com:443/live/indosiar.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Antv
+https://birutv.com:443/live/antv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Tvone
+https://birutv.com:443/live/tvone.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Metrotv  
+https://birutv.com:443/live/metrotv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Kompastv
+https://birutv.com:443/live/kompastv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Berita satu 
+https://birutv.com:443/live/beritasatu.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Cnnindonesia 
+https://birutv.com:443/live/cnnindonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",TVRI 
+https://birutv.com:443/live/tvri.m3u8
+
+=====++===========INDOTV=====================
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",THRILL 
 https://indotv.tech:443/m3u8sd/usee-thrill-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",FLIK
@@ -42,7 +60,7 @@ https://indotv.tech:443/m3u8sd/usee-cdrama-indonesia.m3u8
 https://indotv.tech:443/m3u8sd/usee-net-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",TRANSTV 
 https://indotv.tech:443/m3u8sd/usee-transtv-indonesia.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",NET
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",TRANS7
 https://indotv.tech:443/m3u8sd/usee-trans7-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",TVONE
 https://indotv.tech:443/oxygen/tvone.m3u8
