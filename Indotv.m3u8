@@ -3,9 +3,6 @@
 
 =====++===========INDOTV=====================
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",THRILL 
-https://indotv.tech:443/m3u8sd/usee-seatoday-indonesia.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",THRILL 
 https://indotv.tech:443/m3u8sd/usee-thrill-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",FLIK
 https://indotv.tech:443/m3u8sd/usee-flik-indonesia.m3u8
@@ -65,6 +62,8 @@ https://indotv.tech:443/m3u8sd/usee-useephoto-indonesia.m3u8
 https://indotv.tech:443/m3u8sd/usee-useeprime-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",NUSANTARATV
 https://indotv.tech:443/m3u8sd/usee-nusantaratv-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",SEATODAY
+https://indotv.tech:443/m3u8sd/usee-seatoday-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Foxsport1 
 https://indotv.tech:443/m3u8sd/usee-foxsport1-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",foxsport2 
@@ -205,6 +204,8 @@ https://ap02.iqplay.tv:8082/iqb8002/3m9n/chunks.m3u8
 https://5ea835027d05e.streamlock.net:443/islam/islamtv/chunklist_w519609217.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Mqtv
 https://indotv.tech:443/m3u8sd/usee-mqtv-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",MTATV
+https://indotv.tech:443/m3u8sd/usee-mtatv-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Asian Food network 
 https://indotv.tech:443/m3u8sd/usee-afc-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Eat&Go
