@@ -39,5 +39,19 @@ https://indotv.tech:443/oxygen/tvone.m3u8
 https://edge.medcom.id:443/live-edge/smil:metro.smil/chunklist_w1883927270_b628000_sleng.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",RTV
 https://indotv.tech:443/m3u8sd/usee-rtv-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",KOMPASTV
+https://indotv.tech:443/m3u8sd/usee-kompastv-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",
+https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",ANTV
+https://indotv.tech:443/oxygen/antv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",BERITA SATU
+https://indotv.tech:443/m3u8sd/usee-beritasatu-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",USEEPHOTO 
+https://indotv.tech:443/m3u8sd/usee-useephoto-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",USEEPRIME 
+https://indotv.tech:443/m3u8sd/usee-useeprime-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",NUSANTARATV
+https://indotv.tech:443/m3u8sd/usee-nusantaratv-indonesia.m3u8
 
 
