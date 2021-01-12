@@ -2,6 +2,18 @@
 
 
 =====++===========INDOTV=====================
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",NET
+https://indotv.tech:443/m3u8sd/vidio-net-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",transtv 
+https://indotv.tech:443/m3u8sd/vidio-transtv-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Trans7 
+https://indotv.tech:443/m3u8sd/vidio-net-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",sctv 
+https://indotv.tech:443/m3u8sd/vidio-sctv-indonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",INDOSIAR 
+https://indotv.tech:443/m3u8sd/vidio-indosiar-indonesia.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",THRILL 
 https://indotv.tech:443/m3u8sd/usee-thrill-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",FLIK
