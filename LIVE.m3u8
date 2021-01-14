@@ -3,10 +3,12 @@
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo
 https://newlivetv.my.id:443/hbo/hbo.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Familyy
+https://newlivetv.my.id:443/hbo/family.m3u8?LiveTV&stream_key=MdLvZvGZ
 https://livetvgo.my.id:443/hbo/family.m3u8?LiveTVGO&stream_key=eyJ1c2VyX2lkIjogIjczNzdhM2QwZmNiOWNhNTUiLCAiaWQiOiAxMjUsInRpbWUiOiAxNjEwMzY3MzM4fQ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Hits
 https://newlivetv.my.id:443/hbo/hits.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Signature 
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Signature
+https://newlivetv.my.id:443/hbo/sig.m3u8?LiveTV&stream_key=MdLvZvGZ
 https://newlivetv.my.id:443/hbo/Signature.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Red
 https://newlivetv.my.id:443/hbo/red.m3u8?LiveTV&stream_key=MdLvZvGZ
@@ -18,6 +20,17 @@ https://newlivetv.my.id:443/channel/play.mpeg?id=491&key=NDkx&stream_key=MdLvZvG
 http://103.253.24.177:25461/1203601681/5001441982/1478?token=QhBYV0dYRg4TCgYGVgZSBFYGAAoCAFAADFEFUFFVA1UPClIGVVMGAgYaSBAQEEJXVQhvWgIbCVQNAwgdQ0MSB0ttWVIWCkYFAQhSBFBGHBBADF1WRAMCUwkABQFVBVhQFRBAX1ASXhYCDFcFQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgoTNVMNB1JdXUNaWQ9VQlFEew0AX1xRFllSRhFjMRAWHBMDXxUQWEZVFA4SVgMECEYeQQdfR1oRQkpEAxEsfRYcEwROFQdXQVlZWhJeFkVLRh5BDUNtRgBDRxRcUghcRhILQwZDThtfUU5rUwtaX10HRgoLXkEWXxICRBURCFZaWUUORD4SUFYSDBYDVQwFC0ZP
 https://newlivetv.my.id:443/channel/play.mp4?id=321&key=MzIx&stream_key=MdLvZvGZ&source=
 
+
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Gtv
+https://newlivetv.my.id:443/vidio/778-LiveTV.m3u8?livetv&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Mnctv 
+https://newlivetv.my.id:443/vidio/870-LiveTV.m3u8?livetv&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Net
+https://newlivetv.my.id:443/youtube/net-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Rcti
+https://newlivetv.my.id:443/vidio/665-LiveTV.m3u8?livetv&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Tvone 
+https://newlivetv.my.id:443/youtube/tvone-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Indosiar
 https://newlivetv.my.id:443/useetv/indosiar-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Sctv
@@ -70,7 +83,14 @@ https://newlivetv.my.id:443/useetv/galaxypremium-LiveTV.m3u8?LiveTV&stream_key=M
 https://newlivetv.my.id:443/useetv/galaxy-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Cinema world 
 https://newlivetv.my.id/useetv/cinemaworld-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Celestial Movies 
+https://newlivetv.my.id:443/useetv/celestialmovie-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Warner
+https://newlivetv.my.id:443/useetv/warner-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hits
+http://210.210.155.35:80/uq2663/h/h37/index2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Imc
+https://newlivetv.my.id:443/useetv/imc-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 
 
 
