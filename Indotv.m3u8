@@ -14,6 +14,10 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO SIGNATURE 
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNATURE2021.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",CINEMAX 
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAX2021.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",RED
+
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",THRILL 
 https://indotv.tech:443/m3u8sd/usee-thrill-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",FLIK
