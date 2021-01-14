@@ -14,7 +14,8 @@ https://newlivetv.my.id:443/hbo/red.m3u8?LiveTV&stream_key=MdLvZvGZ
 https://newlivetv.my.id:443/hbo/cinemax.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",CCM
 https://newlivetv.my.id:443/channel/play.mpeg?id=491&key=NDkx&stream_key=MdLvZvGZ&source=
-
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Fox action movies 
+https://newlivetv.my.id:443/channel/play.mp4?id=321&key=MzIx&stream_key=MdLvZvGZ&source=
 
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Indosiar
 https://newlivetv.my.id:443/useetv/indosiar-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
@@ -62,5 +63,6 @@ https://newlivetv.my.id:443/useetv/chinesedrama-LiveTV.m3u8?LiveTV&stream_key=Md
 https://newlivetv.my.id:443/useetv/flik-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Bioskop Indonesia 
 https://newlivetv.my.id:443/useetv/bioskopindonesia-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Fox action movies 
-https://newlivetv.my.id:443/channel/play.mp4?id=321&key=MzIx&stream_key=MdLvZvGZ&source=
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Galaxy Premium 
+https://newlivetv.my.id:443/useetv/galaxypremium-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+
