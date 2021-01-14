@@ -11,10 +11,11 @@ https://newlivetv.my.id:443/hbo/Signature.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Red
 https://newlivetv.my.id:443/hbo/red.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Cinemax 
-https://newlivetv.my.id:443/hbo/cinemax.m3u8?LiveTV&stream_key=MdLvZvGZ
+https://newlivetv.my.id:443/hbo/max.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",CCM
 https://newlivetv.my.id:443/channel/play.mpeg?id=491&key=NDkx&stream_key=MdLvZvGZ&source=
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Fox action movies 
+http://103.253.24.177:25461/1203601681/5001441982/1478?token=QhBYV0dYRg4TCgYGVgZSBFYGAAoCAFAADFEFUFFVA1UPClIGVVMGAgYaSBAQEEJXVQhvWgIbCVQNAwgdQ0MSB0ttWVIWCkYFAQhSBFBGHBBADF1WRAMCUwkABQFVBVhQFRBAX1ASXhYCDFcFQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgoTNVMNB1JdXUNaWQ9VQlFEew0AX1xRFllSRhFjMRAWHBMDXxUQWEZVFA4SVgMECEYeQQdfR1oRQkpEAxEsfRYcEwROFQdXQVlZWhJeFkVLRh5BDUNtRgBDRxRcUghcRhILQwZDThtfUU5rUwtaX10HRgoLXkEWXxICRBURCFZaWUUORD4SUFYSDBYDVQwFC0ZP
 https://newlivetv.my.id:443/channel/play.mp4?id=321&key=MzIx&stream_key=MdLvZvGZ&source=
 
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Indosiar
@@ -65,4 +66,11 @@ https://newlivetv.my.id:443/useetv/flik-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 https://newlivetv.my.id:443/useetv/bioskopindonesia-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Galaxy Premium 
 https://newlivetv.my.id:443/useetv/galaxypremium-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Galaxy
+https://newlivetv.my.id:443/useetv/galaxy-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Cinema world 
+https://newlivetv.my.id/useetv/cinemaworld-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+
+
+
 
