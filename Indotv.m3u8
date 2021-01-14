@@ -3,12 +3,16 @@
 
 =====++===========INDOTV=====================
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONEW2021.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO FAMILY 
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMILY2021.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO HITS 
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITS2021.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO SIGNATURE 
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNATURE2021.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",THRILL 
 https://indotv.tech:443/m3u8sd/usee-thrill-indonesia.m3u8
