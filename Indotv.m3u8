@@ -178,7 +178,7 @@ https://indotv.tech:443/m3u8sd/usee-aniplus-indonesia.m3u8
 https://indotv.tech:443/m3u8sd/usee-animax-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Cartoon Network 
 https://indotv.tech:443/m3u8sd/usee-cartoonnetwork-indonesia.m3u8
-Dreamworks 
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",DREAMWORKS
 https://indotv.tech:443/m3u8sd/usee-dreamworks-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Nickelodeon 
 https://indotv.tech:443/m3u8sd/usee-nickelodeon-indonesia.m3u8
