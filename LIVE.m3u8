@@ -1,5 +1,88 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="ext" group-title="USEALL4", ==ANAK2==
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Babyfirst
+https://newlivetv.my.id:443/useetv/babyfirst-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Babybus
+https://newlivetv.my.id:443/youtube/babybus-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Biznetkids
+http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",BIZNETKIDS
+http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/chunklist_w1897903505_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Booba
+https://newlivetv.my.id:443/youtube/booba-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Boomerang 
+https://newlivetv.my.id:443/useetv/boomerang-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Cartoon Network 
+https://newlivetv.my.id:443/useetv/cartoonnetwork-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Dreamworks 
+https://newlivetv.my.id:443/useetv/cartoonnetwork-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Mykids
+https://newlivetv.my.id:443/useetv/mykids-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Nickjr 
+https://newlivetv.my.id:443/useetv/nickjr-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Nickelodeon 
+https://newlivetv.my.id:443/useetv/nickelodeon-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Nickelodeon live
+https://newlivetv.my.id:443/youtube/nickelodeon-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Ducktv
+https://newlivetv.my.id:443/useetv/ducktv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Chuchu
+https://newlivetv.my.id:443/youtube/chuchu-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Dave
+https://newlivetv.my.id:443/youtube/dave-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Kidstv
+https://newlivetv.my.id:443/youtube/kidstv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Leo
+https://newlivetv.my.id:443/youtube/leo-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Lbb
+https://newlivetv.my.id:443/youtube/lbb-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Disney 
+https://newlivetv.my.id:443/youtube/disney-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Oddbods
+https://newlivetv.my.id:443/youtube/oddbods-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Paw patrol
+https://newlivetv.my.id:443/youtube/paw-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Pjmask
+https://newlivetv.my.id:443/youtube/pjmask-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Pocoyo
+https://newlivetv.my.id:443/youtube/pocoyo-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Pororo
+https://newlivetv.my.id:443/youtube/pororo-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Robocar
+https://newlivetv.my.id:443/youtube/robocar-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Talking tom
+https://newlivetv.my.id:443/youtube/tom-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Tayo
+https://newlivetv.my.id:443/youtube/tayo-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Tom&Jerry
+https://newlivetv.my.id:443/youtube/tomjerry-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",==Berita==
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Antara
+https://newlivetv.my.id:443/useetv/antara-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Beritasatu
+http://edge.linknetott.swiftserve.com:80/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Cnn Indonesia 
+http://live.cnnindonesia.com:80/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Idx
+https://newlivetv.my.id:443/useetv/idx-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Jakarta globe
+http://edge.linknetott.swiftserve.com:80/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Rri net
+https://newlivetv.my.id:443/useetv/rrinet-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Seatoday
+https://newlivetv.my.id:443/useetv/seatoday-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Trtworld
+https://tv-trtworld.live.trt.com.tr:443/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Tv5 monde 
+https://newlivetv.my.id:443/useetv/tv5monde-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Voa
+http://voa-lh.akamaihd.net:80/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Aljazeera
+https://newlivetv.my.id:443/youtube/aljazeera-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Abc Australia 
+https://newlivetv.my.id:443/useetv/abcaustralia-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",==FILM==
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo
 https://newlivetv.my.id:443/hbo/hbo.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Familyy
@@ -20,7 +103,7 @@ https://newlivetv.my.id:443/channel/play.mpeg?id=491&key=NDkx&stream_key=MdLvZvG
 http://103.253.24.177:25461/1203601681/5001441982/1478?token=QhBYV0dYRg4TCgYGVgZSBFYGAAoCAFAADFEFUFFVA1UPClIGVVMGAgYaSBAQEEJXVQhvWgIbCVQNAwgdQ0MSB0ttWVIWCkYFAQhSBFBGHBBADF1WRAMCUwkABQFVBVhQFRBAX1ASXhYCDFcFQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgoTNVMNB1JdXUNaWQ9VQlFEew0AX1xRFllSRhFjMRAWHBMDXxUQWEZVFA4SVgMECEYeQQdfR1oRQkpEAxEsfRYcEwROFQdXQVlZWhJeFkVLRh5BDUNtRgBDRxRcUghcRhILQwZDThtfUU5rUwtaX10HRgoLXkEWXxICRBURCFZaWUUORD4SUFYSDBYDVQwFC0ZP
 https://newlivetv.my.id:443/channel/play.mp4?id=321&key=MzIx&stream_key=MdLvZvGZ&source=
 
-
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",==LOKAL==
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Gtv
 https://newlivetv.my.id:443/vidio/778-LiveTV.m3u8?livetv&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Mnctv 
@@ -53,7 +136,7 @@ https://newlivetv.my.id:443/useetv/metrotv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvG
 https://newlivetv.my.id:443/useetv/kompastv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",InewsTv
 https://newlivetv.my.id:443/useetv/inewstv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",==ENTERTAINMENT==
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Thrill
 https://newlivetv.my.id:443/channel/play.m3u8?id=117&key=MTE3&stream_key=MdLvZvGZ&source=useetv
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",thrill
