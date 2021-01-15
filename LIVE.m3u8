@@ -168,4 +168,149 @@ http://210.210.155.35:80/uq2663/h/h37/index2.m3u8
 https://newlivetv.my.id:443/useetv/imc-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 
 
+User-Agent 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+
+User-Agent 
+LiveTVGO
+
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",BeinSport 1
+https://newlivetv.my.id:443/useetv/bein1-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",BeinSport 2
+https://newlivetv.my.id:443/useetv/bein2-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",FoxSports1 
+https://newlivetv.my.id:443/useetv/foxsport1-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",FoxSports2 
+https://newlivetv.my.id:443/useetv/foxsport2-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",FoxSports3 
+https://newlivetv.my.id:443/useetv/foxsport3-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",FoxSports usa
+http://austchannel-live.akamaized.net:80/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Useesport 1
+https://newlivetv.my.id:443/useetv/useesport-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Useesports2 
+https://newlivetv.my.id:443/useetv/useesports2-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Afn
+https://newlivetv.my.id:443/useetv/afc-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Biznet_adventure 
+http://livestream.biznetvideo.net:80/biznet_adventure/smil:adventure.smil/chunklist_w1569923340_b5256000_slen.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdyv_lWVEr0cSEOBCkIyfTS
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Cgtndocumentary 
+https://newlivetv.my.id:443/useetv/cgtndocumentary-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",CrimeInvestigation
+https://newlivetv.my.id:443/useetv/crimeinvestigation-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Discovery Asia
+https://livecdn.fptplay.net:443/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Discovery Channel 
+https://newlivetv.my.id:443/useetv/disco-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",History
+https://newlivetv.my.id:443/useetv/history-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Lingua
+https://newlivetv.my.id:443/useetv/lingua-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Nasa
+https://newlivetv.my.id:443/youtube/nasa-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Natgeo People 
+https://newlivetv.my.id:443/useetv/natgeopeople-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Natgeo Wild
+https://newlivetv.my.id:443/useetv/natgeowild-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Natgeo 
+https://newlivetv.my.id:443/useetv/natgeo-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Tv edukasi 
+https://newlivetv.my.id:443/useetv/tvedukasi-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Citra dangdut 
+https://newlivetv.my.id:443/useetv/citradangdut-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Gp records
+https://newlivetv.my.id:443/youtube/GPRecords-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Jk Records
+https://newlivetv.my.id:443/youtube/jkrecords-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Maleo
+http://stream1.ninmedia.tv:1935/maleo/udp.stream/chunklist_w1774845251.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Mgs Tv
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Mtv live 
+https://newlivetv.my.id:443/useetv/mtvlive-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Musica
+https://newlivetv.my.id:443/youtube/musica-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Music top
+http://live-edge01.telecentro.net.ar:80/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Nagaswara dangdut
+https://newlivetv.my.id:443/youtube/nagaswaradangdut-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Pelangi records 
+https://newlivetv.my.id:443/youtube/pelangi-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Pop musik 
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",PramborsTv
+https://newlivetv.my.id:443/useetv/pramborstv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Arirang 
+https://amdlive-ch01-ctnd-com.akamaized.net:443/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",K+
+https://newlivetv.my.id:443/useetv/kplus-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Kbs world
+https://newlivetv.my.id:443/useetv/kbsworld-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Kbs world Indonesia 
+https://newlivetv.my.id:443/youtube/Kbsindonesian-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",One
+https://newlivetv.my.id:443/useetv/sone-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Tvn 
+https://newlivetv.my.id:443/useetv/tvn-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Waku waku 
+https://newlivetv.my.id:443/useetv/wakuwaku-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Nhk world
+https://newlivetv.my.id:443/useetv/nhkworld-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Aniplus 
+https://newlivetv.my.id:443/useetv/aniplus-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Animax 
+https://newlivetv.my.id:443/useetv/animax-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Sony gem
+https://newlivetv.my.id:443/useetv/sgem-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Tv9
+https://newlivetv.my.id:443/useetv/tv9-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Wesaltv
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w409605423.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Tawaftv
+https://newlivetv.my.id:443/useetv/tawaftv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Tarbiyah
+https://newlivetv.my.id:443/youtube/tarbiyah-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Surautv
+http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Salingsapa
+http://stream1.ninmedia.tv:1935/salingsapa/rtmp.stream_360p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Salamtv
+http://wowza60.indostreamserver.com:1935/salamtv/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Rodjatv
+https://newlivetv.my.id:443/useetv/rodjatv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Rifqantv
+https://newlivetv.my.id:443/youtube/rifqan-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",NuChannel
+http://stream1.ninmedia.tv:1935/nuchannel/udp.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Nabawitv
+http://stream1.ninmedia.tv:1935/nabawitv/nabawitv/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Muitv
+https://newlivetv.my.id:443/useetv/muitv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Muhammadiyahtv
+https://newlivetv.my.id:443/useetv/muhammadiyahtv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Muadztv
+http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",MtaTv
+https://newlivetv.my.id:443/useetv/mtatv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Mqtv
+https://newlivetv.my.id:443/useetv/mqtv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Alsunnah
+http://cdnamd-hls-globecast.akamaized.net:80/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Alquran 
+https://newlivetv.my.id:443/useetv/alquran-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Aliman
+http://vs.suaraaliman.com:1935/aliman/HD/chunklist_w1151081893.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Ahsantv
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Mgitv
+https://tv.rodja.live:443/tasik/mgitv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Makkahtv
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Madani
+https://stream.asianastream.com:443/madani/ngrp:madanitv_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Izzahtv
+https://streaming.sigraduta.co.id:443/izzahtv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Fatwatv
+https://newlivetv.my.id:443/youtube/fatwa-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+
 
