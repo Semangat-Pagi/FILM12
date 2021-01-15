@@ -1,6 +1,10 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3", ==ANAK2==
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Aniplus 
+https://newlivetv.my.id:443/useetv/aniplus-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Animax 
+https://newlivetv.my.id:443/useetv/animax-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Babyfirst
 https://newlivetv.my.id:443/useetv/babyfirst-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Babybus
@@ -168,12 +172,6 @@ http://210.210.155.35:80/uq2663/h/h37/index2.m3u8
 https://newlivetv.my.id:443/useetv/imc-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 
 
-User-Agent 
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
-
-User-Agent 
-LiveTVGO
-
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",BeinSport 1
 https://newlivetv.my.id:443/useetv/bein1-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",BeinSport 2
@@ -256,10 +254,6 @@ https://newlivetv.my.id:443/useetv/tvn-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 https://newlivetv.my.id:443/useetv/wakuwaku-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Nhk world
 https://newlivetv.my.id:443/useetv/nhkworld-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Aniplus 
-https://newlivetv.my.id:443/useetv/aniplus-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Animax 
-https://newlivetv.my.id:443/useetv/animax-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Sony gem
 https://newlivetv.my.id:443/useetv/sgem-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Tv9
