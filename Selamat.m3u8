@@ -92,10 +92,13 @@ http://bonetv.site:55555/bone/streaming/5
 #EXTINF:0 tvg-id="fox-crime" group-title="UseetvAll",Fox
 http://bonetv.site:55555/bone/streaming/3
 #EXTINF:0 tvg-id="TVN.pl" group-title="UseetvAll",TvN
+https://newbonetv.xyz:443/m3u/usee-tvn-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/786
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TvN Movies
+https://newbonetv.xyz:443/m3u/usee-tvnmovies-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/787
 #EXTINF:0 tvg-id="AXN.bg" group-title="UseetvAll",AXN
+https://newbonetv.xyz:443/m3u/usee-axn-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/788
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Galaxy Premium
 https://newbonetv.xyz:443/m3u/usee-galaxypremium-Banyuwangi1122.m3u8
@@ -103,28 +106,38 @@ https://newbonetv.xyz:443/m3u/usee-galaxypremium-Banyuwangi1122.m3u8
 https://newbonetv.xyz:443/m3u/usee-galaxy-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/801
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Bioskop
+https://newbonetv.xyz:443/m3u/usee-citrabioskop-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/790
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Drama
+https://newbonetv.xyz:443/m3u/usee-citradrama-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/791
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Zee Bioskop
+https://newbonetv.xyz:443/m3u/usee-zbioskop-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/792
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Flik
+https://newbonetv.xyz:443/m3u/usee-flik-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/793
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",IMC
+https://newbonetv.xyz:443/m3u/usee-imc-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/794
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Cinema World
+https://newbonetv.xyz:443/m3u/usee-cinemaworld-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/795
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Celestial Movie
 http://bonetv.site:55555/bone/streaming/796
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Celestial Classic Movies
 http://bonetv.site:55555/bone/streaming/798
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Thrill
+https://newbonetv.xyz:443/m3u/usee-thrill-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/799
 #EXTINF:0 tvg-id="WarnerHD.mx" group-title="UseetvAll",Warner TV
+https://newbonetv.xyz:443/m3u/usee-warner-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/800
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Chinese Drama
+https://newbonetv.xyz:443/m3u/usee-chinesedrama-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/802
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Bioskop Indonesia
+https://newbonetv.xyz:443/m3u/usee-bioskopindonesia-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/807
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Entertainment
 http://bonetv.site:55555/bone/streaming/830
