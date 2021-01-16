@@ -99,7 +99,9 @@ http://bonetv.site:55555/bone/streaming/787
 http://bonetv.site:55555/bone/streaming/788
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Galaxy Premium
 https://newbonetv.xyz:443/m3u/usee-galaxypremium-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/789
+#EXTINF:0 tvg-id="galaxy" group-title="UseetvAll",Galaxy
+https://newbonetv.xyz:443/m3u/usee-galaxy-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/801
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Bioskop
 http://bonetv.site:55555/bone/streaming/790
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Drama
@@ -120,8 +122,6 @@ http://bonetv.site:55555/bone/streaming/798
 http://bonetv.site:55555/bone/streaming/799
 #EXTINF:0 tvg-id="WarnerHD.mx" group-title="UseetvAll",Warner TV
 http://bonetv.site:55555/bone/streaming/800
-#EXTINF:0 tvg-id="galaxy" group-title="UseetvAll",Galaxy
-http://bonetv.site:55555/bone/streaming/801
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Chinese Drama
 http://bonetv.site:55555/bone/streaming/802
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Bioskop Indonesia
@@ -239,6 +239,7 @@ http://bonetv.site:55555/bone/streaming/900
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Eat & Go
 http://bonetv.site:55555/bone/streaming/901
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",AFN
+https://newbonetv.xyz:443/m3u/usee-afc-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/902
 #EXTINF:0 tvg-id="Lifetime.uk" group-title="UseetvAll",Lifetime
 http://bonetv.site:55555/bone/streaming/903
