@@ -10,7 +10,7 @@ http://bonetv.site:55555/bone/streaming/745
 https://newbonetv.xyz:443/m3u/vidio-rcti-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/746
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",MNC TV
-https://newbonetv.xyz:443/m3u/vidio-mnctv-Banyuwangi1122.m3u8
+https://newbonetv.xyz:443/m3u/vidio-mnc-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/747
 #EXTINF:0 tvg-id="gtv.il" group-title="UseetvAll",GTV'
 https://newbonetv.xyz:443/m3u/vidio-gtv-Banyuwangi1122.m3u8
@@ -24,16 +24,23 @@ http://bonetv.site:55555/bone/streaming/750
 https://newbonetv.xyz:443/m3u/vidio-indosiar-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/751
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",Metro TV
+https://newbonetv.xyz:443/m3u/vidio-metrotv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/752
+#EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",KOMPASTV
+https://newbonetv.xyz:443/m3u/vidio-kompastv-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Berita Satu
 http://bonetv.site:55555/bone/streaming/754
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Jak TV
+https://newbonetv.xyz:443/m3u/usee-jaktv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/757
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Rajawali TV
+https://newbonetv.xyz:443/m3u/usee-rtv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/758
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",DAAI TV
+https://newbonetv.xyz:443/m3u/usee-daaitv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/759
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",ANTARA
+https://newbonetv.xyz:443/m3u/usee-antara-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/763
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",JITV
 http://bonetv.site:55555/bone/streaming/765
