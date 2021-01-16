@@ -23,6 +23,12 @@ http://bonetv.site:55555/bone/streaming/750
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Indosiar
 https://newbonetv.xyz:443/m3u/vidio-indosiar-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/751
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",JTV
+http://bonev2.xyz:80/playlist/usee-jtv-new-bonetv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",MAGNA
+http://bonev2.xyz:80/playlist/plus-magna-new-bonetv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",RTV
+http://bonev2.xyz:80/playlist/vidio-rtv-new-bonetv.m3u8
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",Metro TV
 https://newbonetv.xyz:443/m3u/vidio-metrotv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/752
@@ -38,8 +44,6 @@ http://bonetv.site:55555/bone/streaming/754
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Jak TV
 https://newbonetv.xyz:443/m3u/usee-jaktv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/757
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Rajawali TV
-https://newbonetv.xyz:443/m3u/usee-rtv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/758
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",DAAI TV
 https://newbonetv.xyz:443/m3u/usee-daaitv-Banyuwangi1122.m3u8
@@ -47,41 +51,12 @@ http://bonetv.site:55555/bone/streaming/759
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",ANTARA
 https://newbonetv.xyz:443/m3u/usee-antara-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/763
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",JITV
-https://newbonetv.xyz:443/m3u/usee-JITV-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/765
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",JTV
-https://newbonetv.xyz:443/m3u/usee-Jtv-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/766
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Magna TV
-http://bonetv.site:55555/bone/streaming/768
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",RRI NET
 https://newbonetv.xyz:443/m3u/usee-rrinet-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/769
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",ID KU
 https://newbonetv.xyz:443/m3u/usee-idku-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/770
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",TVRI Yogyakarta
-https://newbonetv.xyz:443/m3u/usee-tvri-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/772
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Jogja TV
-http://bonetv.site:55555/bone/streaming/773
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Spacetoon
-https://newbonetv.xyz:443/m3u/usee-spacetoon-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/23
-#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="UseetvAll",Hits
-https://newbonetv.xyz:443/m3u/usee-hits-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/24
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Duta TV
-http://bonetv.site:55555/bone/streaming/36
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",TVRI Sport
-http://bonetv.site:55555/bone/streaming/133
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Sinema Indonesia
-http://bonetv.site:55555/bone/streaming/135
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Sinema Indonesia X
-http://bonetv.site:55555/bone/streaming/136
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Disney XD bone
-http://bonetv.site:55555/bone/streaming/141
 #EXTINF:0 tvg-id="HBOAdria.rs" group-title="UseetvAll",HBO
 https://newbonetv.xyz:443/m3u/Go-hbo-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/774
