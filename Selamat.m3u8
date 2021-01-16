@@ -13,6 +13,8 @@ http://bonetv.site:55555/bone/streaming/746
 http://bonetv.site:55555/bone/streaming/747
 #EXTINF:0 tvg-id="gtv.il" group-title="UseetvAll",GTV
 http://bonetv.site:55555/bone/streaming/748
+#EXTINF:0 tvg-id="gtv.il" group-title="UseetvAll",GTV'
+https://newbonetv.xyz:443/m3u/vidio-gtv-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="NETtv.svn" group-title="UseetvAll",NET TV
 http://bonetv.site:55555/bone/streaming/749
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",SCTV
