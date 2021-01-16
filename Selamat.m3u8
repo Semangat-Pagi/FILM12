@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-id="TVOne.uk" group-title="UseetvAll",TV One
-http://bonetv.site:55555/bone/streaming/144
+#EXTINF:0 tvg-id="TVOne.uk" group-title="UseetvAll",TV Onee
+http://bonetv.site:55555/bone/bone/144
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TransTV
 http://bonetv.site:55555/bone/streaming/744
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Trans7
