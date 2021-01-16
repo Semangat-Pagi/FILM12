@@ -1,25 +1,27 @@
 #EXTM3U
-#EXTINF:0 tvg-id="TVOne.uk" group-title="UseetvAll",TV Onee
-http://bonetv.site:55555/bone/bone/144
+
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TransTV
+https://newbonetv.xyz:443/m3u/vidio-transtv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/744
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Trans7
+https://newbonetv.xyz:443/m3u/vidio-trans7-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/745
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",ANTV
-http://bonetv.site:55555/bone/streaming/21
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",RCTI
+https://newbonetv.xyz:443/m3u/vidio-rcti-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/746
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",MNC TV
+https://newbonetv.xyz:443/m3u/vidio-mnctv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/747
-#EXTINF:0 tvg-id="gtv.il" group-title="UseetvAll",GTV
-http://bonetv.site:55555/bone/streaming/748
 #EXTINF:0 tvg-id="gtv.il" group-title="UseetvAll",GTV'
 https://newbonetv.xyz:443/m3u/vidio-gtv-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="NETtv.svn" group-title="UseetvAll",NET TV
+https://newbonetv.xyz:443/m3u/vidio-net-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/749
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",SCTV
+https://newbonetv.xyz:443/m3u/vidio-sctv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/750
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Indosiar
+https://newbonetv.xyz:443/m3u/vidio-indosiar-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/751
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",Metro TV
 http://bonetv.site:55555/bone/streaming/752
