@@ -28,7 +28,12 @@ https://newbonetv.xyz:443/m3u/vidio-metrotv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/752
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",KOMPASTV
 https://newbonetv.xyz:443/m3u/vidio-kompastv-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",CNBC INDONESIA 
+https://newbonetv.xyz:443/m3u/usee-cnbcindonesia-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",CNN INDONESIA 
+https://newbonetv.xyz:443/m3u/usee-cnnindonesia-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Berita Satu
+https://newbonetv.xyz:443/m3u/vidio-beritasatu-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/754
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Jak TV
 https://newbonetv.xyz:443/m3u/usee-jaktv-Banyuwangi1122.m3u8
@@ -43,22 +48,29 @@ http://bonetv.site:55555/bone/streaming/759
 https://newbonetv.xyz:443/m3u/usee-antara-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/763
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",JITV
+https://newbonetv.xyz:443/m3u/usee-JITV-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/765
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",JTV
+https://newbonetv.xyz:443/m3u/usee-Jtv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/766
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Magna TV
 http://bonetv.site:55555/bone/streaming/768
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",RRI NET
+https://newbonetv.xyz:443/m3u/usee-rrinet-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/769
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",ID KU
+https://newbonetv.xyz:443/m3u/usee-idku-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/770
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TVRI Yogyakarta
+https://newbonetv.xyz:443/m3u/usee-tvri-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/772
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Jogja TV
 http://bonetv.site:55555/bone/streaming/773
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Spacetoon
+https://newbonetv.xyz:443/m3u/usee-spacetoon-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/23
 #EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="UseetvAll",Hits
+https://newbonetv.xyz:443/m3u/usee-hits-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/24
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Duta TV
 http://bonetv.site:55555/bone/streaming/36
