@@ -98,6 +98,7 @@ http://bonetv.site:55555/bone/streaming/787
 #EXTINF:0 tvg-id="AXN.bg" group-title="UseetvAll",AXN
 http://bonetv.site:55555/bone/streaming/788
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Galaxy Premium
+https://newbonetv.xyz:443/m3u/usee-galaxypremium-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/789
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Bioskop
 http://bonetv.site:55555/bone/streaming/790
