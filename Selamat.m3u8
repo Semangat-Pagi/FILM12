@@ -45,6 +45,8 @@ http://bonetv.site:55555/bone/streaming/754
 https://newbonetv.xyz:443/m3u/usee-jaktv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/757
 http://bonetv.site:55555/bone/streaming/758
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",MYTV
+http://bonev2.xyz:80/playlist/vidio-mytv-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",DAAI TV
 https://newbonetv.xyz:443/m3u/usee-daaitv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/759
@@ -85,6 +87,12 @@ http://bonetv.site:55555/bone/streaming/6
 http://bonetv.site:55555/bone/streaming/5
 #EXTINF:0 tvg-id="fox-crime" group-title="UseetvAll",Fox
 http://bonetv.site:55555/bone/streaming/3
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SINEMA INDONESIA 
+http://bonev2.xyz:80/oxygen.id/sinemaindonesia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SINEMA INDONESIA X
+http://bonev2.xyz:80/oxygen.id/sinemaindonesia-x.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",CELESTIAL MOVIE
+https://newbonetv.xyz:443/m3u/usee-celestialmovie-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="TVN.pl" group-title="UseetvAll",TvN
 https://newbonetv.xyz:443/m3u/usee-tvn-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/786
@@ -115,10 +123,6 @@ http://bonetv.site:55555/bone/streaming/794
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Cinema World
 https://newbonetv.xyz:443/m3u/usee-cinemaworld-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/795
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Celestial Movie
-http://bonetv.site:55555/bone/streaming/796
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Celestial Classic Movies
-http://bonetv.site:55555/bone/streaming/798
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Thrill
 https://newbonetv.xyz:443/m3u/usee-thrill-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/799
