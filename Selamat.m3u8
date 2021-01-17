@@ -57,6 +57,8 @@ http://bonetv.site:55555/bone/streaming/763
 https://newbonetv.xyz:443/m3u/usee-rrinet-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/769
 http://bonetv.site:55555/bone/streaming/770
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",HBO Stream 
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:0 tvg-id="HBOAdria.rs" group-title="UseetvAll",HBO
 https://newbonetv.xyz:443/m3u/Go-hbo-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/774
@@ -91,6 +93,8 @@ http://bonetv.site:55555/bone/streaming/3
 http://bonev2.xyz:80/oxygen.id/sinemaindonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",SINEMA INDONESIA X
 http://bonev2.xyz:80/oxygen.id/sinemaindonesia-x.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",CELESTIAL CLASSIC MOVIE 
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",CELESTIAL MOVIE
 https://newbonetv.xyz:443/m3u/usee-celestialmovie-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="TVN.pl" group-title="UseetvAll",TvN
