@@ -54,8 +54,6 @@ http://bonetv.site:55555/bone/streaming/763
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",RRI NET
 https://newbonetv.xyz:443/m3u/usee-rrinet-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/769
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",ID KU
-https://newbonetv.xyz:443/m3u/usee-idku-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/770
 #EXTINF:0 tvg-id="HBOAdria.rs" group-title="UseetvAll",HBO
 https://newbonetv.xyz:443/m3u/Go-hbo-Banyuwangi1122.m3u8
@@ -101,8 +99,6 @@ https://newbonetv.xyz:443/m3u/usee-galaxypremium-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="galaxy" group-title="UseetvAll",Galaxy
 https://newbonetv.xyz:443/m3u/usee-galaxy-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/801
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Bioskop
-https://newbonetv.xyz:443/m3u/usee-cbioskop-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/790
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Drama
 https://newbonetv.xyz:443/m3u/usee-cdrama-Banyuwangi1122.m3u8
@@ -135,8 +131,6 @@ http://bonetv.site:55555/bone/streaming/802
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Bioskop Indonesia
 https://newbonetv.xyz:443/m3u/usee-bioskopindonesia-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/807
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Entertainment
-http://bonetv.site:55555/bone/streaming/830
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",BlueAnt Entertainmrnt
 https://newbonetv.xyz:443/m3u/usee-blueant-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/831
@@ -173,10 +167,6 @@ http://bonetv.site:55555/bone/streaming/842
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Horee
 https://newbonetv.xyz:443/m3u/usee-horee-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/843
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Hip Hip Horee
-http://bonetv.site:55555/bone/streaming/844
-#EXTINF:0 tvg-id="Zoomoo.br" group-title="UseetvAll",ZooMoo
-http://bonetv.site:55555/bone/streaming/845
 #EXTINF:0 tvg-id="Animax.de" group-title="UseetvAll",Animax
 https://newbonetv.xyz:443/m3u/usee-animax-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/846
@@ -204,6 +194,8 @@ http://bonetv.site:55555/bone/streaming/853
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Davinci Learn
 https://newbonetv.xyz:443/m3u/usee-davinci-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/854
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Davinci vidio 
+http://bonev2.xyz:80/playlist/vidio-davinci-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Dreamwork
 https://newbonetv.xyz:443/m3u/usee-dreamworks-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/855
@@ -213,18 +205,15 @@ http://bonetv.site:55555/bone/streaming/8560778210
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",CCTV4
 https://newbonetv.xyz:443/m3u/usee-cctv4-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="LoveNature.uk" group-title="UseetvAll",Love Nature
+http://bonev2.xyz:80/playlist/vidio-love-nature-new-bonetv.m3u8
 http://bonetv.site:55555/bone/streaming/857
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Smithsonian
+http://bonev2.xyz:80/playlist/vidio-smithsonian-new-bonetv.m3u8
 http://bonetv.site:55555/bone/streaming/858
 #EXTINF:0 tvg-id="discov_rus" group-title="UseetvAll",Discovery Channel
+http://bonev2.xyz:80/playlist/usee-disco-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-discoverychannel-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/859
-#EXTINF:0 tvg-id="animal_rus" group-title="UseetvAll",Animal Planet
-https://newbonetv.xyz:443/m3u/usee-animalplanet-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/860
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Discovery Asia
-https://newbonetv.xyz:443/m3u/usee-discoveryasia-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/861
 #EXTINF:0 tvg-id="history-rus" group-title="UseetvAll",History
 https://newbonetv.xyz:443/m3u/usee-history-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/862
@@ -237,6 +226,12 @@ http://bonetv.site:55555/bone/streaming/864
 #EXTINF:0 tvg-id="natgeo" group-title="UseetvAll",National Geographic
 https://newbonetv.xyz:443/m3u/usee-natgeo-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/865
+#EXTINF:0 tvg-id="natgeo" group-title="UseetvAll",HGTV 
+http://bonev2.xyz:80/playlist/usee-hgtv-new-bonetv.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="UseetvAll",AFC
+http://bonev2.xyz:80/playlist/usee-afc-new-bonetv.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="UseetvAll",TV EDUKASI 
+http://bonev2.xyz:80/playlist/vidio-tv-edukasi-new-bonetv.m3u8
 #EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="UseetvAll",Crime Investigation
 https://newbonetv.xyz:443/m3u/usee-crimeinvestigation-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/866
@@ -245,9 +240,6 @@ https://newbonetv.xyz:443/m3u/usee-cgtndocumrntary-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/867
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Lingua Channel
 https://newbonetv.xyz:443/m3u/usee-lingua-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/868
-#EXTINF:0 tvg-id="da_vinci-rus" group-title="UseetvAll",Da Vinci
-http://bonetv.site:55555/bone/streaming/869
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Tv Edukasi
 https://newbonetv.xyz:443/m3u/usee-tvedukasi-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/870
@@ -257,39 +249,26 @@ http://bonetv.site:55555/bone/streaming/871
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Prambors Tv
 https://newbonetv.xyz:443/m3u/usee-pramborstv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/872
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",I Konser
-http://bonetv.site:55555/bone/streaming/873
-#EXTINF:0 tvg-id="Zing.uk" group-title="UseetvAll",Zing
-http://bonetv.site:55555/bone/streaming/874
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Dangdut
 https://newbonetv.xyz:443/m3u/usee-citradangdut-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/875
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",POP Musik
-http://bonetv.site:55555/bone/streaming/881
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Karaoke
-http://bonetv.site:55555/bone/streaming/882
-#EXTINF:0 tvg-id="9XM.in" group-title="UseetvAll",9XM
-http://bonetv.site:55555/bone/streaming/884
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",MTV+
-http://bonetv.site:55555/bone/streaming/886
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Insert
+https://newbonetv.xyz:443/m3u/usee-insert-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/892
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",RUANG TERAMPIL
+https://newbonetv.xyz:443/m3u/usee-ruangterampil-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/893
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",USEE PHOTO
+https://newbonetv.xyz:443/m3u/usee-useephoto-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/894
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",USEE PRIME
-http://bonetv.site:55555/bone/streaming/895
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Indihome Shop
-http://bonetv.site:55555/bone/streaming/897
+https://newbonetv.xyz:443/m3u/usee-useeprime-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",MNC Shop
+https://newbonetv.xyz:443/m3u/usee-mncshop-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/900
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Eat & Go
 https://newbonetv.xyz:443/m3u/usee-eatgo-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/901
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",AFN
-https://newbonetv.xyz:443/m3u/usee-afn-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/902
 #EXTINF:0 tvg-id="Lifetime.uk" group-title="UseetvAll",Lifetime
 http://bonetv.site:55555/bone/streaming/903
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Fashion Global
