@@ -171,7 +171,10 @@ http://210.210.155.35:80/uq2663/h/h37/index2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Imc
 https://newlivetv.my.id:443/useetv/imc-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 
-
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",tes
+https://newlivetv.my.id:443/vidio/6785-LiveTV.m3u8?livetv&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",CHAMPION3
+https://newlivetv.my.id:443/vidio/6786-LiveTV.m3u8?livetv&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",BeinSport 1
 https://newlivetv.my.id:443/useetv/bein1-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",BeinSport 2
