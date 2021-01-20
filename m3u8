@@ -53,13 +53,14 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",MOVIES X
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Docurama
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",MOVIE KINGDOM 
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",MNX
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO2
+http://136.243.177.164/HBO2/playlist.m3u8
 https://timesnow.airtel.tv:443/live/MNX_pull/chunklist_3.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",ROMEDY NOW
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",CINEMAX 
+http://nemu@136.243.177.164/CINEMAX/playlist.m3u8
 https://timesnow.airtel.tv:443/live/RN_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",WIXLAR
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
