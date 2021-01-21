@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3", ==ANAK2==
+https://livetvgo.my.id:443/useetv/aniplus-LiveTVGO.m3u8?LiveTVGO&stream_key=eyJ1c2VyX2lkIjogIjU5ODdiMTlhMjgwYjNmMCIsICJpZCI6IDEzOCwidGltZSI6IDE2MTEyNDEyNDh9
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Aniplus 
 https://newlivetv.my.id:443/useetv/aniplus-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Animax 
