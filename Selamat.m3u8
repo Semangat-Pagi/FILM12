@@ -335,10 +335,12 @@ http://bonetv.site:55555/bone/streaming/813
 https://newbonetv.xyz:443/m3u/usee-foxsport3-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/814
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Champion TV 1
+http://bonev2.xyz:80/playlist/vidio-champions1-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/vidio-champion1-Banyuwangi1122.m3u8
 https://newbonetv.xyz:443/m3u/usee-champions1-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/815
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Champion TV 2
+http://bonev2.xyz:80/playlist/vidio-champions-2-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/vidio-champions2-Banyuwangi1122.m3u8
 https://newbonetv.xyz:443/m3u/usee-champions2-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/816
