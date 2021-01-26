@@ -358,8 +358,3 @@ https://newbonetv.xyz:443/m3u/usee-golfplus-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/822
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",EGG Network
 https://newbonetv.xyz:443/m3u/usee-egg-Banyuwangi1122.m3u8
-#EXTINF:-1 group-title="UseetvAll",USEESPORT 1
-https://bonetv.xyz/m3u/usee-useesport-boneplay.m3u8
-#EXTINF:-1 group-title="UseetvAll",USEE SPORT 2
-https://bonetv.xyz/m3u/usee-useesports2-boneplay.m3u8
-#
