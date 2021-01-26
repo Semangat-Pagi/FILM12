@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",tes
-https://indolk21.me/v/8805gf80d0x0lep
-https://www344.ff-01.com:443/token=xjBgUIMHpYaiUdexG6Fi-w/1611530009/180.242.0.0/149/7/46/46078b8664e218390c8d39bec649d467-360p.mp4
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TransTV
 https://newbonetv.xyz:443/m3u/vidio-transtv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/744
@@ -361,3 +358,8 @@ https://newbonetv.xyz:443/m3u/usee-golfplus-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/822
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",EGG Network
 https://newbonetv.xyz:443/m3u/usee-egg-Banyuwangi1122.m3u8
+#EXTINF:-1 group-title="UseetvAll",USEESPORT 1
+https://bonetv.xyz/m3u/usee-useesport-boneplay.m3u8
+#EXTINF:-1 group-title="UseetvAll",USEE SPORT 2
+https://bonetv.xyz/m3u/usee-useesports2-boneplay.m3u8
+#
