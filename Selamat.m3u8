@@ -84,19 +84,6 @@ https://newbonetv.xyz/m3u/Go-max-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/778
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",RED by HBO
 https://newbonetv.xyz/m3u/Go-red-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/779
-#EXTINF:0 tvg-id="fox-crime" group-title="UseetvAll",FOX
-http://bonetv.site:-9980/bone/streaming/780
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",FOX Movies Premium
-http://bonetv.site:55555/bone/streaming/781
-#EXTINF:0 tvg-id="fox-crime" group-title="UseetvAll",FOX Crime
-http://bonetv.site:55555/bone/streaming/784
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Fox action movies
-http://bonetv.site:55555/bone/streaming/6
-#EXTINF:0 tvg-id="fox-life" group-title="UseetvAll",Fox Life
-http://bonetv.site:55555/bone/streaming/5
-#EXTINF:0 tvg-id="fox-crime" group-title="UseetvAll",Fox
-http://bonetv.site:55555/bone/streaming/3
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",SINEMA INDONESIA 
 http://bonev2.xyz:80/oxygen.id/sinemaindonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",SINEMA INDONESIA X
