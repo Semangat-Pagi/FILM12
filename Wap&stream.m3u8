@@ -1,3 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",tes
+https://livetvgo.my.id:443/live/play.m3u8?key=eyJ1c2VyX2lkIjogIjU5ODdiMTlhMjgwYjNmMCIsICJpZCI6IDEyNSwidGltZSI6IDE2MTE3Mzk0OTB9
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",ANTV(wap)
 http://nonton.wap.sh/id/001.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA",INDOSIAR(wap)
