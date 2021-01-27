@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",MY CINEMA
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",KUNGFU CLASSIC ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",K+
