@@ -79,7 +79,10 @@ https://autolistmaling.dstream.xyz:443/a/muter_foxsport2_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",FOXSPORTS3
 https://nsx1.vitv.site:443/jakarta/play/foxsport3/index.m3u8?access_key=g6a6RUa3bu4ACtvt
 https://autolistmaling.dstream.xyz:443/a/muter_foxsport3_V0il4h3r0sM1li.m3u8
+
+
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",RCTI
+https://nsx1.vitv.site:443/kurangtampan/play/665/index.m3u8?access_key=g6a6RUa3bu4ACtvt
 https://nsx1.vitv.site:443/jakarta/play/rcti/index.m3u8?access_key=g6a6RUa3bu4ACtvt
 https://autolistmaling.dstream.xyz:443/m/play_rcti_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",SCTV
@@ -89,9 +92,11 @@ https://autolistmaling.dstream.xyz:443/m/play_sctv_V0il4h3r0sM1li.m3u8
 https://nsx1.vitv.site:443/jakarta/play/indosiar/index.m3u8?access_key=g6a6RUa3bu4ACtvt
 https://autolistmaling.dstream.xyz:443/m/play_indosiar_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",GLOBAL TV
+https://nsx1.vitv.site:443/kurangtampan/play/778/index.m3u8?access_key=g6a6RUa3bu4ACtvt
 https://nsx1.vitv.site:443/jakarta/play/gtv/index.m3u8?access_key=g6a6RUa3bu4ACtvt
 https://autolistmaling.dstream.xyz:443/m/play_gtv_V0il4h3r0sM1li.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",MNCTV
+https://nsx1.vitv.site:443/kurangtampan/play/870/index.m3u8?access_key=g6a6RUa3bu4ACtvt
 https://nsx1.vitv.site:443/jakarta/play/mnc/index.m3u8?access_key=g6a6RUa3bu4ACtvt
 https://autolistmaling.dstream.xyz:443/m/play_mnc_V0il4h3r0sM1li.m3u8
 https://nsx1.vitv.site:443/jakarta/play/rc/index.m3u8?access_key=g6a6RUa3bu4ACtvt
