@@ -1,0 +1,42 @@
+
+User-Agent: com.baru.terbaru
+
+Indonesia 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Kompas
+https://a.ott.my.id:443/indi/kompastv.m3u8?token=N0hza085QTFVN1pEZXBkMkpvbkNzbGdkcWVyNmdKeWhGM2FDY1FNVmxJYVArZjJteUt4VEYrY3cxWFlxY2E2dw==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Ruang Terampil 
+https://a.ott.my.id:443/indi/useeinfo.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxOE1SUGFadURNY0YxN0g4WmRReGtid0xpM1cwTVh1UVFaSVR5K1RsTU1maQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Usee Photo 
+https://a.ott.my.id:443/indi/useephoto.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxOE1SUGFadURNY0YxN0g4WmRReGtid0xpM1cwTVh1UVFaSVR5K1RsTU1maQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Usee Prime
+https://a.ott.my.id:443/indi/useeprime.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxOE1SUGFadURNY0YxN0g4WmRReGtid0xpM1cwTVh1UVFaSVR5K1RsTU1maQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Id ku
+https://a.ott.my.id:443/indi/idku.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxOE1SUGFadURNY0YxN0g4WmRReGtid0xpM1cwTVh1UVFaSVR5K1RsTU1maQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Indosiar 
+https://a.ott.my.id:443/indi/indosiar.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Jitv
+https://a.ott.my.id:443/indi/jitv.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Metro Tv
+https://a.ott.my.id:443/indi/metrotv.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Net Tv
+https://a.ott.my.id:443/indi/net.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Rtv
+https://a.ott.my.id:443/indi/rtv.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Rri Net 
+https://a.ott.my.id:443/indi/rrinet.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Sctv
+https://a.ott.my.id:443/indi/sctv.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Trans7 
+https://a.ott.my.id:443/indi/trans7.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",TransTv
+https://a.ott.my.id:443/indi/transtv.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",BaliTv
+https://a.ott.my.id:443/indi/balitv.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",JakTv
+https://a.ott.my.id:443/indi/jaktv.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",JTv
+https://a.ott.my.id:443/indi/jtv.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Tv9
+https://a.ott.my.id:443/indi/tv9.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Tvri
+https://a.ott.my.id:443/indi/tvri.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
