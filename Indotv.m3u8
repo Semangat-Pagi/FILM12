@@ -43,32 +43,45 @@ https://indotv.tech:443/m3u8sd/usee-daaitv-indonesia.m3u8
 https://tvonlineindonesia.xyz:443/m3u8/usee-galaxy-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-galaxy-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",WARNERTV
+https://tvonlineindonesia.xyz:443/m3u8/usee-warner-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-warner-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",CINEMA WORLD 
+https://tvonlineindonesia.xyz:443/m3u8/usee-cinemaworld-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-cinemaworld-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",SONY ONE
+https://tvonlineindonesia.xyz:443/m3u8/usee-sone-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-sone-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",SONY GEM
+https://tvonlineindonesia.xyz:443/m3u8/usee-sgem-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-sgem-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",BIOSKOP INDONESIA 
+https://tvonlineindonesia.xyz:443/m3u8/usee-bioskopindonesia-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-bioskopindonesia-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",IMC
+https://tvonlineindonesia.xyz:443/m3u8/usee-imc-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-imc-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",CITRA DRAMA 
+https://tvonlineindonesia.xyz:443/m3u8/usee-cdrama-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-cdrama-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",NET
+https://tvonlineindonesia.xyz:443/m3u8/usee-net-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-net-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",TRANSTV 
+https://tvonlineindonesia.xyz:443/m3u8/usee-transtv-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-transtv-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",TRANS7
+https://tvonlineindonesia.xyz:443/m3u8/usee-trans7-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-trans7-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",TVONE
+https://tvonlineindonesia.xyz:443/m3u8/usee-tvone-People+62.m3u8
 https://indotv.tech:443/oxygen/tvone.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",METRO
 https://edge.medcom.id:443/live-edge/smil:metro.smil/chunklist_w1883927270_b628000_sleng.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",RTV
+https://tvonlineindonesia.xyz:443/m3u8/usee-rtv-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-rtv-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",KOMPASTV
+https://tvonlineindonesia.xyz:443/m3u8/usee-kompastv-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-kompastv-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Rcti
 https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
@@ -81,34 +94,48 @@ https://vcdn2.rctiplus.id:443/live/eds/inews_fta/live_fta/inews_fta.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",The Indonesia channel 
 https://wowzaprod236-i.akamaihd.net:443/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Sctv
+https://tvonlineindonesia.xyz:443/m3u8/usee-sctv-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-sctv-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",INDOSIAR 
+https://tvonlineindonesia.xyz:443/m3u8/usee-indosiar-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-indosiar-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",ANTV
+https://tvonlineindonesia.xyz:443/m3u8/usee-antv-People+62.m3u8
 https://indotv.tech:443/oxygen/antv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",BERITA SATU
+https://tvonlineindonesia.xyz:443/m3u8/usee-beritasatu-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-beritasatu-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",USEEPHOTO 
+https://tvonlineindonesia.xyz:443/m3u8/usee-useephoto-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-useephoto-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",USEEPRIME 
+https://tvonlineindonesia.xyz:443/m3u8/usee-useeprime-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-useeprime-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",NUSANTARATV
+https://tvonlineindonesia.xyz:443/m3u8/usee-nusantaratv-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-nusantaratv-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",SEATODAY
+https://tvonlineindonesia.xyz:443/m3u8/usee-seatoday-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-seatoday-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Foxsport1 
+https://tvonlineindonesia.xyz:443/m3u8/usee-foxsport1-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-foxsport1-indonesia.m3u8
+https://tvonlineindonesia.xyz:443/m3u8/usee-foxsport2-People+62.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",foxsport2 
 https://indotv.tech:443/m3u8sd/usee-foxsport2-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",foxsport3
+https://tvonlineindonesia.xyz:443/m3u8/usee-foxsport3-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-foxsport3-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Champion1 
 https://tvonlineindonesia.xyz:443/m3u8/usee-champion1-People+62.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Champion2 
+https://tvonlineindonesia.xyz:443/m3u8/usee-champion2-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-champion2-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Bein 1
+https://tvonlineindonesia.xyz:443/m3u8/usee-bein1-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-bein1-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Bein 2
+https://tvonlineindonesia.xyz:443/m3u8/usee-bein2-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-bein2-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Useesports1
 https://indotv.tech:443/m3u8sd/usee-useesport-indonesia.m3u8
