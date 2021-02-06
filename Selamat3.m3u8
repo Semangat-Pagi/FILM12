@@ -2,7 +2,8 @@
 User-Agent: com.baru.terbaru
 
 Indonesia 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Kompas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",tes
+https://a.ott.my.id:443/indi/bein2.m3u8
 https://a.ott.my.id:443/indi/kompastv.m3u8?token=N0hza085QTFVN1pEZXBkMkpvbkNzbGdkcWVyNmdKeWhGM2FDY1FNVmxJYVArZjJteUt4VEYrY3cxWFlxY2E2dw==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Ruang Terampil 
 https://a.ott.my.id:443/indi/useeinfo.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxOE1SUGFadURNY0YxN0g4WmRReGtid0xpM1cwTVh1UVFaSVR5K1RsTU1maQ==
