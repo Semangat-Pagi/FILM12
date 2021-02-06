@@ -29,6 +29,7 @@ https://indotv.tech:443/m3u8sd/usee-flik-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",AXN
 https://indotv.tech:443/m3u8sd/usee-axn-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",ZEE BIOSKOP 
+https://tvonlineindonesia.xyz:443/m3u8/usee-zbioskop-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-zbioskop-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",CELESTIAL MOVIES 
 https://tvonlineindonesia.xyz:443/m3u8/usee-celestialmovie-People+62.m3u8
