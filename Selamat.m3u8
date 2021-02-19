@@ -34,6 +34,7 @@ http://bonev2.xyz:80/playlist/plus-magna-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",RTV
 http://bonev2.xyz:80/playlist/usee-rtv-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TVONE
+https://newbonetv.xyz:443/m3u/usee-tvone-Banyuwangi1122.m3u8
 https://bonev2.xyz:443/oxygen.id/tvone.m3u8
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",Metro TV
 https://newbonetv.xyz:443/m3u/usee-metrotv-Banyuwangi1122.m3u8
