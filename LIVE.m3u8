@@ -1,10 +1,52 @@
 #EXTM3U
-
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3", ==ANAK2===
-https://a.ott.my.id:443/indi/idku.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxOE1SUGFadURNY0YxN0g4WmRReGtid0xpM1cwTVh1UVFaSVR5K1RsTU1maQ==
-https://livetvgo.my.id:443/get.php?username=LiveTVGO&password=eyJ1c2VyX2lkIjogIjU5ODdiMTlhMjgwYjNmMCIsICJpZCI6IDE2NCwidGltZSI6IDE2MTIyODU1NzN9&type=m3u
-https://livetvgo.my.id:443/live/play.m3u8?key=eyJ1c2VyX2lkIjogIjU5ODdiMTlhMjgwYjNmMCIsICJpZCI6IDEyNSwidGltZSI6IDE2MTE1OTc5NjR9
-https://livetvgo.my.id:443/useetv/aniplus-LiveTVGO.m3u8?LiveTVGO&stream_key=eyJ1c2VyX2lkIjogIjU5ODdiMTlhMjgwYjNmMCIsICJpZCI6IDEzOCwidGltZSI6IDE2MTEyNDEyNDh9
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",=======SPORTS======
+https://a.ott.my.id:443/indi/idku.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Bt sport 1 
+https://newlivetv.my.id/channel/play.m3u8?id=435&key=NDM1&source=livedoo
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Bt sport 2
+https://newlivetv.my.id/channel/play.m3u8?id=436&key=NDM2&source=livedoo
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Champion 1 vidio 
+https://newlivetv.my.id/channel/play.m3u8?id=592&key=NTky&source=vidio
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Champion 1 vidio **
+https://newlivetv.my.id/channel/play.m3u8?id=559&key=NTU5&source=vidio
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Champion 2 vidio
+https://newlivetv.my.id/channel/play.m3u8?id=607&key=NjA3&source=vidio
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Champion 3 vidio
+https://newlivetv.my.id/channel/play.m3u8?id=464&key=NDY0&source=vidio
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",CHAMPION 3 vidio **
+https://newlivetv.my.id:443/vidio/6786-LiveTV.m3u8?livetv&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Champion 1 useetv
+https://newlivetv.my.id/channel/play.m3u8?id=303&key=MzAz&source=useetv
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Champion 2 useetv 
+https://newlivetv.my.id/channel/play.m3u8?id=304&key=MzA0&source=useetv
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",BeinSport 1
+https://newlivetv.my.id:443/useetv/bein1-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",BeinSport 2
+https://newlivetv.my.id:443/useetv/bein2-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",FoxSports1 
+https://newlivetv.my.id:443/useetv/foxsport1-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",FoxSports2 
+https://newlivetv.my.id:443/useetv/foxsport2-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",FoxSports3 
+https://newlivetv.my.id:443/useetv/foxsport3-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",FoxSports usa
+http://austchannel-live.akamaized.net:80/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Useesport 1
+https://newlivetv.my.id:443/useetv/useesport-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Useesports2 
+https://newlivetv.my.id:443/useetv/useesports2-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Sport tv 1
+https://newlivetv.my.id/channel/play.m3u8?id=560&key=NTYw&source=livedoo
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Sport tv 2
+https://newlivetv.my.id/channel/play.m3u8?id=561&key=NTYx&source=livedoo
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Sport tv 3
+https://newlivetv.my.id/channel/play.m3u8?id=562&key=NTYy&source=livedoo
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Sport tv 4
+https://newlivetv.my.id/channel/play.m3u8?id=563&key=NTYz&source=livedoo
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Sport tv 5
+https://newlivetv.my.id/channel/play.m3u8?id=564&key=NTY0&source=livedoo
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3", ==ANAK2========================================
+https://a.ott.my.id:443/indi/idku.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Aniplus 
 https://newlivetv.my.id:443/useetv/aniplus-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Animax 
@@ -66,6 +108,7 @@ https://newlivetv.my.id:443/youtube/tayo-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Tom&Jerry
 https://newlivetv.my.id:443/youtube/tomjerry-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",==Berita==
+https://a.ott.my.id:443/indi/idku.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Antara
 https://newlivetv.my.id:443/useetv/antara-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Beritasatu
@@ -91,6 +134,7 @@ https://newlivetv.my.id:443/youtube/aljazeera-LiveTV.m3u8?LiveTV&stream_key=MdLv
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Abc Australia 
 https://newlivetv.my.id:443/useetv/abcaustralia-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",==FILM==
+https://a.ott.my.id:443/indi/idku.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo
 https://newlivetv.my.id:443/hbo/hbo.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Familyy
@@ -112,6 +156,7 @@ http://103.253.24.177:25461/1203601681/5001441982/1478?token=QhBYV0dYRg4TCgYGVgZ
 https://newlivetv.my.id:443/channel/play.mp4?id=321&key=MzIx&stream_key=MdLvZvGZ&source=
 
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",==LOKAL==
+https://a.ott.my.id:443/indi/idku.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Gtv
 https://newlivetv.my.id:443/vidio/778-LiveTV.m3u8?livetv&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Mnctv 
@@ -145,6 +190,7 @@ https://newlivetv.my.id:443/useetv/kompastv-LiveTV.m3u8?LiveTV&stream_key=MdLvZv
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",InewsTv
 https://newlivetv.my.id:443/useetv/inewstv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",==ENTERTAINMENT==
+https://a.ott.my.id:443/indi/idku.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Thrill
 https://newlivetv.my.id:443/channel/play.m3u8?id=117&key=MTE3&stream_key=MdLvZvGZ&source=useetv
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",thrill
@@ -175,26 +221,7 @@ http://210.210.155.35:80/uq2663/h/h37/index2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Imc
 https://newlivetv.my.id:443/useetv/imc-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",tes
-https://newlivetv.my.id:443/vidio/6785-LiveTV.m3u8?livetv&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",CHAMPION3
-https://newlivetv.my.id:443/vidio/6786-LiveTV.m3u8?livetv&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",BeinSport 1
-https://newlivetv.my.id:443/useetv/bein1-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",BeinSport 2
-https://newlivetv.my.id:443/useetv/bein2-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",FoxSports1 
-https://newlivetv.my.id:443/useetv/foxsport1-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",FoxSports2 
-https://newlivetv.my.id:443/useetv/foxsport2-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",FoxSports3 
-https://newlivetv.my.id:443/useetv/foxsport3-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",FoxSports usa
-http://austchannel-live.akamaized.net:80/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Useesport 1
-https://newlivetv.my.id:443/useetv/useesport-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Useesports2 
-https://newlivetv.my.id:443/useetv/useesports2-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Afn
 https://newlivetv.my.id:443/useetv/afc-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Biznet_adventure 
