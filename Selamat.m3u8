@@ -29,6 +29,7 @@ http://bonetv.site:55555/bone/streaming/750
 https://newbonetv.xyz:443/m3u/usee-indosiar-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/751
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",ANTV
+https://tv.cpdev.us/Playlist/o/antv.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 http://bonev2.xyz:80/oxygen.id/antv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",JTV
 http://bonev2.xyz:80/playlist/usee-jtv-new-bonetv.m3u8
@@ -37,6 +38,7 @@ http://bonev2.xyz:80/playlist/plus-magna-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",RTV
 http://bonev2.xyz:80/playlist/usee-rtv-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TVONE
+https://tv.cpdev.us/Playlist/o/tvone.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 https://newbonetv.xyz:443/m3u/usee-tvone-Banyuwangi1122.m3u8
 https://bonev2.xyz:443/oxygen.id/tvone.m3u8
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",Metro TV
