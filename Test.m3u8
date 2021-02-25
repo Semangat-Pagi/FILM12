@@ -1,2 +1,361 @@
-#EXTINF:0 tvg-id="ext" group-title="TEST",NET
-https://indotv.tech:443/m3u8sd/vidio-net-indonesia.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="NETtv.svn" group-title="Lokal",NET TV
+https://tv.cpdev.us/Playlist/o/nettv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="NETtv.svn" group-title="Lokal",NET TV (Backup)
+https://tv.cpdev.us/Playlist/r/10002.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",TVRI Nasional
+https://tv.cpdev.us/Playlist/o/tvri.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",TVRI Nasional (Backup)
+https://tv.cpdev.us/Playlist/r/10004.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",SCTV
+https://tv.cpdev.us/Playlist/o/sctv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",SCTV (Backup)
+https://tv.cpdev.us/Playlist/r/10006.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Trans 7
+https://tv.cpdev.us/Playlist/o/trans7.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Trans 7 (Backup)
+https://tv.cpdev.us/Playlist/r/10008.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Trans TV
+https://tv.cpdev.us/Playlist/o/transtv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Trans TV (Backup)
+https://tv.cpdev.us/Playlist/r/10010.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Indosiar
+https://tv.cpdev.us/Playlist/o/indosiar.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Indosiar (Backup)
+https://tv.cpdev.us/Playlist/r/10012.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",ANTV
+https://tv.cpdev.us/Playlist/o/antv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="TVOne.uk" group-title="Lokal",TV One
+https://tv.cpdev.us/Playlist/o/tvone.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",RCTI
+https://tv.cpdev.us/Playlist/r/10015.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",MNC TV
+https://tv.cpdev.us/Playlist/r/10016.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="gtv.il" group-title="Lokal",GTV
+https://tv.cpdev.us/Playlist/r/10017.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Daai TV
+https://tv.cpdev.us/Playlist/o/daaitv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Daai TV (Backup)
+https://tv.cpdev.us/Playlist/r/10019.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Matrix TV
+https://tv.cpdev.us/Playlist/o/matrixtv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Lejel Home Shoping
+https://tv.cpdev.us/Playlist/o/lejelhs.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Nusantara TV
+https://tv.cpdev.us/Playlist/o/nusantaratv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Nusantara TV (Backup)
+https://tv.cpdev.us/Playlist/r/10023.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Magna TV
+https://tv.cpdev.us/Playlist/o/magnatv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="BNTV.svn" group-title="Lokal",BN TV
+https://tv.cpdev.us/Playlist/o/bn-tv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",RRI Net
+https://tv.cpdev.us/Playlist/o/rri-net.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Persija TV
+https://tv.cpdev.us/Playlist/o/persijatv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="MYTV.in" group-title="Lokal",My TV
+https://tv.cpdev.us/Playlist/r/10028.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="rtvint" group-title="Lokal",RTV
+https://tv.cpdev.us/Playlist/o/rtv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="rtvint" group-title="Lokal",RTV (Backup)
+https://tv.cpdev.us/Playlist/r/10030.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Jak TV
+https://tv.cpdev.us/Playlist/o/jaktv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Jak TV (Backup)
+https://tv.cpdev.us/Playlist/r/10032.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",O Channel
+https://tv.cpdev.us/Playlist/o/ochannel.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",O Channel (Backup)
+https://tv.cpdev.us/Playlist/r/10034.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",O Shop
+https://tv.cpdev.us/Playlist/r/10035.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Bali TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lokal",The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Digione Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Hi indo
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Digdaya TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Inspira TV
+https://v2.siar.us/inspiratv/live/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lokal",BBS TV
+https://dcunilive94-lh.akamaihd.net/i/dclive_1@839502/master.m3u8?hdnea=st=1614270235~exp=1614270635~acl=/i/dclive_1@839502*~hmac=7b836269a315119a0024b03f3c1dd5465a4cc87a2eca4ac011baf3cf3febaf28
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Megaswara TV
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Radio",Prambors On Air
+https://tv.cpdev.us/Playlist/r/11001.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Delta FM
+https://tv.cpdev.us/Playlist/r/11002.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Bahana FM
+https://tv.cpdev.us/Playlist/r/11003.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Female FM
+https://tv.cpdev.us/Playlist/r/11004.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Ardan Radio
+https://tv.cpdev.us/Playlist/r/11005.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Radio Cakra
+https://tv.cpdev.us/Playlist/r/11006.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Trax FM
+https://tv.cpdev.us/Playlist/r/11007.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Hard Rock FM
+https://tv.cpdev.us/Playlist/r/11008.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",i-Radio
+https://tv.cpdev.us/Playlist/r/11009.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Brava Radio
+https://tv.cpdev.us/Playlist/r/11010.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Cosmopolitan FM
+https://tv.cpdev.us/Playlist/r/11011.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Geronimo
+https://tv.cpdev.us/Playlist/r/11012.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Elshinta 90 FM
+https://tv.cpdev.us/Playlist/r/11013.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Dahlia FM
+https://tv.cpdev.us/Playlist/r/11014.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",GAJAHMADA
+https://tv.cpdev.us/Playlist/r/11015.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",SWARA SEMARANG
+https://tv.cpdev.us/Playlist/r/11016.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Imelda FM
+https://tv.cpdev.us/Playlist/r/11017.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",SWARAGAMA FM Jogja !
+https://tv.cpdev.us/Playlist/r/11018.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",MGTRADIO
+https://tv.cpdev.us/Playlist/r/11019.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",ELGANGGA
+https://tv.cpdev.us/Playlist/r/11020.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",ELMITRA
+https://tv.cpdev.us/Playlist/r/11021.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Sushi Radio
+https://tv.cpdev.us/Playlist/r/11022.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Gen FM Jakarta
+https://tv.cpdev.us/Playlist/r/11023.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Jak FM
+https://tv.cpdev.us/Playlist/r/11024.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Kis FM
+https://tv.cpdev.us/Playlist/r/11025.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Mustang FM
+https://tv.cpdev.us/Playlist/r/11026.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Most FM
+https://tv.cpdev.us/Playlist/r/11027.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Hot FM
+https://tv.cpdev.us/Playlist/r/11028.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Radio",Gen FM Surabaya
+https://tv.cpdev.us/Playlist/r/11029.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+
+#EXTINF:0 tvg-id="love-nature-4k" group-title="Knowledge",Love Nature 4K
+https://tv.cpdev.us/Playlist/r/12001.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Knowledge",Smithsonian
+https://tv.cpdev.us/Playlist/r/12002.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="Knowledge",Da Vinci
+https://tv.cpdev.us/Playlist/r/12003.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Sinema Indonesia
+https://tv.cpdev.us/Playlist/o/sinemaindonesia.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Movies",Sinema Indonesia X
+https://tv.cpdev.us/Playlist/o/sinemaindonesia-x.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="B4UMovies.uk" group-title="Movies",B4U Movies
+https://tv.cpdev.us/Playlist/o/b4umovieindia.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Movies",Xing Kong China
+https://tv.cpdev.us/Playlist/o/xingkong.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Movies",Lotus Macau
+https://tv.cpdev.us/Playlist/o/lotusmacau.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ATV.am" group-title="Movies",ATV
+https://tv.cpdev.us/Playlist/o/atv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Movies",MCINE
+https://tv.cpdev.us/Playlist/o/mcine.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Movies",HBO
+https://tv.cpdev.us/Playlist/r/20008.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="Movies",HBO Signature
+https://tv.cpdev.us/Playlist/r/20009.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="HBOHits.in" group-title="Movies",HBO Hits
+https://tv.cpdev.us/Playlist/r/20010.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Movies",HBO Family
+https://tv.cpdev.us/Playlist/r/20011.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Movies",Cinemax by HBO
+https://tv.cpdev.us/Playlist/r/20012.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Movies",Red by HBO
+https://tv.cpdev.us/Playlist/r/20013.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVRI Sport
+https://tv.cpdev.us/Playlist/o/tvrisport.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="SportOne.il" group-title="Sports",Sport One
+https://tv.cpdev.us/Playlist/o/sportone.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Sports 3
+https://tv.cpdev.us/Playlist/o/dubaisport3.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Sports",Red Bull TV
+https://tv.cpdev.us/Playlist/o/redbulltv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Sports",Dunia Games
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Mola Sports Free
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Premier HD 1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Premier HD 2
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Premier HD 3
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Premier HD 4
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",True Premier HD 5
+http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 1
+https://tv.cpdev.us/Playlist/r/30013.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 2
+https://tv.cpdev.us/Playlist/r/30014.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 3
+https://tv.cpdev.us/Playlist/r/30015.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+
+#EXTINF:0 tvg-id="ext" group-title="Kids",TV Edukasi
+https://tv.cpdev.us/Playlist/o/tvedukasi.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Kids",TV Edukasi (Backup)
+https://tv.cpdev.us/Playlist/r/40002.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Kids",Toonmax
+https://tv.cpdev.us/Playlist/o/toonmax.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Kids",Spacetoon
+https://tv.cpdev.us/Playlist/o/spacetoon.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Kids",EBS Kids
+https://tv.cpdev.us/Playlist/o/ebskids.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Kids",Mentari TV
+https://tv.cpdev.us/Playlist/o/mentaritv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Kids",Hip Hip Hore
+https://tv.cpdev.us/Playlist/r/40008.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Kids",Horee!
+https://tv.cpdev.us/Playlist/r/40009.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Kids",Zoomo
+https://tv.cpdev.us/Playlist/r/40010.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+
+#EXTINF:0 tvg-id="ext" group-title="Religi",Salam TV
+https://tv.cpdev.us/Playlist/o/salamtv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Religi",Rodja TV
+https://tv.cpdev.us/Playlist/o/rodjatv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Religi",U CHANNEL
+https://tv.cpdev.us/Playlist/o/uchannel.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Religi",U CHANNEL (Backup)
+https://tv.cpdev.us/Playlist/r/50004.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Religi",Tawaf TV
+https://tv.cpdev.us/Playlist/o/tawaftv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Religi",Qur'an TV
+https://tv.cpdev.us/Playlist/o/qurantv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Religi",Qur'an TV (Backup)
+https://tv.cpdev.us/Playlist/r/50007.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Religi",AJWA TV
+https://tv.cpdev.us/Playlist/r/50008.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Religi",Reformed 21 TV
+https://tv.cpdev.us/Playlist/r/50009.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Drakor
+https://tv.cpdev.us/Playlist/o/drakorplus.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="fashion" group-title="Entertainment",Fashion TV
+https://tv.cpdev.us/Playlist/o/fashiontv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Go To Luxe
+https://tv.cpdev.us/Playlist/o/gotoluxe.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",K Drama
+https://tv.cpdev.us/Playlist/o/k-drama.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Vidio Entertainment
+https://tv.cpdev.us/Playlist/r/60005.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+
+#EXTINF:0 tvg-id="B4UMusic.uk" group-title="Musik",B4U Music
+https://tv.cpdev.us/Playlist/o/b4umusicindia.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Musik",Channel V China
+https://tv.cpdev.us/Playlist/o/vchina.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Musik",MAXSTREAM Music
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",Musica
+https://tv.cpdev.us/Playlist/r/70004.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+
+#EXTINF:0 tvg-id="nhk-world" group-title="Internasional",NHK World
+https://tv.cpdev.us/Playlist/o/nhkworld.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Internasional",Phoenix HK
+https://tv.cpdev.us/Playlist/o/phoenixhongkong.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Internasional",DW TV Asia
+https://tv.cpdev.us/Playlist/o/dwenglish.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Internasional",DW TV Asia (Backup)
+https://tv.cpdev.us/Playlist/r/80005.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="france24" group-title="Internasional",France 24
+https://tv.cpdev.us/Playlist/o/france24.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Internasional",Arirang World
+https://tv.cpdev.us/Playlist/o/arirangworld.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Internasional",CCTV 4
+https://tv.cpdev.us/Playlist/o/cctv4asia.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="VOA.cl" group-title="Internasional",VOA
+https://tv.cpdev.us/Playlist/o/voa.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="RaiItalia.cl" group-title="Internasional",Rai Italia
+https://tv.cpdev.us/Playlist/o/raiitalia.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Internasional",Cetv 1
+https://tv.cpdev.us/Playlist/o/cetv1.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Internasional",TVE Asia
+https://tv.cpdev.us/Playlist/o/tveasia.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Internasional",CGTN Documentary
+https://tv.cpdev.us/Playlist/o/cgtndocumentary.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="tv5monde" group-title="Internasional",TV5 Monde
+https://tv.cpdev.us/Playlist/o/TV5 Monde.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Internasional",Nippon TV
+https://tv.cpdev.us/Playlist/o/nihontv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="AljazeeraEng.il" group-title="Internasional",Al Jazeera
+https://tv.cpdev.us/Playlist/o/aljazeera.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="TRTWorld.uk" group-title="Internasional",TRT World
+https://tv.cpdev.us/Playlist/o/trtworld.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Internasional",Phoenix Chinese
+https://tv.cpdev.us/Playlist/o/phoenixchinese.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Internasional",Channel News Asia
+https://tv.cpdev.us/Playlist/o/channelnewsasia.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="russia-today" group-title="Internasional",Russia Today
+https://tv.cpdev.us/Playlist/o/russiatoday.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="PhoenixInfoNews.us" group-title="Internasional",Phoenix Info News
+https://tv.cpdev.us/Playlist/o/phoenixnews.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="CGTN.cn" group-title="Internasional",CGTN
+https://tv.cpdev.us/Playlist/o/cgtn.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Internasional",TVB News
+https://tv.cpdev.us/Playlist/o/tvbnews.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+
+#EXTINF:0 tvg-id="Metro.pl" group-title="Berita",Metro TV
+https://tv.cpdev.us/Playlist/o/metrotv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="Metro.pl" group-title="Berita",Metro TV (Backup)
+https://tv.cpdev.us/Playlist/r/80025.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Berita",Kompas TV
+https://tv.cpdev.us/Playlist/o/kompastv.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Berita",Kompas TV (Backup)
+https://tv.cpdev.us/Playlist/r/80027.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="TVOne.uk" group-title="Berita",TV One
+https://tv.cpdev.us/Playlist/o/tvone.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Berita",Elshinta
+https://tv.cpdev.us/Playlist/o/elshinta.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Berita",Berita Satu
+https://tv.cpdev.us/Playlist/o/beritasatu.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Berita",Berita Satu (Backup)
+https://tv.cpdev.us/Playlist/r/80031.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Berita",Inews TV
+https://tv.cpdev.us/Playlist/o/inews.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Berita",Inews TV (Backup)
+https://tv.cpdev.us/Playlist/r/80033.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Berita",CNBC Indonesia
+https://tv.cpdev.us/Playlist/o/cnbcindonesia.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="cnbc" group-title="Berita",CNBC
+https://tv.cpdev.us/Playlist/o/cnbc.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="euro" group-title="Berita",Euro News
+https://tv.cpdev.us/Playlist/o/euronewsasia.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="bloomberg" group-title="Berita",Bloomberg
+https://tv.cpdev.us/Playlist/o/bloomberg.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="dwelle" group-title="Berita",DW English
+https://tv.cpdev.us/Playlist/o/dwenglish.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="dwelle" group-title="Berita",DW English (Backup)
+https://tv.cpdev.us/Playlist/r/80039.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="PhoenixInfoNews.us" group-title="Berita",Phoenix Info News
+https://tv.cpdev.us/Playlist/o/phoenixnews.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Berita",TVB News
+https://tv.cpdev.us/Playlist/o/tvbnews.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="PhoenixInfoNews.us" group-title="Berita",Phoenix Info News
+https://tv.cpdev.us/Playlist/o/phoenixnews.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Berita",CNN Indonesia
+https://tv.cpdev.us/Playlist/o/cnnindonesia.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Berita",CNN Indonesia (Backup)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1955868477_b384000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Berita",Sea Today
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Berita",ABC Australia
+https://tv.cpdev.us/Playlist/r/80046.m3u8?t=f87f8f834b237ad853fb44cccaa18952
+#EXTINF:0 tvg-id="ext" group-title="Berita",Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b356000.m3u8
