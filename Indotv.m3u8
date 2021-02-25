@@ -2,6 +2,32 @@
 
 
 =====++===========INDOTV=====================
+#EXTINF:-1 tvg-id="FOX.MACAN" tvg-name="FOX.MACAN" group-title="USEALL4" tvg-logo="https://cdn.macan.tv/img/fox.jpg", FOX
+https://delivery.macan.tv/stream/id_fox/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-id="FOXCrime.MACAN" tvg-name="FOXCrime.MACAN" group-title="USEALL4" tvg-logo="https://cdn.macan.tv/img/fox_crime.png", FOX Crime
+https://delivery.macan.tv/stream/id_foxcrime/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-id="FoxLife.MACAN" tvg-name="FoxLife.MACAN" group-title="USEALL4" tvg-logo="https://cdn.macan.tv/img/fox_life.png", FOX Life
+https://delivery.macan.tv/stream/id_foxlife/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-id="FOXMoviesPremiumHD.MACAN" tvg-name="FOXMoviesPremiumHD.MACAN" group-title="USEALL4" tvg-logo="https://cdn.macan.tv/img/fox_movies_premium.png", FOX Movies Premium
+https://delivery.macan.tv/stream/id_foxmoviespremium/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-id="FOXActionMoviesHD.MACAN" tvg-name="FOXActionMoviesHD.MACAN" group-title="USEALL4" tvg-logo="https://cdn.macan.tv/img/fox_action_movies.png", FOX Action Movies
+https://delivery.macan.tv/stream/id_foxactionmovies/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-id="FOXFamilyMoviesHD.MACAN" tvg-name="FOXFamilyMoviesHD.MACAN" group-title="USEALL4" tvg-logo="https://cdn.macan.tv/img/fox_family_movies.png", FOX Family Movies (ENG)
+https://delivery.macan.tv/stream/id_foxfamilymovies/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-id="FOXFamilyMoviesHD.MACAN" tvg-name="FOXFamilyMoviesHD.MACAN" group-title="USEALL4" tvg-logo="https://cdn.macan.tv/img/fox_family_movies.png", FOX Family Movies (IDN)
+https://delivery.macan.tv/stream/foxfamilymovies_idn/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBOHD.MACAN" group-title="USEALL4" tvg-logo="https://cdn.macan.tv/img/hbo.png", HBO
+https://delivery.macan.tv/stream/hbo/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBOFamilyHD.MACAN" group-title="USEALL4" tvg-logo="https://cdn.macan.tv/img/hbo_family.png", HBO Family
+https://delivery.macan.tv/stream/hbo_family/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBOHitsHD.MACAN" group-title="USEALL4" tvg-logo="https://cdn.macan.tv/img/hbo_hits.png", HBO Hits
+https://delivery.macan.tv/stream/hbo_hits/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBOSignatureHD.MACAN" group-title="USEALL4" tvg-logo="https://cdn.macan.tv/img/hbo_signature.png", HBO Signature
+https://delivery.macan.tv/stream/hbo_signature/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-id="RED.MACAN" tvg-name="RED.MACAN" group-title="USEALL4" tvg-logo="https://cdn.macan.tv/img/red_hbo.png", RED by HBO
+https://delivery.macan.tv/stream/redhbo/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="CINEMAX.MACAN" group-title="USEALL4" tvg-logo="https://cdn.macan.tv/img/cinemaxa.png", Cinemax by HBO
+https://delivery.macan.tv/stream/cinemax/playlist.m3u8?token=h56jd&v=20200807
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONEW2021.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
