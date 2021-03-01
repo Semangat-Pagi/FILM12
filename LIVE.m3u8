@@ -45,6 +45,36 @@ https://newlivetv.my.id/channel/play.m3u8?id=562&key=NTYy&source=livedoo
 https://newlivetv.my.id/channel/play.m3u8?id=563&key=NTYz&source=livedoo
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Sport tv 5
 https://newlivetv.my.id/channel/play.m3u8?id=564&key=NTY0&source=livedoo
+
+
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",==FILM==
+https://a.ott.my.id:443/indi/idku.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo
+https://newlivetv.my.id/channel/play.m3u8?id=254&key=MjU0&source=hbo
+https://newlivetv.my.id:443/hbo/hbo.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Familyy
+https://newlivetv.my.id/channel/play.m3u8?id=188&key=MTg4&source=hbo
+https://newlivetv.my.id:443/hbo/family.m3u8?LiveTV&stream_key=MdLvZvGZ
+https://livetvgo.my.id:443/hbo/family.m3u8?LiveTVGO&stream_key=eyJ1c2VyX2lkIjogIjczNzdhM2QwZmNiOWNhNTUiLCAiaWQiOiAxMjUsInRpbWUiOiAxNjEwMzY3MzM4fQ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Hits
+https://newlivetv.my.id/channel/play.m3u8?id=189&key=MTg5&source=hbo
+https://newlivetv.my.id:443/hbo/hits.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Signature
+https://newlivetv.my.id/channel/play.m3u8?id=190&key=MTkw&source=hbo
+https://newlivetv.my.id:443/hbo/sig.m3u8?LiveTV&stream_key=MdLvZvGZ
+https://newlivetv.my.id:443/hbo/Signature.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Red
+https://newlivetv.my.id/channel/play.m3u8?id=255&key=MjU1&source=hbo
+https://newlivetv.my.id:443/hbo/red.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Cinemax 
+https://newlivetv.my.id/channel/play.m3u8?id=256&key=MjU2&source=hbo
+https://newlivetv.my.id:443/hbo/max.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",CCM
+https://newlivetv.my.id:443/channel/play.mpeg?id=491&key=NDkx&stream_key=MdLvZvGZ&source=
+#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Fox action movies 
+http://103.253.24.177:25461/1203601681/5001441982/1478?token=QhBYV0dYRg4TCgYGVgZSBFYGAAoCAFAADFEFUFFVA1UPClIGVVMGAgYaSBAQEEJXVQhvWgIbCVQNAwgdQ0MSB0ttWVIWCkYFAQhSBFBGHBBADF1WRAMCUwkABQFVBVhQFRBAX1ASXhYCDFcFQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgoTNVMNB1JdXUNaWQ9VQlFEew0AX1xRFllSRhFjMRAWHBMDXxUQWEZVFA4SVgMECEYeQQdfR1oRQkpEAxEsfRYcEwROFQdXQVlZWhJeFkVLRh5BDUNtRgBDRxRcUghcRhILQwZDThtfUU5rUwtaX10HRgoLXkEWXxICRBURCFZaWUUORD4SUFYSDBYDVQwFC0ZP
+https://newlivetv.my.id:443/channel/play.mp4?id=321&key=MzIx&stream_key=MdLvZvGZ&source=
+
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3", ==ANAK2========================================
 https://a.ott.my.id:443/indi/idku.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Aniplus 
@@ -133,27 +163,7 @@ http://voa-lh.akamaihd.net:80/i/voa_mpls_tvmc3_3@320295/master.m3u8
 https://newlivetv.my.id:443/youtube/aljazeera-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Abc Australia 
 https://newlivetv.my.id:443/useetv/abcaustralia-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",==FILM==
-https://a.ott.my.id:443/indi/idku.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo
-https://newlivetv.my.id:443/hbo/hbo.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Familyy
-https://newlivetv.my.id:443/hbo/family.m3u8?LiveTV&stream_key=MdLvZvGZ
-https://livetvgo.my.id:443/hbo/family.m3u8?LiveTVGO&stream_key=eyJ1c2VyX2lkIjogIjczNzdhM2QwZmNiOWNhNTUiLCAiaWQiOiAxMjUsInRpbWUiOiAxNjEwMzY3MzM4fQ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Hits
-https://newlivetv.my.id:443/hbo/hits.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Signature
-https://newlivetv.my.id:443/hbo/sig.m3u8?LiveTV&stream_key=MdLvZvGZ
-https://newlivetv.my.id:443/hbo/Signature.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Hbo Red
-https://newlivetv.my.id:443/hbo/red.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Cinemax 
-https://newlivetv.my.id:443/hbo/max.m3u8?LiveTV&stream_key=MdLvZvGZ
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",CCM
-https://newlivetv.my.id:443/channel/play.mpeg?id=491&key=NDkx&stream_key=MdLvZvGZ&source=
-#EXTINF:0 tvg-id="ext" group-title="CAMPUR3",Fox action movies 
-http://103.253.24.177:25461/1203601681/5001441982/1478?token=QhBYV0dYRg4TCgYGVgZSBFYGAAoCAFAADFEFUFFVA1UPClIGVVMGAgYaSBAQEEJXVQhvWgIbCVQNAwgdQ0MSB0ttWVIWCkYFAQhSBFBGHBBADF1WRAMCUwkABQFVBVhQFRBAX1ASXhYCDFcFQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgoTNVMNB1JdXUNaWQ9VQlFEew0AX1xRFllSRhFjMRAWHBMDXxUQWEZVFA4SVgMECEYeQQdfR1oRQkpEAxEsfRYcEwROFQdXQVlZWhJeFkVLRh5BDUNtRgBDRxRcUghcRhILQwZDThtfUU5rUwtaX10HRgoLXkEWXxICRBURCFZaWUUORD4SUFYSDBYDVQwFC0ZP
-https://newlivetv.my.id:443/channel/play.mp4?id=321&key=MzIx&stream_key=MdLvZvGZ&source=
+
 
 #EXTINF:0 tvg-id="ext" group-title="CAMPUR3",==LOKAL==
 https://a.ott.my.id:443/indi/idku.m3u8
