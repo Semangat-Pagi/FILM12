@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",tes
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBO_640X360.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TransTV
 https://newbonetv.xyz:443/m3u/usee-transtv-Banyuwangi1122.m3u8
 https://newbonetv.xyz:443/m3u/vidio-transtv-Banyuwangi1122.m3u8
