@@ -14,39 +14,39 @@ http://iptv.zqstream.com/zqdrama-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Zq drama sd
 http://iptv.zqstream.com/zqdrama-gen/tracks-v2a1/mono.m3u8?token=vQqPVtl-k0
 #EXTINF:-1  tvg-logo="TEST" group-title="FilmPremium1",HBO MULTI BAHASA & SUBSTITLE
-http://raw.githubusercontent.com/Semangat-Pagi/TEST/master/hbo_multi_bahasa.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/hbo_multi_bahasa.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO FAM MULTI BAHASA & SUBSTITLE
-http://raw.githubusercontent.com/Semangat-Pagi/TEST/master/hbo_family_multi_bahasa.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/hbo_family_multi_bahasa.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO HITS MULTI BAHASA & SUBSTITLE
-http://raw.githubusercontent.com/Semangat-Pagi/TEST/master/hbo_hits_multi_bahasa.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/hbo_hits_multi_bahasa.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO SIG MULTI BAHASA & SUBSTITLE
-http://raw.githubusercontent.com/Semangat-Pagi/TEST/master/hbo_signature_multi_bahasa.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/hbo_signature_multi_bahasa.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",RED MULTI BAHASA & SUBSTITLE
-http://raw.githubusercontent.com/Semangat-Pagi/TEST/master/red_hbo_multi_bahasa.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/red_hbo_multi_bahasa.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",CINEMAX MULTI BAHASA & SUBSTITLE
-http://raw.githubusercontent.com/Semangat-Pagi/TEST/master/cinemax_multi_bahasa.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/cinemax_multi_bahasa.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1  tvg-logo="TEST" group-title="FilmPremium1",HBO SUBS IND
-http://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONew.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONew.m3u8
 http://nonton.site:8888/ko Amat/123456/4828
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",RED SUBS IND
-http://raw.githubusercontent.com/Semangat-Pagi/TEST/master/REDNew.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/REDNew.m3u8
 http://nonton.site:8888/ko Amat/123456/4829
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",CINEMAX SUBS IND
-http://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
 http://nonton.site:8888/ko Amat/123456/4830
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO FAMILY SUBS IND
-http://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMNew.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMNew.m3u8
 http://nonton.site:8888/ko Amat/123456/4831
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO HITS SUBS IND
-http://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO SIGN SUBS IND
-http://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",&Flix
 http://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",&Prive HD
