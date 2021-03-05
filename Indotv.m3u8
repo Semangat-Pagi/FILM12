@@ -3,26 +3,20 @@
 
 =====++===========INDOTV=====================
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO0
-https://www.dropbox.com/s/b67woaws14ccdek/Hbo2021.m3u8?dl=1
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONEW2021.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO FAMILY 
-https://www.dropbox.com/s/6t3itodlo488may/Family2021.m3u8?dl=1
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMILY2021.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO HITS 
-https://www.dropbox.com/s/pedburoy6zfr8uq/Hits2021.m3u8?dl=1
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITS2021.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",HBO SIGNATURE 
-https://www.dropbox.com/s/5j3f21n06qheiws/Signature2021.m3u8?dl=1
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNATURE2021.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",CINEMAX 
-https://www.dropbox.com/s/9ttq054hw3scjjv/Cinemax2021.m3u8?dl=1
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAX2021.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",RED
-https://www.dropbox.com/s/3hufrluq8zlnaii/Red2021.m3u8?dl=1
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/RED2021.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",&PRIVE HD
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/%26PRIVEHD.m3u8
