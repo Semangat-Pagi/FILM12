@@ -44,6 +44,7 @@ http://bonetv.site:55555/bone/streaming/750
 https://newbonetv.xyz:443/m3u/usee-indosiar-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/751
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",ANTV
+https://birutv.com:443/create_birutv/telegram@birutv/oxygen.m3u8/?channel=antv
 https://birutv.com:443/join_birutv/telegram@birutv/oxygen.m3u8?channel=antv
 https://tv.cpdev.us/Playlist/o/antv.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 http://bonev2.xyz:80/oxygen.id/antv.m3u8
