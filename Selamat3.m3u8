@@ -2,12 +2,14 @@
 User-Agent: com.baru.terbaru
 
 Indonesia 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",tesss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",tes
+https://92.43.140.249:443/indi/bein1.m3u8?token=SE1iR2pQTWFJbTE3YnZ6M0dqUG1qd21BaHN6MXVzNUZwM25wVzZJcXpkTkVMSFJoTkZkVy9SYXhkazZzaDRxZw==
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://livetvgo.my.id:443/live/play.mpd?key=eyJ1c2VyX2lkIjogIjU5ODdiMTlhMjgwYjNmMCIsICJpZCI6IDcxOCwidGltZSI6IDE2MTUwNDgxOTJ9?token=5987o19n280o3s0
 https://a.ott.my.id:443/indi/bein2.m3u8
 https://a.ott.my.id:443/indi/kompastv.m3u8?token=N0hza085QTFVN1pEZXBkMkpvbkNzbGdkcWVyNmdKeWhGM2FDY1FNVmxJYVArZjJteUt4VEYrY3cxWFlxY2E2dw==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Ruang Terampil 
+https://103.65.236.253:443/indi/bein1.m3u8?token=SE1iR2pQTWFJbTE3YnZ6M0dqUG1qd21BaHN6MXVzNUZwM25wVzZJcXpkTkVMSFJoTkZkVy9SYXhkazZzaDRxZw==
 https://a.ott.my.id:443/indi/useeinfo.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxOE1SUGFadURNY0YxN0g4WmRReGtid0xpM1cwTVh1UVFaSVR5K1RsTU1maQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="UseeTvAll2",Usee Photo 
 https://a.ott.my.id:443/indi/useephoto.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxOE1SUGFadURNY0YxN0g4WmRReGtid0xpM1cwTVh1UVFaSVR5K1RsTU1maQ==
