@@ -2,6 +2,8 @@
 
 
 =====++===========INDOTV=====================
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",Hbo 960
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HboAll.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Hbo 480x270
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBO_480x270.m3u8
 https://www.dropbox.com/s/rb7wdeg82j1zgwg/hbo640.m3u8?dl=1
