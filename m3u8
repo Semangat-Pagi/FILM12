@@ -125,8 +125,6 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Sony Movies Action
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Warner TV 2
-http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",MY CINEMA
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 https://www.dropbox.com/s/dl/qdkkolbhtbenijh/dMYCINE.m3u8
@@ -175,8 +173,6 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",SONY GEM
 http://210.210.155.35/uq2663/h/h19/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Sinema Indonesia
-http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Thrilll [ID]
 http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/01.m3u8
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
@@ -189,8 +185,6 @@ http://210.210.155.35/session/971493a0-0192-11ea-b1fb-b82a72d63267/qwr9ew/s/s42/
 http://210.210.155.35/session/4b609526-4bf3-11e9-9bd8-afdb8d9eb786/uq2663/h/h04/02.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",KIX
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index1.m3u8
@@ -206,12 +200,7 @@ http://ivi.bupt.edu.cn/hls/chchd.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2", FILM?
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",VIP PREMIERE HD
-http://178.217.72.66/225.201.2.172/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",VIP MEGAHIT HD
-http://178.217.72.66/225.201.2.171/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",XCORPS
-http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+
 
 
 
