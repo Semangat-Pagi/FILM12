@@ -1,16 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Hbo*
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Hbo_All.m3u8
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Family 
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Family_All.m3u8
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Hits
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Hits_All.m3u8
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Signature 
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Signature_All.m3u8
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Red
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Red_All.m3u8
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Cinemax 
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/Cinemax_All.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TransTV
 http://newbonetv.xyz:443/m3u/usee-transtv-Banyuwangi1122.m3u8
 https://newbonetv.xyz:443/m3u/vidio-transtv-Banyuwangi1122.m3u8
