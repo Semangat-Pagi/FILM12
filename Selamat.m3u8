@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",tes
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",tess
+http://newbonetv.xyz:443/m3u/Go-foxcrime-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/Go-foxcrime-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TransTV
 http://newbonetv.xyz:443/m3u/usee-transtv-Banyuwangi1122.m3u8
