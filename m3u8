@@ -13,21 +13,21 @@ http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/
 http://iptv.zqstream.com/zqdrama-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Zq drama sd
 http://iptv.zqstream.com/zqdrama-gen/tracks-v2a1/mono.m3u8?token=vQqPVtl-k0
-#EXTINF:-1  tvg-logo="TEST" group-title="FilmPremium1",HBO SUBS IND
+#EXTINF:-1  tvg-logo="TEST" group-title="FilmPremium1",HBO 640x360 
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONew.m3u8
 http://nonton.site:8888/ko Amat/123456/4828
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",RED SUBS IND
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",RED 640x360
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/REDNew.m3u8
 http://nonton.site:8888/ko Amat/123456/4829
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",CINEMAX SUBS IND
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",CINEMAX 640x360
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
 http://nonton.site:8888/ko Amat/123456/4830
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO FAMILY SUBS IND
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO FAMILY 640x360
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMNew.m3u8
 http://nonton.site:8888/ko Amat/123456/4831
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO HITS SUBS IND
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO HITS 640x360
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO SIGN SUBS IND
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO SIGN 640x360
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",&Flix
 http://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
