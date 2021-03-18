@@ -58,6 +58,14 @@ http://210.210.155.35/session/c497acae-cdd4-11ea-934d-b82a72d63267/uq2663/h/h141
 http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FilmPremium1",FOX MOVIES World
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FilmPremium1",FOX (VN)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FilmPremium1",FOX LIFE (VN)
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FilmPremium1",FOX Movies (VN)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FilmPremium1",FOX FAMILY Movies (VN)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
 
 
