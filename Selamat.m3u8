@@ -1,6 +1,28 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",tes
-https://www.dropbox.com/s/rb7wdeg82j1zgwg/hbo640.m3u8?dl=1
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="UseetvAll",HBO
+http://bonev2.xyz:80/playlist/Go-hbo-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/Go-hbo-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/774
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="UseetvAll",HBO Signature
+http://bonev2.xyz:80/playlist/Go-sig-new-bonetv.m3u8
+https://newbonetv.xyz/m3u/Go-sig-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/775
+#EXTINF:0 tvg-id="HBOHits.in" group-title="UseetvAll",HBO Hits
+http://bonev2.xyz:80/playlist/Go-hits-new-bonetv.m3u8
+https://newbonetv.xyz/m3u/Go-hits-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/776
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="UseetvAll",HBO Family
+http://bonev2.xyz:80/playlist/Go-fam-new-bonetv.m3u8
+https://newbonetv.xyz/m3u/Go-fam-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/777
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Cinemax by HBO
+http://bonev2.xyz:80/playlist/Go-max-new-bonetv.m3u8
+https://newbonetv.xyz/m3u/Go-max-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/778
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",RED by HBO
+https://newbonetv.xyz/m3u/Go-red-Banyuwangi1122.m3u8
 https://bitball.b-cdn.net/movies/disk3/2021-01/01-09-2021-MBAH/Justice.League.Snyders.Cut.2021.WEBRip.PD.IDFL.mp4
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TransTV
 http://newbonetv.xyz:443/m3u/usee-transtv-Banyuwangi1122.m3u8
@@ -79,34 +101,6 @@ http://bonetv.site:55555/bone/streaming/763
 https://newbonetv.xyz:443/m3u/usee-rrinet-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/769
 http://bonetv.site:55555/bone/streaming/770
-#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",HBO Stream 
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:0 tvg-id="HBOAdria.rs" group-title="UseetvAll",HBO
-http://bonev2.xyz:80/playlist/Go-hbo-new-bonetv.m3u8
-https://newbonetv.xyz:443/m3u/Go-hbo-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/774
-#EXTINF:0 tvg-id="HBOSignature.mx" group-title="UseetvAll",HBO Signature
-http://bonev2.xyz:80/playlist/Go-sig-new-bonetv.m3u8
-https://newbonetv.xyz/m3u/Go-sig-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/775
-#EXTINF:0 tvg-id="HBOHits.in" group-title="UseetvAll",HBO Hits
-http://bonev2.xyz:80/playlist/Go-hits-new-bonetv.m3u8
-https://newbonetv.xyz/m3u/Go-hits-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/776
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="UseetvAll",HBO Family
-http://bonev2.xyz:80/playlist/Go-fam-new-bonetv.m3u8
-https://newbonetv.xyz/m3u/Go-fam-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/777
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Cinemax by HBO
-http://bonev2.xyz:80/playlist/Go-max-new-bonetv.m3u8
-https://newbonetv.xyz/m3u/Go-max-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/778
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",RED by HBO
-https://newbonetv.xyz/m3u/Go-red-Banyuwangi1122.m3u8
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SINEMA INDONESIA 
-http://bonev2.xyz:80/oxygen.id/sinemaindonesia.m3u8
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",SINEMA INDONESIA X
-http://bonev2.xyz:80/oxygen.id/sinemaindonesia-x.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",CELESTIAL CLASSIC MOVIE 
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",CELESTIAL MOVIE
