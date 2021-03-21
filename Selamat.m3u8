@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",INDOSIAR LIVE
+https://home-tv.web.id:443/kicau/anakayam.m3u8?channel=vidio-205
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:0 tvg-id="HBOAdria.rs" group-title="UseetvAll",HBO
