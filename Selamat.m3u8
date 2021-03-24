@@ -350,8 +350,12 @@ https://newbonetv.xyz:443/m3u/usee-champions2-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/816
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Champion TV 3
 https://newbonetv.xyz:443/m3u/vidio-championtv3-Banyuwangi1122.m3u8
-https://newbonetv.xyz:443/m3u/vidio-champion3-Banyuwangi1122.m3u8
+https://newbonetv.xyz:443/m3u/vidio-champion3-new-bonetv.m3u8
 http://bonetv.site:55555/bone/streaming/817
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Usee Champion 1
+http://bonev2.xyz:80/playlist/usee-champion1-new-bonetv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Usee Champion 2
+http://bonev2.xyz:80/playlist/usee-champion2-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Usee sport 1
 https://newbonetv.xyz:443/m3u/usee-useesport-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/820
