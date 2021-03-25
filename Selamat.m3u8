@@ -5,16 +5,6 @@ http://choos.masuk.web.id/menpora.m3u8
 https://home-tv.web.id:443/kicau/anakayam.m3u8?channel=vidio-205
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",INDOSIAR LIVE 2
 https://livestreaming-swiftserve-etslive.vidio.com:443/hls-p/ingest_7676_720p/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",HBO id(set auto) 
-http://fdtvapps.xyz/channel/hbo.m3u8 
-#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",HBO HITS 
-http://fdtvapps.xyz/channel/hbohits.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",HBO FAM
-http://fdtvapps.xyz/channel/hbofam.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Cinemax id(set auto) 
-http://fdtvapps.xyz/channel/cinemax.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",RedByHbo id(set auto) 
-http://fdtvapps.xyz/channel/red.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:0 tvg-id="HBOAdria.rs" group-title="UseetvAll",HBO
