@@ -13,6 +13,18 @@ http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/
 http://iptv.zqstream.com/zqdrama-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Zq drama sd
 http://iptv.zqstream.com/zqdrama-gen/tracks-v2a1/mono.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO ORI
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO HITS ORI
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO FAMILY ORI
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO SIGNATURE ORI
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",CINEMAX ORI
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",RED ORI
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1  tvg-logo="TEST" group-title="FilmPremium1",HBO 640x360 
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONew.m3u8
 http://nonton.site:8888/ko Amat/123456/4828
@@ -69,7 +81,10 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",TFI
+http://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_1328.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FILM BARAT
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",chctv
 rtmp://58.200.131.2:1935/livetv/chctv
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",startv
