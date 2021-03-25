@@ -13,7 +13,8 @@ http://fdtvapps.xyz/channel/hbohits.m3u8
 http://fdtvapps.xyz/channel/hbofam.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Cinemax id(set auto) 
 http://fdtvapps.xyz/channel/cinemax.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",RedByHbo id(set auto) http://fdtvapps.xyz/channel/red.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",RedByHbo id(set auto) 
+http://fdtvapps.xyz/channel/red.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:0 tvg-id="HBOAdria.rs" group-title="UseetvAll",HBO
