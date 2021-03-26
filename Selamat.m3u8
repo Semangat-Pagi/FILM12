@@ -92,16 +92,20 @@ http://bonev2.xyz:80/playlist/usee-metrotv-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-metrotv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/752
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",KOMPASTV
-http://bonev2.xyz:80/playlist/user-kompastv-new-bonetv.m3u8
+http://bonev2.xyz:80/playlist/usee-kompastv-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-kompastv-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",CNBC INDONESIA 
+http://bonev2.xyz:80/playlist/usee-cnbcindonesia-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-cnbcindonesia-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",CNN INDONESIA 
+http://bonev2.xyz:80/playlist/usee-cnnindonesia-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-cnnindonesia-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Berita Satu
+http://bonev2.xyz:80/playlist/usee-beritasatu-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-beritasatu-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/754
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Jak TV
+http://bonev2.xyz:80/playlist/usee-jaktv-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-jaktv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/757
 http://bonetv.site:55555/bone/streaming/758
