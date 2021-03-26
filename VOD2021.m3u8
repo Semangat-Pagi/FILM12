@@ -289,7 +289,8 @@ https://cdn2ii.diebutx.com/own2hls/2020/b1f52e5435ab121602765b3156dde817/540p/in
 https://cdn3ii.diebutx.com/own2hls/2020/c6863cb6dd663ac179aef272b60fee7b/540p/index.m3u8
 
 =++++==========++=========VOD2020====++++++====++++4+++++
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Scoob! (2020)
+http://srv32.nf21.net:80/files/15-2020-05-17-cbbc2c67ff235ab64fac2425d6bf2746.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Legacy (2020)
 https://cdn3ii.diebutx.com/own2hls/2020/fad3d8a846ff9cf7de680bab92b3d87b/540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD2020",Arus Merah (2020)
