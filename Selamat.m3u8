@@ -37,6 +37,7 @@ http://newbonetv.xyz:443/m3u/usee-transtv-Banyuwangi1122.m3u8
 https://newbonetv.xyz:443/m3u/vidio-transtv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/744
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Trans7
+http://bonev2.xyz:80/playlist/vidio-trans7-new-bonetv.m3u8
 http://newbonetv.xyz:443/m3u/usee-trans7-Banyuwangi1122.m3u8
 https://newbonetv.xyz:443/m3u/vidio-trans7-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/745
@@ -61,9 +62,11 @@ https://bonev2.xyz:443/playlist/usee-net-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-net-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/749
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",SCTV
+http://bonev2.xyz:80/playlist/vidio-sctv-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-sctv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/750
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Indosiar
+http://bonev2.xyz:80/playlist/vidio-indosiar-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-indosiar-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/751
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",ANTV
@@ -79,14 +82,17 @@ http://bonev2.xyz:80/playlist/plus-magna-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",RTV
 http://bonev2.xyz:80/playlist/usee-rtv-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TVONE
+http://bonev2.xyz:80/playlist/vidio-tvone-new-bonetv.m3u8
 https://gratismkctv.net:443/oxygen/oxygen.m3u8?channel=tvone
 https://tv.cpdev.us/Playlist/o/tvone.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 https://newbonetv.xyz:443/m3u/usee-tvone-Banyuwangi1122.m3u8
 https://bonev2.xyz:443/oxygen.id/tvone.m3u8
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",Metro TV
+http://bonev2.xyz:80/playlist/usee-metrotv-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-metrotv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/752
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",KOMPASTV
+http://bonev2.xyz:80/playlist/user-kompastv-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-kompastv-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",CNBC INDONESIA 
 https://newbonetv.xyz:443/m3u/usee-cnbcindonesia-Banyuwangi1122.m3u8
