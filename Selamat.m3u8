@@ -109,8 +109,6 @@ http://bonev2.xyz:80/playlist/usee-jaktv-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-jaktv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/757
 http://bonetv.site:55555/bone/streaming/758
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",MYTV
-http://bonev2.xyz:80/playlist/usee-mytv-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",DAAI TV
 https://newbonetv.xyz:443/m3u/usee-daaitv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/759
@@ -197,8 +195,6 @@ http://bonetv.site:55555/bone/streaming/840
 #EXTINF:0 tvg-id="tv5monde" group-title="UseetvAll",TV5Monde
 https://newbonetv.xyz:443/m3u/usee-tv5monde-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/841
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",ElJohn
-https://newbonetv.xyz:443/m3u/usee-eljohn-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",lifetime
 https://newbonetv.xyz:443/m3u/usee-lifetime-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/842
@@ -274,6 +270,7 @@ http://bonev2.xyz:80/playlist/vidio-tv-edukasi-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-crimeinvestigation-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/866
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",CGTN Documentary
+http://bonev2.xyz:80/playlist/usee-cgtndocumrntary-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-cgtndocumrntary-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/867
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Lingua Channel
@@ -307,6 +304,7 @@ http://bonev2.xyz:80/playlist/vidio-citra-muslim-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-citramuslim-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/940
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Al Quran
+http://bonev2.xyz:80/playlist/usee-alquran-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-alquran-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/941
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Al Quran'
