@@ -109,6 +109,8 @@ http://bonev2.xyz:80/playlist/usee-jaktv-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-jaktv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/757
 http://bonetv.site:55555/bone/streaming/758
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",MYTV
+http://bonev2.xyz:80/playlist/vidio-mytv-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",DAAI TV
 https://newbonetv.xyz:443/m3u/usee-daaitv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/759
@@ -270,8 +272,8 @@ http://bonev2.xyz:80/playlist/vidio-tv-edukasi-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-crimeinvestigation-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/866
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",CGTN Documentary
-http://bonev2.xyz:80/playlist/usee-cgtndocumrntary-new-bonetv.m3u8
-https://newbonetv.xyz:443/m3u/usee-cgtndocumrntary-Banyuwangi1122.m3u8
+http://bonev2.xyz:80/playlist/usee-cgtndocumentary-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-cgtndocumentary-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/867
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Lingua Channel
 https://newbonetv.xyz:443/m3u/usee-lingua-Banyuwangi1122.m3u8
@@ -307,8 +309,6 @@ http://bonetv.site:55555/bone/streaming/940
 http://bonev2.xyz:80/playlist/usee-alquran-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-alquran-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/941
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Al Quran'
-http://bonev2.xyz:80/oxygen.id/qurantv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",MUI TV
 https://newbonetv.xyz:443/m3u/usee-muitv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/944
@@ -316,6 +316,7 @@ http://bonetv.site:55555/bone/streaming/944
 https://newbonetv.xyz:443/m3u/usee-tv9-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/945
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Tawaf tv
+http://bonev2.xyz:80/playlist/usee-tawaftv-new-bonetv.m3u8
 http://bonev2.xyz:80/oxygen.id/tawaftv.m3u8
 http://bonetv.site:55555/bone/streaming/946
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",MQ Tv
