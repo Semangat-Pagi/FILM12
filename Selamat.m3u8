@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",INDOSIAR LIVE
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Indosiar live1
+https://alyciasakhi.com:443/playlist/vidio-indosiar1.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Indosiar live2
+https://livestreaming-swiftserve-etslive.vidio.com:443/hls-p/ingest_7674_720p/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",INDOSIAR LIVE3
 https://alyciasakhi.com:443/playlist/vidio-indosiar2.m3u8
 http://choos.masuk.web.id/menpora.m3u8
 https://home-tv.web.id:443/kicau/anakayam.m3u8?channel=vidio-205
-#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",INDOSIAR LIVE 2
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",INDOSIAR LIVE4
 https://livestreaming-swiftserve-etslive.vidio.com:443/hls-p/ingest_7676_720p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
