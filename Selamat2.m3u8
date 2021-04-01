@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",TES
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/02.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",TES2
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",TES
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11009&key=84797b799ae18d1b
 https://nsx1.vitv.site:443/jakarta/play/fox/index.m3u8?access_key=g6a6RUa3bu4ACtvt
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",FOX CRIME
