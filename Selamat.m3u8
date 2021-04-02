@@ -202,16 +202,16 @@ http://bonetv.site:55555/bone/streaming/839
 http://bonev2.xyz:80/playlist/usee-kbsworld-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-kbsworld-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/840
-#EXTINF:0 tvg-id="tv5monde" group-title="UseetvAll",TV5Monde
-http://bonev2.xyz:80/playlist/usee-tv5monde-new-bonetv.m3u8
-https://newbonetv.xyz:443/m3u/usee-tv5monde-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/841
-#EXTINF:0 tvg-id="tv5monde" group-title="UseetvAll",ELJOHN 
-http://bonev2.xyz:80/playlist/usee-eljohn-new-bonetv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",lifetime
-http://bonev2.xyz:80/playlist/usee-lifetime-new-bonetv.m3u8
-https://newbonetv.xyz:443/m3u/usee-lifetime-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/842
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Discovery Asia
+http://bonev2.xyz:80/playlist/usee-disco-new-bonetv.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Boomerang 
+http://bonev2.xyz:80/playlist/usee-boomerang-new-bonetv.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Disney Channel 
+http://bonev2.xyz:80/playlist/yt-disney-new-bonetv.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Horee Vidio
+http://bonev2.xyz:80/playlist/vidio-hiphip-horee-new-bonetv.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Zoo Moo
+http://bonev2.xyz:80/playlist/vidio-zoomoo-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Horee
 http://bonev2.xyz:80/playlist/usee-horee-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-horee-Banyuwangi1122.m3u8
@@ -342,6 +342,16 @@ http://bonetv.site:55555/bone/streaming/900
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Eat & Go
 http://bonev2.xyz:80/playlist/usee-eatgo-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-eatgo-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="tv5monde" group-title="UseetvAll",TV5Monde
+http://bonev2.xyz:80/playlist/usee-tv5monde-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-tv5monde-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/841
+#EXTINF:0 tvg-id="tv5monde" group-title="UseetvAll",ELJOHN 
+http://bonev2.xyz:80/playlist/usee-eljohn-new-bonetv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",lifetime
+http://bonev2.xyz:80/playlist/usee-lifetime-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-lifetime-Banyuwangi1122.m3u8
+http://bonetv.site:55555/bone/streaming/842
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Muslim
 http://bonev2.xyz:80/playlist/vidio-citra-muslim-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-citramuslim-Banyuwangi1122.m3u8
