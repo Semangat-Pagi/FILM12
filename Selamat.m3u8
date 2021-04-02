@@ -202,8 +202,6 @@ http://bonetv.site:55555/bone/streaming/839
 http://bonev2.xyz:80/playlist/usee-kbsworld-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-kbsworld-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/840
-#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Discovery Asia
-http://bonev2.xyz:80/playlist/usee-disco-new-bonetv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Boomerang 
 http://bonev2.xyz:80/playlist/usee-boomerang-new-bonetv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Disney Channel 
@@ -272,6 +270,8 @@ http://bonetv.site:55555/bone/streaming/857
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Smithsonian
 http://bonev2.xyz:80/playlist/vidio-smithsonian-new-bonetv.m3u8
 http://bonetv.site:55555/bone/streaming/858
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Discovery Asia
+http://bonev2.xyz:80/playlist/usee-disco-new-bonetv.m3u8
 #EXTINF:0 tvg-id="discov_rus" group-title="UseetvAll",Discovery Channel
 http://bonev2.xyz:80/playlist/usee-disco-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-discoverychannel-Banyuwangi1122.m3u8
