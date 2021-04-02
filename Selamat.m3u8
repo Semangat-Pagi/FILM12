@@ -444,3 +444,5 @@ http://bonetv.site:55555/bone/streaming/822
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",EGG Network
 http://bonev2.xyz:80/playlist/usee-egg-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-egg-Banyuwangi1122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",NBA
+http://bonev2.xyz:80/playlist/usee-nba-new-bonetv.m3u8
