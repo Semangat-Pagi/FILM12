@@ -206,6 +206,8 @@ http://bonetv.site:55555/bone/streaming/840
 http://bonev2.xyz:80/playlist/usee-tv5monde-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-tv5monde-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/841
+#EXTINF:0 tvg-id="tv5monde" group-title="UseetvAll",ELJOHN 
+http://bonev2.xyz:80/playlist/usee-eljohn-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",lifetime
 http://bonev2.xyz:80/playlist/usee-lifetime-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-lifetime-Banyuwangi1122.m3u8
