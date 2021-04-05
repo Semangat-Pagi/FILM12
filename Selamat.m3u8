@@ -12,28 +12,30 @@ https://livestreaming-swiftserve-etslive.vidio.com:443/hls-p/ingest_7676_720p/in
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TransTV
-http://bonev2.xyz:80/playlist/vidio-transtv-new-bonetv.m3u8
 http://bonev2.xyz:80/playlist/usee-transtv-new-bonetv.m3u8
+http://bonev2.xyz:80/playlist/vidio-transtv-new-bonetv.m3u8
 http://newbonetv.xyz:443/m3u/usee-transtv-Banyuwangi1122.m3u8
 https://newbonetv.xyz:443/m3u/vidio-transtv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/744
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Trans7
-http://bonev2.xyz:80/playlist/vidio-trans7-new-bonetv.m3u8
 http://newbonetv.xyz:443/m3u/usee-trans7-Banyuwangi1122.m3u8
+http://bonev2.xyz:80/playlist/vidio-trans7-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/vidio-trans7-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/745
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",RCTI
+https://newbonetv.xyz:443/m3u/vidio-rcti-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/vidio-rcti-new-bonetv.m3u8
 https://tv.cpdev.us/Playlist/r/10015.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 https://newbonetv.xyz:443/m3u/usee-rcti-Banyuwangi1122.m3u8
-https://newbonetv.xyz:443/m3u/vidio-rcti-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/746
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",MNC TV
+https://newbonetv.xyz:443/m3u/vidio-mnc-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/vidio-mnc-new-bonetv.m3u8
 https://tv.cpdev.us/Playlist/r/10016.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 https://newbonetv.xyz:443/m3u/usee-mnc-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/747
 #EXTINF:0 tvg-id="gtv.il" group-title="UseetvAll",GTV'
+https://newbonetv.xyz:443/m3u/vidio-gtv-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/vidio-gtv-new-bonetv.m3u8
 https://tv.cpdev.us/Playlist/r/10017.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 https://newbonetv.xyz:443/m3u/usee-gtv-Banyuwangi1122.m3u8
