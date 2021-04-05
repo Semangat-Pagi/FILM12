@@ -131,11 +131,11 @@ https://newbonetv.xyz:443/m3u/usee-galaxy-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/801
 http://bonetv.site:55555/bone/streaming/790
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Drama
-http://bonev2.xyz:80/playlist/usee-citra-drama-new-bonetv.m3u8
+http://bonev2.xyz:80/playlist/vidio-citra-drama-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-cdrama-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/791
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Zee Bioskop
-http://bonev2.xyz:80/playlist/usee-zeebioskop-new-bonetv.m3u8
+http://bonev2.xyz:80/playlist/vidio-zbioskop-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-zbioskop-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/792
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Flik
