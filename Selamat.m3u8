@@ -29,6 +29,7 @@ https://tv.cpdev.us/Playlist/r/10015.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 https://newbonetv.xyz:443/m3u/usee-rcti-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/746
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",MNC TV
+http://bonev2.xyz:80/playlist/usee-mnc-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/vidio-mnc-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/vidio-mnc-new-bonetv.m3u8
 https://tv.cpdev.us/Playlist/r/10016.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
@@ -45,10 +46,12 @@ https://bonev2.xyz:443/playlist/usee-net-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-net-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/749
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",SCTV
+http://bonev2.xyz:80/playlist/usee-sctv-new-bonetv.m3u8
 http://bonev2.xyz:80/playlist/vidio-sctv-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-sctv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/750
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Indosiar
+http://bonev2.xyz:80/playlist/usee-indosiar-new-bonetv.m3u8
 http://bonev2.xyz:80/playlist/vidio-indosiar-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-indosiar-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/751
