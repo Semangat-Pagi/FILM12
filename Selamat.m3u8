@@ -51,8 +51,8 @@ http://bonev2.xyz:80/playlist/vidio-sctv-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-sctv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/750
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Indosiar
-http://bonev2.xyz:80/playlist/usee-indosiar-new-bonetv.m3u8
 http://bonev2.xyz:80/playlist/vidio-indosiar-new-bonetv.m3u8
+http://bonev2.xyz:80/playlist/usee-indosiar-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/vidio-indosiar-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/751
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",ANTV
