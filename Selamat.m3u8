@@ -116,10 +116,12 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 http://bonev2.xyz:80/playlist/usee-celestialmovie-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-celestialmovie-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="TVN.pl" group-title="UseetvAll",TvN
+http://bonev2.xyz:80/playlist/vidio-tvnmovies-new-bonetv.m3u8
 http://bonev2.xyz:80/playlist/usee-tvn-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-tvn-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/786
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TvN Movies
+http://bonev2.xyz:80/playlist/vidio-tvnmovies-new-bonetv.m3u8
 http://bonev2.xyz:80/playlist/usee-tvnmovies-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-tvnmovies-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/787
