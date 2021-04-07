@@ -12,8 +12,8 @@ https://livestreaming-swiftserve-etslive.vidio.com:443/hls-p/ingest_7676_720p/in
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TransTV
-http://bonev2.xyz:80/playlist/usee-transtv-new-bonetv.m3u8
 http://bonev2.xyz:80/playlist/vidio-transtv-new-bonetv.m3u8
+http://bonev2.xyz:80/playlist/usee-transtv-new-bonetv.m3u8
 http://newbonetv.xyz:443/m3u/usee-transtv-Banyuwangi1122.m3u8
 https://newbonetv.xyz:443/m3u/vidio-transtv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/744
