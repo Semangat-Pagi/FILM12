@@ -11,6 +11,8 @@ https://home-tv.web.id:443/kicau/anakayam.m3u8?channel=vidio-205
 https://livestreaming-swiftserve-etslive.vidio.com:443/hls-p/ingest_7676_720p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Astro Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TransTV
 http://bonev2.xyz:80/playlist/vidio-transtv-new-bonetv.m3u8
 http://bonev2.xyz:80/playlist/usee-transtv-new-bonetv.m3u8
