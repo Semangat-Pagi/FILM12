@@ -112,12 +112,16 @@ https://indotv.tech:443/m3u8sd/usee-rtv-indonesia.m3u8
 https://tvonlineindonesia.xyz:443/m3u8/usee-kompastv-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-kompastv-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",Rcti
+https://indotv.tech:443/mnc/rcti.m3u8
 https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",GLOBALTV
+https://indotv.tech:443/mnc/gtv.m3u8
 https://vcdn2.rctiplus.id:443/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",MNCTV
+https://indotv.tech:443/mnc/mnc.m3u8
 https://vcdn2.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",INEWS
+https://livetv01.rctiplus.id:443/live/eds/inews_fta/live_fta/inews_fta.m3u8
 https://vcdn2.rctiplus.id:443/live/eds/inews_fta/live_fta/inews_fta.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",The Indonesia channel 
 https://wowzaprod236-i.akamaihd.net:443/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
