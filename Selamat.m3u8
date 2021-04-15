@@ -31,7 +31,7 @@ https://tv.cpdev.us/Playlist/r/10015.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 https://newbonetv.xyz:443/m3u/usee-rcti-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/746
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",MNC TV
-http://bonev2.xyz:80/playlist/usee-mnc-new-bonetv.m3u8
+http://bonev2.xyz:80/playlist/vidio-mnc-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/vidio-mnc-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/vidio-mnc-new-bonetv.m3u8
 https://tv.cpdev.us/Playlist/r/10016.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
@@ -138,6 +138,8 @@ https://newbonetv.xyz:443/m3u/usee-galaxypremium-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/usee-galaxy-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-galaxy-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/801
+#EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Bioskop
+http://bonev2.xyz:80/playlist/vidio-citrabioskop-new-bonetv.m3u8
 http://bonetv.site:55555/bone/streaming/790
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Citra Drama
 http://bonev2.xyz:80/playlist/vidio-citra-drama-new-bonetv.m3u8
