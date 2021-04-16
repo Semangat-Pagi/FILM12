@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",TESs
+#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR2",TES
+https://iix123.aks.my.id:443/iop/poi/151?token2=MjRhUFZxM3dYSkRqeUlvY0xkL2tyRG5ZMnZ3dlR4SGNLeTM0QlF3cDM0cTg3aGFEU3BKc01nKzk4REpPZUtJcg==
 https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/01.mp3
 https://a.ott.my.id:443/indi/kompastv.m3u8?token=OFpxamVBMkdDVTlPQXl6MVd4UVNNclI2OFhoS2tVMVZWVGU1d3Vma2JxUzdFclF6MnJCRWtQR2VKTW9qcUhwSA==
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11009&key=84797b799ae18d1b
