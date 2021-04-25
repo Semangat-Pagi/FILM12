@@ -489,3 +489,19 @@ https://ox2020.crabdance.com/nb/FAMILY/index.m3u8?token=MjRhUFZxM3dYSkRqeUlvY0xk
 https://ox2020.crabdance.com/nb/MAX/index.m3u8?token=MjRhUFZxM3dYSkRqeUlvY0xkL2tyRkZTT05UQ3UybnB3VmNFSzBVYWJneTJZSm1wbXRaT3lpYy9jWnpTTm5hMA==
 #EXTINF:-1 tvg-id="RED by HBO" tvg-name="RED by HBO" group-title="HBO GO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png",Red By HBO
 https://ox2020.crabdance.com/nb/RED/index.m3u8?token=MjRhUFZxM3dYSkRqeUlvY0xkL2tyRkZTT05UQ3UybnB3VmNFSzBVYWJneTJZSm1wbXRaT3lpYy9jWnpTTm5hMA==
+#EXTINF:0 tvg-id="ext" group-title="HBO GO",FOX
+http://45.12.80.38:8080/294/294/9?token=GhpQU0QMRAlBAVBSBAVVB1RcU1YDBFtWUgIPAgIOVFFTWVlQAlAHBQIVT0BGEhZTUVQ7DVZAWQxOEEJFUko7WwUaAhAGVFICUhVPQEEPCVMSA1VSA1tQAlcGBQIbGhRbBRoCEAZdUwFWFU9AUB4QU0JXBQhtBgZDC1FSFA1WEV4NFBpdWTsCVg5WDQYXXEYGEhVGDUESQQ8MR1taGxoGWxVKWUZSRlwRUQ9SUxdKRlVfTAoQQBtBD0B7cxQbGgFKFV1WQV4LCBFZFRcRF0pGX0NmFgFBFhFQA19SRBUCRgJDFBpfVhw5UAxZDQdWEg1ZXkpGXhBTQRlAX1hYXkwLQD5IUVYVXkQAUwBQVxcb
+#EXTINF:0 tvg-id="ext" group-title="HBO GO",FOX FAM
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HBO GO",FOX CRIME 
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HBO GO",FOX LIFE 
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HBO GO",FOX
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HBO GO",FOX ACTION 
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HBO GO",FOX MOV
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+
+
