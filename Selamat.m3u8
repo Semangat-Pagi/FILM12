@@ -473,3 +473,24 @@ http://bonev2.xyz:80/playlist/usee-egg-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-egg-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",NBA
 http://bonev2.xyz:80/playlist/usee-nba-new-bonetv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="HBO GO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png",
+ HBO HD
+https://ox2020.crabdance.com/nb/HBO/index.m3u8?token=MjRhUFZxM3dYSkRqeUlvY0xkL2tyRkZTT05UQ3UybnB3VmNFSzBVYWJneTJZSm1wbXRaT3lpYy9jWnpTTm5hMA==
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" group-title="HBO GO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png",
+ HBO Signature
+https://ox2020.crabdance.com/nb/SIG/index.m3u8?token=MjRhUFZxM3dYSkRqeUlvY0xkL2tyRkZTT05UQ3UybnB3VmNFSzBVYWJneTJZSm1wbXRaT3lpYy9jWnpTTm5hMA==
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" group-title="HBO GO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png",
+ HBO Hits
+https://ox2020.crabdance.com/nb/HITS/index.m3u8?token=MjRhUFZxM3dYSkRqeUlvY0xkL2tyRkZTT05UQ3UybnB3VmNFSzBVYWJneTJZSm1wbXRaT3lpYy9jWnpTTm5hMA==
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" group-title="HBO GO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg",
+ HBO Family
+https://ox2020.crabdance.com/nb/FAMILY/index.m3u8?token=MjRhUFZxM3dYSkRqeUlvY0xkL2tyRkZTT05UQ3UybnB3VmNFSzBVYWJneTJZSm1wbXRaT3lpYy9jWnpTTm5hMA==
+#EXTINF:-1 tvg-id="Cinemax by HBO" tvg-name="Cinemax by HBO" group-title="HBO GO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png",
+ Cinemax
+https://ox2020.crabdance.com/nb/MAX/index.m3u8?token=MjRhUFZxM3dYSkRqeUlvY0xkL2tyRkZTT05UQ3UybnB3VmNFSzBVYWJneTJZSm1wbXRaT3lpYy9jWnpTTm5hMA==
+#EXTINF:-1 tvg-id="RED by HBO" tvg-name="RED by HBO" group-title="HBO GO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png",
+ Red By HBO
+https://ox2020.crabdance.com/nb/RED/index.m3u8?token=MjRhUFZxM3dYSkRqeUlvY0xkL2tyRkZTT05UQ3UybnB3VmNFSzBVYWJneTJZSm1wbXRaT3lpYy9jWnpTTm5hMA==
