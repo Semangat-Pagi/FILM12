@@ -32,18 +32,6 @@ http://bonev2.xyz:80/playlist/vidio-rcti-new-bonetv.m3u8
 https://tv.cpdev.us/Playlist/r/10015.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 https://newbonetv.xyz:443/m3u/usee-rcti-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/746
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",MNC TV
-https://newbonetv.xyz:443/m3u/usee-mnc-Banyuwangi1122.m3u8
-http://bonev2.xyz:80/playlist/vidio-mnc-new-bonetv.m3u8
-http://bonev2.xyz:80/playlist/vidio-mnc-new-bonetv.m3u8
-https://tv.cpdev.us/Playlist/r/10016.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
-https://newbonetv.xyz:443/m3u/usee-mnc-Banyuwangi1122.m3u8
-http://bonetv.site:55555/bone/streaming/747
-#EXTINF:0 tvg-id="gtv.il" group-title="UseetvAll",GTV'
-https://newbonetv.xyz:443/m3u/usee-gtv-Banyuwangi1122.m3u8
-http://bonev2.xyz:80/playlist/vidio-gtv-new-bonetv.m3u8
-https://tv.cpdev.us/Playlist/r/10017.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
-https://newbonetv.xyz:443/m3u/usee-gtv-Banyuwangi1122.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",NET TV
 https://bonev2.xyz:443/playlist/usee-net-new-bonetv.m3u8
 #EXTINF:0 tvg-id="NETtv.svn" group-title="UseetvAll",NET TV*
@@ -67,11 +55,6 @@ http://bonev2.xyz:80/playlist/plus-magna-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",RTV
 https://newbonetv.xyz:443/m3u/usee-rtv-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/vidio-rtv-new-bonetv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="UseetvAll",TVONE
-https://newbonetv.xyz:443/m3u/vidio-tvone-Banyuwangi1122.m3u8
-http://bonev2.xyz:80/playlist/yt-tvone-new-bonetv.m3u8
-https://newbonetv.xyz:443/m3u/usee-tvone-Banyuwangi1122.m3u8
-https://bonev2.xyz:443/oxygen.id/tvone.m3u8
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",Metro TV
 https://newbonetv.xyz:443/m3u/usee-metrotv-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/usee-metrotv-new-bonetv.m3u8
@@ -110,9 +93,9 @@ https://newbonetv.xyz:443/m3u/usee-rrinet-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/usee-rrinet-new-bonetv.m3u8
 http://bonetv.site:55555/bone/streaming/769
 http://bonetv.site:55555/bone/streaming/770
-#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",CELESTIAL CLASSIC MOVIE 
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",CELESTIAL MOVIE
+https://newbonetv.xyz:443/m3u/vidio-celestialmovie-Banyuwangi1122.m3u8
+http://bonev2.xyz:80/playlist/vidio-celestialmovie-new-bonetv.m3u8
 http://bonev2.xyz:80/playlist/usee-celestialmovie-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-celestialmovie-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="TVN.pl" group-title="UseetvAll",TvN
@@ -484,6 +467,8 @@ http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FOX",FOX MOV
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOX",CELESTIAL CLASSIC MOVIE 
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FOX",FOX 
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080
 #EXTINF:0 tvg-id="ext" group-title="FOX", Fox Action Movies
