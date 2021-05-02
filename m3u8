@@ -1,6 +1,51 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",MY CINEMA
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",TVN
+http://210.210.155.35:80/session/29486ad0-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h20/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",TVN MOVIES
+http://210.210.155.35:80/session/86fa742a-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h21/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index1.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",THRILL
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",FOX LIFE
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",BLUE ANT ENTERTAINMENT
+http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",BLUE ANT EXTREME
+http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/02.m3u8
+http://45.126.83.51/dr9445/h/h15/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",CELESTIAL MOVIES 
+http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Hits [ID]
+http://45.126.83.51/uq2663/h/h37/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",SONY
+http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",SONY GEM
+http://210.210.155.35/uq2663/h/h19/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",K+
+http://210.210.155.35/session/c74a75b8-0196-11ea-bbc1-c81f66f89318/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",K DRAMA
+http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/02.m3u8
+http://210.210.155.35/session/971493a0-0192-11ea-b1fb-b82a72d63267/qwr9ew/s/s42/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",CINEMA WORLD
+http://210.210.155.35/session/4b609526-4bf3-11e9-9bd8-afdb8d9eb786/uq2663/h/h04/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HITS
+http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
+http://210.210.155.66/h/h37/index2.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",AXN
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",DRAKOR
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",KUNGFU CLASSIC ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",K+
@@ -109,8 +154,6 @@ http://92.43.140.200/s68/04.m3u8
 http://92.43.140.200/s7/04.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Hiburan 
 http://92.43.140.200/s38/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",DRAKOR
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX THAI
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
@@ -148,20 +191,10 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Sony Movies Action
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",MY CINEMA
-http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-https://www.dropbox.com/s/dl/qdkkolbhtbenijh/dMYCINE.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HITS
-http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
-http://210.210.155.66/h/h37/index2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",THRILL
-http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",AXN
-http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",AXN
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX MOVIE
@@ -180,43 +213,8 @@ http://iamchannel.org:1935/tes/1/playlist.m3u8
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",BLUE ANT EXTREME
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",BLUE ANT ENTERTAINMENT
-http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/02.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",BLUE ANT EXTREME
-http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/02.m3u8
-http://45.126.83.51/dr9445/h/h15/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",CELESTIAL MOVIES 
-http://45.126.83.51/qwr9ew/s/s33/01.m3u8
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Hits [ID]
-http://45.126.83.51/uq2663/h/h37/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Zee Bioskop
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",SONY
-http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",SONY GEM
-http://210.210.155.35/uq2663/h/h19/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Thrilll [ID]
-http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/01.m3u8
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",K+
-http://210.210.155.35/session/c74a75b8-0196-11ea-bbc1-c81f66f89318/uq2663/h/h08/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",K DRAMA
-http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/02.m3u8
-http://210.210.155.35/session/971493a0-0192-11ea-b1fb-b82a72d63267/qwr9ew/s/s42/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",CINEMA WORLD
-http://210.210.155.35/session/4b609526-4bf3-11e9-9bd8-afdb8d9eb786/uq2663/h/h04/02.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",THRILL
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX LIFE
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Black Cinema
