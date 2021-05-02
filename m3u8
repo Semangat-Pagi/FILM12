@@ -194,7 +194,14 @@ http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/
 http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Unknown 
 http://184.173.181.2:1935/8042/8042/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Unknown 
+http://184.173.181.2:1935/8044/8044/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Unknown 
+http://184.173.181.2:1935/8046/8046/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Unknown 
+http://184.173.181.2:1935/8072/8072/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO
+http://161.0.157.5/PLTV/88888888/224/3221226127/03.m3u8
 
 
 
