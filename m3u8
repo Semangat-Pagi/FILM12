@@ -56,6 +56,8 @@ http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/
 http://iptv.zqstream.com/zqdrama-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Zq drama sd
 http://iptv.zqstream.com/zqdrama-gen/tracks-v2a1/mono.m3u8?token=vQqPVtl-k0
+#EXTINF:-1  tvg-logo="TEST" group-title="FilmPremium1",IAM Channel
+http://iamchannel.org:1935/tes/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO ORI
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO HITS ORI
@@ -126,8 +128,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",TFI
 http://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_1328.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FILM BARAT
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",chctv
 rtmp://58.200.131.2:1935/livetv/chctv
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",startv
@@ -136,10 +136,6 @@ rtmp://58.200.131.2:1935/livetv/startv
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Cookie Rerun
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO
-http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX
-http://136.243.177.164/FOX/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film ARMENIA TV 
 http://92.43.140.200/s42/04.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film odega
@@ -152,37 +148,10 @@ http://92.43.140.200/s68/04.m3u8
 http://92.43.140.200/s7/04.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Hiburan 
 http://92.43.140.200/s38/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX THAI
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX MOVIES THAI
-https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HD THAI
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HITS THAI
-https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO RED THAI
-https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",AXN THAI
-https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",WARNER TV THAI
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",KIX MALAY
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO ENG
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO 
-https://www.livedoomovies.com:443/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",UK: HBO
-http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO FAM
-https://www.livedoomovies.com:443/02_HBOFamily_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HITS
-https://www.livedoomovies.com:443/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO SIG
-https://www.livedoomovies.com:443/02_HBOSignature_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",CINEMAX
-http://136.243.177.164/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX THAI
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Fox Family Movies
@@ -193,20 +162,12 @@ http://51.52.156.22:8888/http/009
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",AXN
-https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX MOVIE
-https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",WARNER TV
 http://203.154.243.89:1205
-http://106.54.30.243/gz009/gz.php?id=hbo
-http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2", WAU HD
 http://nn2.joj.sk/hls/wau-540.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1  tvg-logo="TEST" group-title="FilmPremium2",IAM Channel
-http://iamchannel.org:1935/tes/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",BLUE ANT ENTERTAINMENT
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",BLUE ANT EXTREME
@@ -217,8 +178,7 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Black Cinema
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2", FILM?
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
+
 
 
 
