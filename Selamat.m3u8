@@ -482,5 +482,21 @@ http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FOX",FOX MOV
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX 
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080
+#EXTINF:0 tvg-id="ext" group-title="FOX", Fox Action Movies
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197971
+#EXTINF:0 tvg-id="ext" group-title="FOX", Fox Crime
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165076
+#EXTINF:0 tvg-id="ext" group-title="FOX", Fox Family Movies
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157595
+#EXTINF:0 tvg-id="ext" group-title="FOX", Fox Life
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165083
+#EXTINF:0 tvg-id="ext" group-title="FOX", Fox Movies
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165078
+#EXTINF:0 tvg-id="ext" group-title="FOX", Fox Movies Action
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157608
+#EXTINF:0 tvg-id="ext" group-title="FOX", Fox Movies Premium
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197970
 #EXTINF:0 tvg-id="ext" group-title="FOX",FX
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165084
