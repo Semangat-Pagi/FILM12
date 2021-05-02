@@ -40,9 +40,7 @@ http://210.210.155.35/session/4b609526-4bf3-11e9-9bd8-afdb8d9eb786/uq2663/h/h04/
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HITS
 http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
 http://210.210.155.66/h/h37/index2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",THRILL
-http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",AXN
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",AXN
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",DRAKOR
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/01.m3u8
