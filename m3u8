@@ -126,6 +126,21 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Sony Movies Action
+http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film 1
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film 2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Itv 3
+http://51.52.156.22:8888/http/006
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Itv 4
+http://51.52.156.22:8888/http/007
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film 3
+http://51.52.156.22:8888/http/008
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film 4
+http://51.52.156.22:8888/http/011
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",TFI
 http://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_1328.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",chctv
@@ -156,8 +171,6 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Fox Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Sony Movies Action
-http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",TVIKIM
