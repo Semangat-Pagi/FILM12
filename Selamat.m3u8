@@ -396,10 +396,12 @@ http://bonev2.xyz:80/playlist/usee-balitv-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-balitv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/988
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="UseetvAll",BeIN Sport 1
+http://bonev2.xyz:80/playlist/usee-beib1-new-bonetv.m3u8
 http://bonev2.xyz:80/playlist/usee-bein1-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-bein1-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/810
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="UseetvAll",BeIN Sport 2
+http://bonev2.xyz:80/playlist/usee-beib2-new-bonetv.m3u8
 http://bonev2.xyz:80/playlist/usee-bein2-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-bein2-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/811
