@@ -50,48 +50,49 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAX2021.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",RED
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/RED2021.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USEALL4",THRILL, 
+#EXTINF:0 tvg-id="ext" group-title="USEALL4",THRILL
 https://indotv.tech:443/m3u8sd/usee-thrill-indonesia.m3u8
-https://tvonlineindonesia.xyz:443/m3u8/usee-thrill-People+62.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",FLIK
-https://tvonlineindonesia.xyz:443/m3u8/usee-flik-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-flik-indonesia.m3u8
+https://tvonlineindonesia.xyz:443/m3u8/usee-flik-People+62.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",AXN
-https://tvonlineindonesia.xyz:443/m3u8/usee-axn-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-axn-indonesia.m3u8
+https://tvonlineindonesia.xyz:443/m3u8/usee-axn-People+62.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",ZEE BIOSKOP 
 https://indotv.tech:443/m3u8sd/usee-zbioskop-indonesia.m3u8
 https://tvonlineindonesia.xyz:443/m3u8/usee-zbioskop-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-zbioskop-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",CELESTIAL MOVIES 
+https://indotv.tech:443/m3u8sd/usee-celestialmovie-indonesia.m3u8
 https://tvonlineindonesia.xyz:443/m3u8/usee-celestialmovie-People+62.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",DAAITV 
+https://indotv.tech:443/m3u8sd/usee-daaitv-indonesia.m3u8
 https://tvonlineindonesia.xyz:443/m3u8/usee-daaitv-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-daaitv-indonesia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",GALAXY 
-https://tvonlineindonesia.xyz:443/m3u8/usee-galaxy-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-galaxy-indonesia.m3u8
+https://tvonlineindonesia.xyz:443/m3u8/usee-galaxy-People+62.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",WARNERTV
-https://tvonlineindonesia.xyz:443/m3u8/usee-warner-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-warner-indonesia.m3u8
+https://tvonlineindonesia.xyz:443/m3u8/usee-warner-People+62.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",CINEMA WORLD 
-https://tvonlineindonesia.xyz:443/m3u8/usee-cinemaworld-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-cinemaworld-indonesia.m3u8
+https://tvonlineindonesia.xyz:443/m3u8/usee-cinemaworld-People+62.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",SONY ONE
-https://tvonlineindonesia.xyz:443/m3u8/usee-sone-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-sone-indonesia.m3u8
+https://tvonlineindonesia.xyz:443/m3u8/usee-sone-People+62.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",SONY GEM
-https://tvonlineindonesia.xyz:443/m3u8/usee-sgem-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-sgem-indonesia.m3u8
+https://tvonlineindonesia.xyz:443/m3u8/usee-sgem-People+62.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",BIOSKOP INDONESIA 
-https://tvonlineindonesia.xyz:443/m3u8/usee-bioskopindonesia-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-bioskopindonesia-indonesia.m3u8
+https://tvonlineindonesia.xyz:443/m3u8/usee-bioskopindonesia-People+62.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",IMC
-https://tvonlineindonesia.xyz:443/m3u8/usee-imc-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-imc-indonesia.m3u8
+https://tvonlineindonesia.xyz:443/m3u8/usee-imc-People+62.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",CITRA DRAMA 
-https://tvonlineindonesia.xyz:443/m3u8/usee-cdrama-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-cdrama-indonesia.m3u8
+https://tvonlineindonesia.xyz:443/m3u8/usee-cdrama-People+62.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEALL4",NET
 https://tvonlineindonesia.xyz:443/m3u8/usee-net-People+62.m3u8
 https://indotv.tech:443/m3u8sd/usee-net-indonesia.m3u8
