@@ -35,7 +35,7 @@ http://bonetv.site:55555/bone/streaming/746
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",MNCTV
 http://bonev2.xyz:80/playlist/vidio-mnc-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",GLOBALTV
-http://bonev2.xyz:80/playlist/vidio-mnc-new-bonetv.m3u8
+http://bonev2.xyz:80/playlist/vidio-gtv-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",INEWSTV
 http://bonev2.xyz:80/playlist/vidio-inews-new-bonetv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",NET TV
