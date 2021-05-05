@@ -158,6 +158,7 @@ http://bonev2.xyz:80/playlist/usee-cinemaworld-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-cinemaworld-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/795
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Thrill
+https://bonev2.xyz:443/playlist/plus-thrill-new-bonetv.m3u8
 http://bonev2.xyz:80/playlist/usee-thrill-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-thrill-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/799
