@@ -13,6 +13,10 @@ https://home-tv.web.id:443/kicau/anakayam.m3u8?channel=vidio-205
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7677_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",HBO HITS MAL
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",HBO SIG MAL
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Astro Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TransTV
