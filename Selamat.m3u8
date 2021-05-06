@@ -498,7 +498,8 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/196480
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/266811
 #EXTINF:-1 tvg-logo="TEST" group-title="FOX",HBO Signature
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/221948
-#EXTINF:0 tvg-id="ext" group-title="FOX",FOX
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX, 
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080
 http://77.247.108.18:8070/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080?token=ShUNAEFcElxEWgRSDQoFA1QEAwdXBlNfDlNaAQ9SV1AHU1RQUQVWVl4aGEZKTREDAFhpWAUVDwgABFNaB05DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUFCgQAUVEBTkMTWFNHWxAGBlBXCRZIG1wbEgRHWFANaFFcQFgABxVYDxZdW0lDXVpvAgNVVQpdG1lEUBcaEwhERRsMXxYOW05DAVhDFwBGURJcRAoMVQsbT0QCWkNfFUVMGwwTLS4VTkMGSUMAD0FdXwhEAhYQShtPRAhGaUMEREFLU1AOB0VAW0EAFUlDX1VIOQVXWgpcWhcPDltFE1sVBwkGAUFOFQ8ODVhDChNtRFkCRAIWVQwNVFFDSA==
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080
 #EXTINF:0 tvg-id="ext" group-title="FOX", Fox Action Movies
