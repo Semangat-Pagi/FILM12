@@ -477,18 +477,29 @@ http://bonev2.xyz:80/playlist/usee-nba-new-bonetv.m3u8
 
 
 
-
-#EXTINF:0 tvg-id="ext" group-title="FOX",FOX FAM
+#EXTINF:0 tvg-id="ext" group-title="FOX",Fox crime geo
+http://geostream.me:8080/live/lasse6/lasse6/28779.ts
+#EXTINF:0 tvg-id="ext" group-title="FOX",Fox Action movies geo
+http://geostream.me:8080/live/lasse6/lasse6/28778.ts
+#EXTINF:0 tvg-id="ext" group-title="FOX",Fox geo
+http://geostream.me:8080/live/lasse6/lasse6/28777.ts
+#EXTINF:0 tvg-id="ext" group-title="FOX",Fox Life geo
+http://geostream.me:8080/live/lasse6/lasse6/28776.ts
+#EXTINF:0 tvg-id="ext" group-title="FOX",Fox Action Movies geo
+http://geostream.me:8080/live/lasse6/lasse6/28775.ts
+#EXTINF:0 tvg-id="ext" group-title="FOX",Fox Movies geo
+http://geostream.me:8080/live/lasse6/lasse6/28774.ts
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX FAM mal
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FOX",FOX CRIME 
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX CRIME mal
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FOX",FOX LIFE 
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX LIFE mal
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FOX",FOX
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX mal
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FOX",FOX ACTION 
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FOX",FOX MOV
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX MOV mal
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOX",CELESTIAL CLASSIC MOVIE 
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
