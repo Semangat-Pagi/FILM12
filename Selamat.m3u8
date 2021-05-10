@@ -20,12 +20,13 @@ http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseetvAll",Astro Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TransTV
+http://bonev2.xyz:80/playlist/usee-transtv-new-bonetv.m3u8
 http://newbonetv.xyz:443/m3u/usee-transtv-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/vidio-transtv-new-bonetv.m3u8
-http://bonev2.xyz:80/playlist/usee-transtv-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/vidio-transtv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/744
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Trans7
+http://bonev2.xyz:80/playlist/usee-trans7-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/vidio-trans7-Banyuwangi1122.m3u8
 http://newbonetv.xyz:443/m3u/usee-trans7-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/vidio-trans7-new-bonetv.m3u8
@@ -48,18 +49,18 @@ https://bonev2.xyz:443/playlist/usee-net-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/usee-net-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/749
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",SCTV
-https://newbonetv.xyz:443/m3u/usee-sctv-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/usee-sctv-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-sctv-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/vidio-sctv-new-bonetv.m3u8
 http://bonetv.site:55555/bone/streaming/750
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Indosiar
+http://bonev2.xyz:80/playlist/usee-indosiar-new-bonetv.m3u8
 https://newbonetv.xyz:443/m3u/vidio-indosiar-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/vidio-indosiar-new-bonetv.m3u8
-http://bonev2.xyz:80/playlist/usee-indosiar-new-bonetv.m3u8
 http://bonetv.site:55555/bone/streaming/751
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",JTV
-https://newbonetv.xyz:443/m3u/usee-jtv-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/usee-jtv-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-jtv-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",MAGNA
 http://bonev2.xyz:80/playlist/plus-magna-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",RTV
@@ -68,41 +69,41 @@ http://bonev2.xyz:80/playlist/vidio-rtv-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",TVONE 
 http://bonev2.xyz:80/playlist/yt-tvone-new-bonetv.m3u8
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",Metro TV
-https://newbonetv.xyz:443/m3u/usee-metrotv-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/usee-metrotv-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-metrotv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/752
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",KOMPASTV
-https://newbonetv.xyz:443/m3u/usee-kompastv-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/usee-kompastv-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-kompastv-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",CNBC INDONESIA 
-https://newbonetv.xyz:443/m3u/usee-cnbcindonesia-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/usee-cnbcindonesia-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-cnbcindonesia-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="Metro.pl" group-title="UseetvAll",CNN INDONESIA 
-https://newbonetv.xyz:443/m3u/usee-cnnindonesia-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/usee-cnnindonesia-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-cnnindonesia-Banyuwangi1122.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Berita Satu
-https://newbonetv.xyz:443/m3u/usee-beritasatu-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/usee-beritasatu-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-beritasatu-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/754
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",Jak TV
-https://newbonetv.xyz:443/m3u/usee-jaktv-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/usee-jaktv-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-jaktv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/757
 http://bonetv.site:55555/bone/streaming/758
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",MYTV
 https://newbonetv.xyz:443/m3u/usee-mytv-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/vidio-mytv-new-bonetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",DAAI TV
-https://newbonetv.xyz:443/m3u/usee-daaitv-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/usee-daaitv-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-daaitv-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/759
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",ANTARA
-https://newbonetv.xyz:443/m3u/usee-antara-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/usee-antara-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-antara-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/763
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",RRI NET
-https://newbonetv.xyz:443/m3u/usee-rrinet-Banyuwangi1122.m3u8
 http://bonev2.xyz:80/playlist/usee-rrinet-new-bonetv.m3u8
+https://newbonetv.xyz:443/m3u/usee-rrinet-Banyuwangi1122.m3u8
 http://bonetv.site:55555/bone/streaming/769
 http://bonetv.site:55555/bone/streaming/770
 #EXTINF:0 tvg-id="ext" group-title="UseetvAll",CELESTIAL MOVIE
