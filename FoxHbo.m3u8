@@ -1,0 +1,76 @@
+#EXTINF:-1 tvg-logo="TEST" group-title="FOX",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOX",HBO HITS MAL
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOX",HBO SIG MAL
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOX",Astro Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FOX",Fox crime geo
+http://geostream.me:8080/live/lasse6/lasse6/28779.ts
+#EXTINF:0 tvg-id="ext" group-title="FOX",Fox Action movies geo
+http://geostream.me:8080/live/lasse6/lasse6/28778.ts
+#EXTINF:0 tvg-id="ext" group-title="FOX",Fox geo
+http://geostream.me:8080/live/lasse6/lasse6/28777.ts
+#EXTINF:0 tvg-id="ext" group-title="FOX",Fox Life geo
+http://geostream.me:8080/live/lasse6/lasse6/28776.ts
+#EXTINF:0 tvg-id="ext" group-title="FOX",Fox Action Movies geo
+http://geostream.me:8080/live/lasse6/lasse6/28775.ts
+#EXTINF:0 tvg-id="ext" group-title="FOX",Fox Movies geo
+http://geostream.me:8080/live/lasse6/lasse6/28774.ts
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX FAM mal
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX CRIME mal
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX LIFE mal
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX mal
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX ACTION mal
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX MOV mal
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOX",CELESTIAL CLASSIC MOVIE 
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOX",HBO
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197972
+#EXTINF:-1 tvg-logo="TEST" group-title="FOX",HBO Family
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197055
+#EXTINF:-1 tvg-logo="TEST" group-title="FOX",HBO Hits
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/196480
+#EXTINF:-1 tvg-logo="TEST" group-title="FOX",HBO RED
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/266811
+#EXTINF:-1 tvg-logo="TEST" group-title="FOX",HBO Signature
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/221948
+#EXTINF:0 tvg-id="ext" group-title="FOX",FOX, 
+http://77.247.108.18:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080.ts
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080
+http://77.247.108.18:8070/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080?token=ShUNAEFcElxEWgRSDQoFA1QEAwdXBlNfDlNaAQ9SV1AHU1RQUQVWVl4aGEZKTREDAFhpWAUVDwgABFNaB05DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUFCgQAUVEBTkMTWFNHWxAGBlBXCRZIG1wbEgRHWFANaFFcQFgABxVYDxZdW0lDXVpvAgNVVQpdG1lEUBcaEwhERRsMXxYOW05DAVhDFwBGURJcRAoMVQsbT0QCWkNfFUVMGwwTLS4VTkMGSUMAD0FdXwhEAhYQShtPRAhGaUMEREFLU1AOB0VAW0EAFUlDX1VIOQVXWgpcWhcPDltFE1sVBwkGAUFOFQ8ODVhDChNtRFkCRAIWVQwNVFFDSA==
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080
+#EXTINF:0 tvg-id="ext" group-title="FOX", Fox Action Movies, 
+http://77.247.108.18:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157608.ts
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157608
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197971
+#EXTINF:0 tvg-id="ext" group-title="FOX", Fox Crime, 
+http://77.247.108.18:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165076.ts
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165076
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165076
+#EXTINF:0 tvg-id="ext" group-title="FOX", Fox Family Movies, 
+http://77.247.108.18:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157595.ts
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157595
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157595
+#EXTINF:0 tvg-id="ext" group-title="FOX", Fox Life, 
+http://77.247.108.18:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165083.ts
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165083
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165083
+#EXTINF:0 tvg-id="ext" group-title="FOX", Fox Movies, 
+http://77.247.108.18:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165078.ts
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165078
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165078
+#EXTINF:0 tvg-id="ext" group-title="FOX", Fox Movies Action
+http://77.247.108.18:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157608.ts
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157608
+#EXTINF:0 tvg-id="ext" group-title="FOX", Fox Movies Premium
+http://77.247.108.18:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197970.ts
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197970
+
