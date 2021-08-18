@@ -1,23 +1,7 @@
 #EXTINF:-1 tvg-logo="TEST" group-title="FOX",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOX",HBO HITS MAL
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOX",HBO SIG MAL
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOX",Astro Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FOX",FOX FAM mal
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FOX",FOX CRIME mal
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FOX",FOX LIFE mal
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FOX",FOX mal
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FOX",FOX ACTION mal
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FOX",FOX MOV mal
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOX",CELESTIAL CLASSIC MOVIE 
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
